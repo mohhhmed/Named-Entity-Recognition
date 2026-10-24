@@ -1,0 +1,656 @@
+Baley	22
+Il	17
+Je	15
+Mais	13
+Gerrigel	11
+Daneel	9
+R	8
+Le	8
+Et	8
+C'est	7
+Loi	6
+Dr	5
+Oh	5
+Première	5
+J'ai	4
+La	4
+Oui	4
+Ce	4
+Dr Gerrigel	4
+Oh !	4
+Lije	3
+A	3
+Robotique	3
+Eh	3
+Elijah	3
+Tout	3
+Un	3
+Il a	3
+Eh bien,	3
+R. Daneel	3
+Le Dr	3
+Il avait	3
+Je ne	3
+Première Loi	3
+Il a dit	3
+Le Dr Gerrigel	3
+Il a dit :	3
+Qu'est-ce	2
+Sammy	2
+Asseyez-vous	2
+On	2
+De	2
+Puis	2
+Les	2
+S'il	2
+En	2
+Si	2
+Incertitude	2
+Elle	2
+Mondes	2
+Extérieurs	2
+Qu'est-ce que	2
+R. Sammy.	2
+Le commissaire	2
+R. Daneel.	2
+Tout ce	2
+Ce que	2
+Je n'ai	2
+Loi ?	2
+Elle ne	2
+Je crois	2
+Mais cela	2
+Tout ce que	2
+Je n'ai pas	2
+Première Loi ?	2
+Soudain	1
+Garçon	1
+Ca	1
+Dis-lui	1
+Fous	1
+Mille	1
+J'y	1
+Se	1
+Enderby	1
+Après	1
+Julius	1
+Washington	1
+Voyons	1
+Francis	1
+Clousarr	1
+Deux	1
+Vous	1
+Paul	1
+Gerhard	1
+Terriens	1
+D	1
+Dès	1
+Vos	1
+Cité	1
+Une	1
+L'ennui	1
+Chester	1
+Philadelphie	1
+Ne	1
+Imaginez	1
+Quelle	1
+Toutefois	1
+J'en	1
+Heisenberg	1
+Cela	1
+Frankenstein	1
+Epoque	1
+Médiévale	1
+Aucune	1
+Absolument	1
+Terre	1
+Lois	1
+Parce	1
+Nous	1
+Ainsi	1
+Pourraient-ils	1
+Ils	1
+Non	1
+Deuxième	1
+D'accord	1
+Pour	1
+Alors	1
+Terrien	1
+New	1
+York	1
+Cacher	1
+Soudain, il	1
+Garçon de	1
+Ca rapporte	1
+Lije, fit	1
+Je viens	1
+Baley en	1
+Dis-lui que	1
+C'est bon,	1
+Fous le	1
+Mais le	1
+Mille tonnerres	1
+J'y vais,	1
+Se levant	1
+Il faut	1
+Mais Enderby	1
+Enderby se	1
+Asseyez-vous, Lije.	1
+Asseyez-vous !	1
+Baley s'exécuta	1
+Julius, car	1
+Il tapota	1
+J'ai là,	1
+C'est exact,	1
+On ne	1
+De quoi	1
+De renseignements	1
+C'est un	1
+Robotique, n'est-ce	1
+J'ai complété	1
+Elijah ;	1
+Voyons cela	1
+Daneel posa	1
+Baley deux	1
+Puis le	1
+Les points	1
+Mais nul	1
+Baley, rompu	1
+La première	1
+Deux ans	1
+Vous avez	1
+Oui, Elijah.	1
+Le second	1
+Paul Gerhard.	1
+Baley jeta	1
+Tout cela	1
+Je suis	1
+S'il existe	1
+Terriens, une	1
+Il confirma	1
+D, réservée	1
+Puis il	1
+Gerrigel et	1
+R. Daneel,	1
+Daneel, par	1
+Dès qu'il	1
+Gerrigel sourit	1
+Il était	1
+Vos précautions	1
+Baley !	1
+Il s'agit	1
+J'ai besoin	1
+Cité vous	1
+Il jeta	1
+Gerrigel cessa	1
+Une agglomération	1
+L'ennui, reprit	1
+Chester à	1
+Philadelphie, ce	1
+Et puis,	1
+Ne vous	1
+A propos	1
+Gerrigel, qui	1
+Je la	1
+Imaginez que	1
+Quelle que	1
+S'il s'agissait	1
+Mais, ajouta-t-il,	1
+Baley ?	1
+Je vais	1
+Un crime	1
+Toutefois, certaines	1
+C'est pourquoi	1
+Je peux	1
+Un robot	1
+Mais, voulez-vous	1
+En quoi	1
+Gerrigel parut	1
+Baley !...	1
+Si vous	1
+Robotique, monsieur	1
+Baley, vous	1
+J'en ai,	1
+Il fallait	1
+Et l'on	1
+Baley, était	1
+Heisenberg ;	1
+Oh, c'était	1
+Baley n'en	1
+Dr Gerrigel,	1
+Gerrigel, vous	1
+Cela exige	1
+Et encore,	1
+Il aurait	1
+J'ai peine	1
+La race	1
+C'est le	1
+Le nom	1
+Première Loi.	1
+Et il	1
+Loi fondamentale	1
+Aucune, à	1
+Et j'ose	1
+Et un	1
+Loi est	1
+Absolument incapable.	1
+Il faudrait	1
+Mais, dans	1
+C'est entendu,	1
+Terre, n'est-ce	1
+Oui, bien	1
+Et dans	1
+Mondes Extérieurs,	1
+Extérieurs, en	1
+Gerrigel sembla	1
+Baley, répliqua-t-il,	1
+Mais j'ai	1
+Lois fondamentales,	1
+Parce que	1
+Nous ne	1
+Baley, sauf	1
+Ainsi, par	1
+Les objets,	1
+Il s'ensuit	1
+Je comprends	1
+Mais n'est-il	1
+Robotique des	1
+Mondes Extérieurs	1
+Extérieurs construisent	1
+Pourraient-ils construire	1
+Le savant	1
+Et pensez-vous,	1
+Baley, fit	1
+Gerrigel en	1
+Oui, vraiment,	1
+Ils peuvent	1
+Non, non	1
+C'est absolument	1
+En êtes-vous	1
+La Deuxième	1
+Deuxième loi,	1
+Daneel, donnez-moi	1
+Ce disant,	1
+Mais ce	1
+Daneel lui	1
+La voici,	1
+Un détective	1
+Baley, mais	1
+A moins	1
+Première Loi,	1
+Loi, dit	1
+Je dois	1
+Baley, que	1
+Mais je	1
+D'accord !	1
+Mais la	1
+Pour en	1
+Alors, dit	1
+Baley, veuillez	1
+Daneel se	1
+Terrien regagnant	1
+New York	1
+York à	1
+Daneel a	1
+Cacher l'arme	1
+Je m'explique.	1
+On n'a	1
+Il n'a	1
+Soudain, il se	1
+Qu'est-ce que tu	1
+Garçon de courses	1
+Le commissaire vous	1
+Lije, fit le	1
+Je viens de	1
+Baley en faisant	1
+Dis-lui que je	1
+C'est bon, c'est	1
+Fous le camp	1
+Mais le robot	1
+Le commissaire veut	1
+Mille tonnerres !	1
+J'y vais, j'y	1
+Se levant brusquement,	1
+Il faut donc,	1
+Mais Enderby se	1
+Enderby se borna	1
+Baley s'exécuta et	1
+Julius, car celuici	1
+Il tapota un	1
+J'ai là, dit-il,	1
+C'est exact, monsieur	1
+On ne m'a	1
+De quoi s'agissait-il	1
+De renseignements dont	1
+C'est un spécialiste	1
+Robotique, n'est-ce pas	1
+Eh bien, demanda-t-il	1
+J'ai complété mes	1
+Elijah ; grâce	1
+Voyons cela !	1
+R. Daneel posa	1
+Daneel posa devant	1
+Baley deux petites	1
+Puis le robot	1
+Les points possédaient	1
+Mais nul ne	1
+Baley, rompu à	1
+La première fiche	1
+Deux ans plus	1
+Vous avez vérifié	1
+Le second suspect	1
+Baley jeta un	1
+Tout cela ne	1
+Je suis certain	1
+Terriens, une organisation	1
+Il confirma aussitôt	1
+D, réservée aux	1
+Puis il conduisit	1
+Dr Gerrigel et	1
+Gerrigel et R.	1
+R. Daneel, par	1
+Daneel, par un	1
+Dès qu'il y	1
+Dr Gerrigel sourit	1
+Gerrigel sourit légèrement,	1
+Il était vêtu	1
+Il avait des	1
+Vos précautions font	1
+Il s'agit en	1
+J'ai besoin de	1
+Cité vous demande	1
+Il jeta un	1
+Gerrigel cessa de	1
+L'ennui, reprit le	1
+Chester à Philadelphie,	1
+Philadelphie, ce qui	1
+Et puis, en	1
+Ne vous faites	1
+A propos de	1
+Je ne vois	1
+Gerrigel, qui parut	1
+Je la trouve	1
+Imaginez que vous	1
+Je ne crois	1
+Quelle que soit	1
+S'il s'agissait de	1
+Mais, ajouta-t-il, gêné,	1
+Je vais vous	1
+Un crime grave	1
+Je ne suis	1
+Toutefois, certaines personnes	1
+C'est pourquoi je	1
+Je peux même	1
+Un robot ne	1
+Mais, voulez-vous me	1
+En quoi celle-ci	1
+Dr Gerrigel parut	1
+Gerrigel parut déconcerté,	1
+Eh bien, qu'avez-vous	1
+Si vous avez	1
+Baley, vous devez	1
+J'en ai, en	1
+Il avait visité,	1
+Il avait vu	1
+Il fallait plus	1
+Et l'on n'avait	1
+Baley, était la	1
+Heisenberg ; et	1
+Oh, c'était un	1
+Baley n'en disconvenait	1
+Eh bien, dans	1
+Dr Gerrigel, vous	1
+Gerrigel, vous devez	1
+Cela exige le	1
+Et encore, cette	1
+Il aurait certainement	1
+J'ai peine à	1
+Elle ne va	1
+Qu'est-ce que c'est	1
+C'est le nom	1
+Le nom est	1
+Ce que je	1
+Et il n'existe	1
+Loi fondamentale à	1
+Aucune, à ce	1
+Et j'ose dire,	1
+Et un robot	1
+Première Loi est	1
+Loi est incapable	1
+Il faudrait que	1
+Mais, dans les	1
+C'est entendu, dit	1
+Terre, n'est-ce pas	1
+Oui, bien sûr.	1
+Et dans les	1
+Mondes Extérieurs, en	1
+Extérieurs, en est-il	1
+Dr Gerrigel sembla	1
+Gerrigel sembla perdre	1
+Baley, répliqua-t-il, je	1
+Mais j'ai la	1
+Lois fondamentales, nous	1
+Parce que la	1
+Nous ne sommes	1
+Baley, sauf au	1
+Ainsi, par exemple,	1
+Il s'ensuit que	1
+Je comprends parfaitement	1
+Mais n'est-il pas	1
+Robotique des Mondes	1
+Mondes Extérieurs construisent	1
+Extérieurs construisent des	1
+Je crois que	1
+Pourraient-ils construire un	1
+Le savant haussa	1
+Je crois qu'ils	1
+Et pensez-vous, poursuivit	1
+Baley, fit Gerrigel	1
+Oui, vraiment, car	1
+Ils peuvent l'avoir	1
+Non, non !	1
+C'est absolument impossible	1
+En êtes-vous bien	1
+La Deuxième loi,	1
+Deuxième loi, nous	1
+Daneel, donnez-moi votre	1
+Ce disant, il	1
+Mais ce fut	1
+R. Daneel lui	1
+Daneel lui tendit	1
+La voici, Elijah.	1
+Un détective ne	1
+Baley, mais un	1
+A moins qu'en	1
+Première Loi, dit	1
+Loi, dit Gerrigel.	1
+Je dois vous	1
+Baley, que Daneel	1
+Mais je n'ai	1
+Mais la menace	1
+Pour en juger,	1
+Alors, dit Baley,	1
+Baley, veuillez réfléchir	1
+R. Daneel se	1
+Daneel se trouvait	1
+Terrien regagnant New	1
+New York à	1
+York à travers	1
+Daneel a pu	1
+Cacher l'arme ?	1
+On n'a jamais	1
+Elle ne peut	1
+Il n'a donc	1
+Soudain, il se rendit	1
+Qu'est-ce que tu veux	1
+Garçon de courses automatique	1
+Le commissaire vous demande,	1
+Lije, fit le robot,	1
+Je viens de le	1
+Baley en faisant signe	1
+Dis-lui que je viendrai	1
+C'est bon, c'est bon	1
+Fous le camp !	1
+Mais le robot resta	1
+Le commissaire veut vous	1
+J'y vais, j'y vais	1
+Se levant brusquement, il	1
+Il faut donc, monsieur	1
+Mais Enderby se borna	1
+Enderby se borna à	1
+Baley s'exécuta et regarda	1
+Julius, car celuici pouvait	1
+Il tapota un papier	1
+J'ai là, dit-il, un	1
+C'est exact, monsieur le	1
+On ne m'a naturellement	1
+De quoi s'agissait-il ?	1
+De renseignements dont j'ai	1
+C'est un spécialiste en	1
+Robotique, n'est-ce pas ?	1
+Eh bien, demanda-t-il rudement	1
+J'ai complété mes premières	1
+Elijah ; grâce à	1
+R. Daneel posa devant	1
+Daneel posa devant Baley	1
+Baley deux petites cartes,	1
+Puis le robot sortit	1
+Mais nul ne pouvait	1
+Baley, rompu à ce	1
+La première fiche concernait	1
+Deux ans plus tôt,	1
+Vous avez vérifié les	1
+Le second suspect se	1
+Tout cela ne vaut	1
+Je suis certain du	1
+Terriens, une organisation subversive	1
+Il confirma aussitôt des	1
+D, réservée aux entretiens	1
+Puis il conduisit le	1
+Dr Gerrigel et R.	1
+Gerrigel et R. Daneel,	1
+R. Daneel, par un	1
+Daneel, par un long	1
+Dès qu'il y eut	1
+Le Dr Gerrigel sourit	1
+Dr Gerrigel sourit légèrement,	1
+Gerrigel sourit légèrement, ce	1
+Il était vêtu avec	1
+Il avait des cheveux	1
+Vos précautions font de	1
+Il s'agit en effet	1
+J'ai besoin de renseignements	1
+Tout ce que nous	1
+Cité vous demande de	1
+Il jeta un coup	1
+L'ennui, reprit le savant,	1
+Chester à Philadelphie, ce	1
+Philadelphie, ce qui m'a	1
+Et puis, en arrivant,	1
+Ne vous faites pas	1
+A propos de votre	1
+Je ne vois pas	1
+Gerrigel, qui parut très	1
+Je la trouve fort	1
+Imaginez que vous soyez	1
+Je ne crois pas...	1
+Quelle que soit l'importance	1
+S'il s'agissait de sauver	1
+Je vais vous la	1
+Un crime grave a	1
+Je ne suis pas	1
+Toutefois, certaines personnes prétendent	1
+C'est pourquoi je vous	1
+Je peux même vous	1
+Un robot ne peut	1
+Mais, voulez-vous me dire,	1
+En quoi celle-ci serait-elle	1
+Le Dr Gerrigel parut	1
+Dr Gerrigel parut déconcerté,	1
+Gerrigel parut déconcerté, et	1
+Eh bien, qu'avez-vous à	1
+Si vous avez quelques	1
+Baley, vous devez savoir	1
+J'en ai, en effet,	1
+Il avait visité, pour	1
+Il avait vu la	1
+Il fallait plus d'une	1
+Baley, était la conséquence	1
+Heisenberg ; et il	1
+Oh, c'était un travail	1
+Baley n'en disconvenait pas	1
+Eh bien, dans ce	1
+Dr Gerrigel, vous devez	1
+Cela exige le concours	1
+Et encore, cette somme	1
+Il aurait certainement pu	1
+J'ai peine à le	1
+Elle ne va pas	1
+Qu'est-ce que c'est que	1
+C'est le nom du	1
+Le nom est resté	1
+Je n'ai pas lu	1
+Ce que je peux	1
+Et il n'existe aucune	1
+Loi fondamentale à l'étude,	1
+Aucune, à ce que	1
+Et j'ose dire, ajouta	1
+Et un robot conforme	1
+Première Loi est incapable	1
+Loi est incapable de	1
+Il faudrait que ce	1
+Mais, dans les deux	1
+C'est entendu, dit Baley.	1
+Tout ce que vous	1
+Terre, n'est-ce pas ?	1
+Et dans les Mondes	1
+Mondes Extérieurs, en est-il	1
+Extérieurs, en est-il de	1
+Le Dr Gerrigel sembla	1
+Dr Gerrigel sembla perdre	1
+Gerrigel sembla perdre un	1
+Baley, répliqua-t-il, je ne	1
+Parce que la forme	1
+Nous ne sommes pas	1
+Baley, sauf au point	1
+Ainsi, par exemple, une	1
+Il s'ensuit que l'on	1
+Je comprends parfaitement ce	1
+Mais n'est-il pas vrai	1
+Robotique des Mondes Extérieurs	1
+Mondes Extérieurs construisent des	1
+Extérieurs construisent des robots	1
+Je crois que c'est	1
+Pourraient-ils construire un robot	1
+Le savant haussa les	1
+Je crois qu'ils le	1
+Et pensez-vous, poursuivit impitoyablement	1
+Baley, fit Gerrigel en	1
+Oui, vraiment, car il	1
+Ils peuvent l'avoir oubliée	1
+C'est absolument impossible !	1
+En êtes-vous bien sûr	1
+La Deuxième loi, nous	1
+Deuxième loi, nous pouvons	1
+Ce disant, il ne	1
+R. Daneel lui tendit	1
+Daneel lui tendit le	1
+Un détective ne doit	1
+Baley, mais un robot	1
+A moins qu'en exécutant	1
+Première Loi, dit Gerrigel.	1
+Je dois vous apprendre,	1
+Mais je n'ai pas	1
+Mais la menace elle-même	1
+Pour en juger, fit	1
+Alors, dit Baley, veuillez	1
+Baley, veuillez réfléchir à	1
+R. Daneel se trouvait	1
+Daneel se trouvait sur	1
+Terrien regagnant New York	1
+New York à travers	1
+York à travers la	1
+Daneel a pu cacher	1
+On n'a jamais trouvé	1
+Elle ne peut pourtant	1
+Il n'a donc pu	1

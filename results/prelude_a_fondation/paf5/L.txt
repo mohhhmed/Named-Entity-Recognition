@@ -1,0 +1,938 @@
+Je	28
+Dors	26
+Il	23
+Leggen	22
+Seldon	13
+Mais	13
+Benastra	11
+Vous	9
+Hari	8
+Couverture	8
+Et	8
+Elle	8
+J'ai	7
+Je ne	7
+Jenarr	6
+Ce	6
+Le	5
+Un	5
+Oui	5
+C'est	5
+La	4
+Venabili	4
+Clowzia	4
+Je vous	4
+Absolument	3
+Pourquoi	3
+Alors	3
+Non	3
+Ça	3
+Les	3
+On	3
+Nous	3
+Bien	3
+A	3
+Quand	3
+Que	2
+Eh	2
+Comment	2
+Pas	2
+Rien	2
+Tout	2
+En	2
+Puisque	2
+Sur	2
+Si	2
+Tous	2
+Puis	2
+Êtes-vous	2
+Une	2
+Qu'est-ce	2
+D'une	2
+Finalement	2
+Ils	2
+Dans	2
+Trantor	2
+Après	2
+Dors Venabili	2
+Le docteur	2
+Il est	2
+Absolument pas.	2
+Couverture ?	2
+Il avait	2
+Il était	2
+Dors l'interrompit.	2
+Mais il	2
+Il n'était	2
+Leggen lui	2
+Et il	2
+Ça, je	2
+Benastra :	2
+Pourquoi ?	2
+J'ai un	2
+Ce sont	2
+Qu'est-ce que	2
+Bien sûr.	2
+Je suis	2
+Quand ils	2
+Elle se	2
+Je veux	2
+Après tout,	2
+Mais il doit	2
+Il n'était pas	2
+Leggen lui avait	2
+Ça, je le	2
+Benastra : "	2
+Je vous en	2
+Ce sont des	2
+Je veux dire,	2
+Sauvetage	1
+Ses	1
+Controverse	1
+De	1
+Toujours	1
+Encyclopaedia	1
+Galactica	1
+Mon	1
+L'autre	1
+Héliconien	1
+Pendant	1
+Vraiment	1
+Naturellement	1
+Allons	1
+Surprise	1
+Moi	1
+Pour	1
+Courant	1
+Sous	1
+L'appareillage	1
+L'impact	1
+D'accord	1
+Pouvez-vous	1
+Perplexité	1
+J'en	1
+Parfait	1
+Allez-y	1
+Juste	1
+Restez	1
+L'écran	1
+Du	1
+Pourrait-il	1
+Université	1
+Ou	1
+Furieux	1
+Avez-vous	1
+Est-ce	1
+Illico	1
+L'idée	1
+Savez-vous	1
+J'arrive	1
+Suivez-moi	1
+S'il	1
+Donnez-moi	1
+Soulevez-le	1
+Ensuite	1
+Souvenez-vous-en	1
+Inutile	1
+Encore	1
+Endormie	1
+Notant	1
+Laquelle	1
+Ah	1
+Manifestement	1
+L'heure	1
+Aucun	1
+L'homme	1
+Elles	1
+Sauf	1
+Franchement	1
+J'espère	1
+Excusez-moi	1
+Bon	1
+Détendez-vous	1
+Cela	1
+Parce	1
+Notre	1
+L'argent	1
+Réunis	1
+Docteur	1
+Sans	1
+J'avais	1
+Leggen, Jenarr.	1
+Ses contributions	1
+Controverse Leggen.	1
+Que ses	1
+Seldon est	1
+De part	1
+Toujours est-il	1
+Encyclopaedia Galactica	1
+La nuit	1
+Jenarr Leggen.	1
+Il répondit	1
+Eh bien,	1
+Leggen, qui	1
+Comment était	1
+Mon étudiant	1
+Vous a-t-il	1
+Leggen retira	1
+L'autre Héliconien,	1
+Héliconien, là	1
+Pas intéressé	1
+Il n'arrêtait	1
+Un vrai	1
+Pourquoi vouliez-vous	1
+Vous étiez	1
+Hari Seldon,	1
+Seldon, sur	1
+Oui, répondit	1
+Clowzia en	1
+Rien ne	1
+Tout a	1
+Leggen me	1
+Le temps	1
+Alors, vous	1
+Leggen m'a	1
+Mais je	1
+Clowzia parut	1
+Vraiment ?	1
+Non, il	1
+Dors, avec	1
+Et s'il	1
+C'est impossible.	1
+Il n'y	1
+Naturellement, on	1
+Alors, que	1
+Oui, seulement	1
+Absolument rien.	1
+En tout	1
+Dors, à	1
+Vous ne	1
+Clowzia, nerveuse,	1
+Il faisait	1
+Allons quand	1
+Mais c'est	1
+Couverture du	1
+Il va	1
+Il s'agit	1
+Je dois	1
+Couverture ces	1
+Surprise de	1
+Il ne	1
+Je l'aurais	1
+Les sismographes	1
+Moi non	1
+Pour ça,	1
+Je parle	1
+Ce n'est	1
+C'est une	1
+J'ai dit	1
+Mais enfin,	1
+Il se	1
+Il s'essuya	1
+Courant à	1
+Dors, ils	1
+Dors, qui	1
+Il faut	1
+Sous les	1
+Le sismographe	1
+Mais comment	1
+Couverture à	1
+L'appareillage est	1
+L'impact d'un	1
+Nous pouvons	1
+Nous pouvons...	1
+D'accord, d'accord	1
+Elle n'était	1
+Pouvez-vous détecter	1
+Les pas	1
+Perplexité de	1
+Sur la	1
+C'est peu	1
+Bien sûr	1
+Un groupe	1
+J'en doute.	1
+Les résultats	1
+Eh bien	1
+Vous pouvez,	1
+Si je	1
+Allez-y !	1
+Tous deux	1
+Vous voyez	1
+A nouveau,	1
+Quand les	1
+Il y	1
+Juste un	1
+Et quand	1
+Benastra prit	1
+Dors pinça	1
+Puis elle	1
+Êtes-vous en	1
+Oui, là	1
+Puis, incrédule	1
+Vous voulez	1
+Un par	1
+Restez sur	1
+Mais continuez	1
+Une personne	1
+Benastra hocha	1
+L'écran changea	1
+Dors s'écria	1
+Elle pointait	1
+Du bruit.	1
+C'est périodique.	1
+Pourrait-il s'agir	1
+Mais ce	1
+D'une manière	1
+Hari parce	1
+Et bien	1
+Ou pire,	1
+Furieux, Jenarr	1
+Jenarr se	1
+Mais Dors	1
+Il m'a	1
+Je n'ai	1
+Est-ce que	1
+Illico ?	1
+L'idée vous	1
+Jenarr, les	1
+Savez-vous ce	1
+La démission	1
+Pas l'homicide.	1
+Et vous,	1
+Jenarr rougit,	1
+J'arrive, mais	1
+Tous trois	1
+Leggen n'avait	1
+Benastra n'avait	1
+Venabili n'avait	1
+Elle portait	1
+Leggen, les	1
+Un vent	1
+Vous allez	1
+Dors avec	1
+Je vais	1
+On ne	1
+S'il ne	1
+En fait,	1
+On peut	1
+Elle était	1
+Finalement, ce	1
+Benastra qui,	1
+Dors superposa	1
+Ils l'avaient	1
+Dors lui	1
+Seldon s'agita	1
+Donnez-moi la	1
+Benastra ",	1
+Elle l'ouvrit	1
+Soulevez-le délicatement,	1
+Ensuite, on	1
+Dans l'ascenseur,	1
+Dors reprit	1
+Une fois	1
+Leggen, vous	1
+Si le	1
+Seldon s'en	1
+Inutile de	1
+Leggen, glacial.	1
+Je regrette	1
+La couverture	1
+Benastra sursauta	1
+Seldon avait	1
+Il essaie	1
+Le second	1
+Seldon remua,	1
+D'une voix	1
+Encore là,	1
+Dors ?	1
+Elle reposa	1
+Et je	1
+J'ai l'impression	1
+Êtes-vous restée	1
+Endormie ou	1
+Mais vos	1
+Dors se	1
+Notant son	1
+Hari, que	1
+J'ai eu	1
+J'ai une	1
+Laquelle, Hari	1
+Hari ?	1
+J'ai cru	1
+Un complot	1
+Couverture, où	1
+Mais la	1
+Couverture n'est	1
+Sur Trantor,	1
+Trantor, la	1
+Ah, j'ignorais.	1
+Mais vous	1
+Tout le	1
+Dors, prudemment.	1
+Clowzia était	1
+La jeune	1
+Ce même	1
+Jenarr Leggen	1
+Leggen vint	1
+L'heure du	1
+Dors et	1
+Seldon, comme	1
+Aucun des	1
+L'homme ne	1
+Finalement, il	1
+Seldon :	1
+Elles sont	1
+Sauf que	1
+Venabili me	1
+Il sourit.	1
+Franchement, ça	1
+Leggen inspira	1
+Je comprends	1
+Je tiens	1
+Je n'aurais	1
+J'espère que	1
+C'est vraiment	1
+Seldon bâilla,	1
+Puisque, apparemment,	1
+Dans un	1
+Dors l'interrompit	1
+Bon, Hari,	1
+Hari, je	1
+Détendez-vous, c'est	1
+A présent,	1
+Leggen juste	1
+Et tout	1
+Leggen, je	1
+Seldon se	1
+Parce que,	1
+Trantor possèdent	1
+Notre propre	1
+Ce serait	1
+Mais nous	1
+Il serait	1
+L'argent et	1
+Vous savez	1
+Je le	1
+Nous avons	1
+Réunis, les	1
+Seldon intervint,	1
+Alors, ils	1
+Oui, confirma	1
+Que pouvaient-ils	1
+Dors plissa	1
+Ça se	1
+A quelle	1
+Leggen secoua	1
+Docteur Venabili,	1
+Venabili, comment	1
+Je pensais	1
+Sans aucun	1
+J'avais mon	1
+Ses contributions à	1
+Que ses actes	1
+Seldon est indiscutable,	1
+De part et	1
+Toujours est-il que	1
+La nuit n'était	1
+Il répondit à	1
+Eh bien, fit-elle	1
+Leggen, qui était	1
+Comment était qui	1
+Mon étudiant de	1
+Le docteur Hari	1
+Il est monté	1
+Vous a-t-il été	1
+Leggen retira les	1
+L'autre Héliconien, là	1
+Héliconien, là ?	1
+Pas intéressé le	1
+Il n'arrêtait pas	1
+Un vrai excentrique.	1
+Pourquoi vouliez-vous donc	1
+Vous étiez avec	1
+Hari Seldon, sur	1
+Seldon, sur la	1
+Oui, répondit Clowzia	1
+Clowzia en haussant	1
+Il avait envie	1
+Rien ne lui	1
+Tout a l'air	1
+Leggen me rappelle.	1
+Il était d'une	1
+Le temps n'allait	1
+Alors, vous n'avez	1
+Je ne l'ai	1
+Mais je ne	1
+Clowzia parut troublée.	1
+Non, il ne	1
+Dors, avec une	1
+Et s'il était	1
+Il n'y était	1
+Naturellement, on l'a	1
+Et il avait	1
+Alors, que pouvait-il	1
+Oui, seulement personne	1
+En tout cas,	1
+Il était parfaitement	1
+Dors, à présent	1
+Vous ne croyez	1
+Je vous ai	1
+Clowzia, nerveuse, qu'on	1
+Il faisait encore	1
+Allons quand même	1
+Mais c'est que	1
+Couverture du dôme.	1
+Il va falloir	1
+Il s'agit d'une	1
+Je dois avoir	1
+Couverture ces dernières	1
+Surprise de Benastra	1
+Il ne s'est	1
+Je l'aurais su,	1
+Les sismographes nous	1
+Je ne parle	1
+Moi non plus.	1
+Pour ça, on	1
+Je parle d'éboulis,	1
+Ce n'est pas	1
+C'est une question	1
+J'ai un dîner	1
+J'ai dit une	1
+Mais enfin, je	1
+Il se tut	1
+Il s'essuya le	1
+Courant à moitié,	1
+Dors, ils se	1
+Dors, qui ne	1
+Il faut descendre	1
+Sous les niveaux	1
+Le sismographe doit	1
+Mais comment pouvez-vous	1
+Couverture à partir	1
+L'appareillage est raccordé	1
+L'impact d'un grain	1
+D'accord, d'accord ",	1
+Elle n'était pas	1
+Pouvez-vous détecter les	1
+Les pas d'un	1
+Perplexité de Benastra.	1
+C'est peu probable.	1
+Bien sûr que	1
+Un groupe de	1
+Les résultats ne	1
+Eh bien alors,	1
+Vous pouvez, disons,	1
+Si je le	1
+Tous deux examinèrent	1
+Vous voyez :	1
+A nouveau, un	1
+Quand les pas	1
+Il y a	1
+Juste un peu	1
+Et quand ils	1
+Benastra prit un	1
+Je ne saurais	1
+Je ne crois	1
+Dors pinça les	1
+Puis elle demanda	1
+Oui, là où	1
+Puis, incrédule :	1
+Un par un	1
+Restez sur celui-ci.	1
+Mais continuez d'avancer	1
+Une personne est	1
+Benastra hocha la	1
+L'écran changea encore	1
+Dors s'écria :	1
+Elle pointait le	1
+Je ne sais	1
+Pourrait-il s'agir des	1
+Mais ce pourrait	1
+Hari parce que	1
+Et bien sûr,	1
+Ou pire, puisque	1
+Furieux, Jenarr se	1
+Jenarr se tourna	1
+Mais Dors l'interrompit.	1
+Il m'a dit	1
+Je n'ai pas	1
+Est-ce que vous	1
+L'idée vous a-t-elle	1
+Jenarr, les lèvres	1
+Savez-vous ce que	1
+La démission est	1
+Je suis prête	1
+Et vous, êtes-vous	1
+Jenarr rougit, plus	1
+J'arrive, mais je	1
+Tous trois prirent	1
+Leggen n'avait mangé	1
+Benastra n'avait pas	1
+Dors Venabili n'avait	1
+Venabili n'avait pas	1
+Elle portait une	1
+Quand ils furent	1
+Leggen, les mâchoires	1
+Un vent glacé	1
+Vous allez devoir	1
+Dors avec fermeté.	1
+Je vais tourner	1
+On ne voit	1
+S'il ne neigeait	1
+En fait, ça	1
+On peut supporter	1
+Elle était loin	1
+Elle se mit	1
+Finalement, ce fut	1
+Benastra qui, le	1
+Qu'est-ce que c'est	1
+Dors superposa les	1
+Ils l'avaient retrouvé,	1
+Dors lui tâta	1
+Seldon s'agita et	1
+Donnez-moi la couverture,	1
+Benastra ", dit	1
+Elle l'ouvrit d'un	1
+Soulevez-le délicatement, que	1
+Ensuite, on le	1
+Dans l'ascenseur, une	1
+Dors reprit :	1
+Une fois que	1
+Leggen, vous allez	1
+Si le docteur	1
+Seldon s'en tire	1
+Inutile de me	1
+Je regrette ce	1
+La couverture s'agita	1
+Benastra sursauta car	1
+Seldon avait la	1
+Il essaie de	1
+Le second matin,	1
+Seldon remua, s'éveilla	1
+D'une voix presque	1
+Elle reposa son	1
+Je ne peux	1
+Et je ne	1
+J'ai l'impression que,	1
+Êtes-vous restée ici	1
+Endormie ou éveillée,	1
+Mais vos cours	1
+J'ai un assistant	1
+Dors se pencha	1
+Hari, que s'est-il	1
+J'ai eu une	1
+J'ai une confession	1
+Laquelle, Hari ?	1
+J'ai cru un	1
+Un complot ?	1
+Couverture, où je	1
+Mais la Couverture	1
+Couverture n'est pas	1
+Sur Trantor, la	1
+Trantor, la juridiction	1
+Mais vous n'étiez	1
+Tout le monde	1
+Clowzia était du	1
+La jeune interne	1
+Ce même soir,	1
+Jenarr Leggen vint	1
+Leggen vint leur	1
+L'heure du dîner	1
+Seldon, comme s'il	1
+Aucun des deux	1
+L'homme ne leur	1
+Finalement, il dit	1
+Seldon : "	1
+Je suis venu	1
+Elles sont très	1
+Sauf que je	1
+Le docteur Venabili	1
+Venabili me dit	1
+Franchement, ça ne	1
+Leggen inspira un	1
+Je ne vais	1
+Je comprends parfaitement	1
+Je tiens à	1
+Je n'aurais pas	1
+J'espère que vous	1
+C'est vraiment tout	1
+Seldon bâilla, la	1
+Puisque, apparemment, tout	1
+Dans un sens,	1
+Dors l'interrompit :	1
+Bon, Hari, je	1
+Hari, je vous	1
+Détendez-vous, c'est tout.	1
+A présent, j'aimerais	1
+Leggen juste avant	1
+Et tout d'abord,	1
+Leggen, je comprends	1
+Je vous avais	1
+Seldon se remettait	1
+Parce que, chère	1
+Trantor possèdent des	1
+Ce serait utile.	1
+Mais nous ne	1
+Il est par	1
+Il serait stupide	1
+L'argent et le	1
+Après tout, il	1
+Et il ajouta,	1
+Vous savez cela,	1
+Je le sais,	1
+Nous avons annoncé	1
+Réunis, les résultats	1
+Seldon intervint, d'une	1
+Oui, confirma Leggen.	1
+Que pouvaient-ils faire	1
+Dors plissa les	1
+Ça se tient.	1
+Leggen secoua la	1
+Docteur Venabili, comment	1
+Je pensais que	1
+Sans aucun doute,	1
+J'avais mon boulot	1
+Quand ils publieront	1
+Ses contributions à la	1
+Que ses actes aient	1
+Seldon est indiscutable, mais	1
+De part et d'autre,	1
+Toujours est-il que les	1
+La nuit n'était pas	1
+Il répondit à son	1
+Eh bien, fit-elle avec	1
+Leggen, qui était occupé	1
+Comment était qui ?	1
+Mon étudiant de la	1
+Il est monté avec	1
+Vous a-t-il été d'une	1
+Leggen retira les mains	1
+L'autre Héliconien, là ?	1
+Il n'arrêtait pas de	1
+Pourquoi vouliez-vous donc l'expédier	1
+Vous étiez avec Hari	1
+Hari Seldon, sur la	1
+Seldon, sur la Couverture	1
+Oui, répondit Clowzia en	1
+Clowzia en haussant les	1
+Il avait envie de	1
+Rien ne lui échappe,	1
+Tout a l'air de	1
+Le temps n'allait pas	1
+Alors, vous n'avez pas	1
+Je ne l'ai pas	1
+Mais il doit certainement	1
+Il n'était pas là-haut	1
+Mais je ne le	1
+Mais il doit quand	1
+Non, il ne doit	1
+Et s'il était toujours	1
+Il n'y était pas.	1
+Leggen lui avait montré	1
+Il n'était pas vêtu	1
+Leggen lui avait dit,	1
+Et il avait froid.	1
+Ça, je le sais	1
+Oui, seulement personne ne	1
+En tout cas, pas	1
+Il était parfaitement bien	1
+Dors, à présent franchement	1
+Vous ne croyez pas	1
+Je vous ai dit,	1
+Clowzia, nerveuse, qu'on avait	1
+Il faisait encore jour	1
+Allons quand même jeter	1
+Mais c'est que je	1
+Il va falloir que	1
+Il s'agit d'une urgence.	1
+Je dois avoir les	1
+Couverture ces dernières heures.	1
+Surprise de Benastra :	1
+Benastra : " Pourquoi	1
+Il ne s'est rien	1
+Je l'aurais su, autrement.	1
+Je ne parle pas	1
+Pour ça, on n'a	1
+Je parle d'éboulis, de	1
+Ce n'est pas ça,	1
+Je vous en prie	1
+C'est une question de	1
+J'ai un dîner de	1
+J'ai dit une question	1
+Mais enfin, je ne	1
+Il se tut soudain	1
+Il s'essuya le visage,	1
+Courant à moitié, impitoyablement	1
+Dors, qui ne le	1
+Il faut descendre ?	1
+Sous les niveaux habités,	1
+Mais comment pouvez-vous savoir	1
+Couverture à partir de	1
+L'appareillage est raccordé à	1
+D'accord, d'accord ", s'impatienta	1
+Pouvez-vous détecter les pas	1
+Les pas d'un homme	1
+Bien sûr que si.	1
+Un groupe de météorologues	1
+Ce sont des vibrations	1
+Les résultats ne seraient	1
+Eh bien alors, avancez	1
+Vous pouvez, disons, lire	1
+Si je le fais,	1
+Tous deux examinèrent l'écran	1
+Vous voyez : il	1
+A nouveau, un trait	1
+Quand les pas ont-ils	1
+Il y a deux	1
+Juste un peu avant.	1
+Et quand ils ont	1
+Benastra prit un air	1
+Je ne crois pas	1
+Dors pinça les lèvres.	1
+Puis elle demanda :	1
+Oui, là où sont	1
+Puis, incrédule : "	1
+Un par un ?	1
+Mais continuez d'avancer par	1
+Une personne est peut-être	1
+Benastra hocha la tête	1
+L'écran changea encore et	1
+Dors s'écria : "	1
+Elle pointait le doigt.	1
+Je ne sais pas.	1
+Pourrait-il s'agir des pas	1
+Mais ce pourrait être	1
+Hari parce que vous	1
+Et bien sûr, s'il	1
+Ou pire, puisque je	1
+Furieux, Jenarr se tourna	1
+Jenarr se tourna vers	1
+Benastra : " Avez-vous	1
+Il m'a dit ce	1
+Je n'ai pas l'intention	1
+Est-ce que vous venez	1
+L'idée vous a-t-elle effleurée	1
+Jenarr, les lèvres pincées.	1
+Savez-vous ce que je	1
+La démission est valable	1
+Je suis prête à	1
+Et vous, êtes-vous prêt	1
+Jenarr rougit, plus peut-être	1
+J'arrive, mais je serai	1
+Tous trois prirent l'ascenseur	1
+Leggen n'avait mangé qu'une	1
+Benastra n'avait pas dîné	1
+Dors Venabili n'avait pas	1
+Elle portait une couverture	1
+Quand ils furent parvenus	1
+Leggen, les mâchoires crispées,	1
+Un vent glacé se	1
+Vous allez devoir y	1
+Je vais tourner autour	1
+On ne voit pas	1
+Ça, je le sais.	1
+S'il ne neigeait pas,	1
+En fait, ça peut	1
+On peut supporter ça.	1
+Elle était loin d'éprouver	1
+Elle se mit à	1
+Finalement, ce fut Benastra	1
+Benastra qui, le premier,	1
+Qu'est-ce que c'est ?	1
+Dors superposa les deux	1
+Ils l'avaient retrouvé, blotti	1
+Dors lui tâta le	1
+Seldon s'agita et gémit.	1
+Donnez-moi la couverture, docteur	1
+Benastra ", dit Dors	1
+Elle l'ouvrit d'un geste	1
+Soulevez-le délicatement, que je	1
+Ensuite, on le redescendra.	1
+Dans l'ascenseur, une vapeur	1
+Dors reprit : "	1
+Une fois que nous	1
+Leggen, vous allez me	1
+Seldon s'en tire sans	1
+Inutile de me faire	1
+Je regrette ce qui	1
+La couverture s'agita et	1
+Benastra sursauta car Seldon	1
+Seldon avait la tête	1
+Il essaie de nous	1
+Le second matin, Seldon	1
+Seldon remua, s'éveilla et	1
+D'une voix presque normale,	1
+Elle reposa son vidéo-livre.	1
+Je ne peux pas	1
+Et je ne me	1
+J'ai l'impression que, chaque	1
+Êtes-vous restée ici tout	1
+Endormie ou éveillée, oui.	1
+Mais vos cours ?	1
+J'ai un assistant qui	1
+Dors se pencha pour	1
+Hari, que s'est-il passé	1
+J'ai eu une telle	1
+J'ai une confession à	1
+J'ai cru un moment	1
+Je veux dire, pour	1
+Couverture, où je me	1
+Mais la Couverture n'est	1
+Couverture n'est pas en	1
+Sur Trantor, la juridiction	1
+Trantor, la juridiction des	1
+Mais vous n'étiez pas	1
+Je vous en prie,	1
+Ce sont des gens	1
+Je veux dire, ils	1
+Clowzia était du même	1
+La jeune interne ?	1
+Ce même soir, Jenarr	1
+Jenarr Leggen vint leur	1
+Leggen vint leur rendre	1
+L'heure du dîner était	1
+Seldon, comme s'il ne	1
+Aucun des deux ne	1
+Finalement, il dit à	1
+Seldon : " Je	1
+Je suis venu prendre	1
+Elles sont très bonnes,	1
+Sauf que je me	1
+Le docteur Venabili me	1
+Venabili me dit qu'à	1
+Franchement, ça ne me	1
+Leggen inspira un grand	1
+Je comprends parfaitement que	1
+Je tiens à vous	1
+Je n'aurais pas dû	1
+J'espère que vous aurez	1
+C'est vraiment tout ce	1
+Seldon bâilla, la main	1
+Puisque, apparemment, tout s'est	1
+Dans un sens, ce	1
+Dors l'interrompit : "	1
+Bon, Hari, je vous	1
+Hari, je vous en	1
+Et tout d'abord, docteur	1
+Je vous avais dit	1
+Seldon se remettait sans	1
+Parce que, chère madame,	1
+Trantor possèdent des vertijets	1
+Mais nous ne sommes	1
+Il est par conséquent	1
+Il serait stupide de	1
+L'argent et le personnel	1
+Après tout, il peut	1
+Et il ajouta, ironique	1
+Vous savez cela, je	1
+Je le sais, mais	1
+Nous avons annoncé que	1
+Réunis, les résultats de	1
+Seldon intervint, d'une voix	1
+Que pouvaient-ils faire d'autre	1
+Dors plissa les yeux,	1
+Leggen secoua la tête	1
+Je pensais que chaque	1
+Sans aucun doute, mais	1
+J'avais mon boulot à	1
+Quand ils publieront leurs	1

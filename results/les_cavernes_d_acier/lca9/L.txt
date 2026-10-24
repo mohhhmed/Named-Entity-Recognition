@@ -1,0 +1,792 @@
+Baley	21
+Daneel	14
+R	11
+Il	11
+Mais	10
+Je	10
+C'est	8
+R. Daneel	8
+Et	7
+Ce	6
+Elijah	5
+Le	4
+Enderby	4
+Spaciens	4
+Cela	4
+Une	4
+Mondes	4
+Extérieurs	4
+On	4
+A	3
+Londres	3
+En	3
+Elle	3
+Dr	3
+Tout	3
+New-Yorkais	3
+Vous	3
+Spacetown	3
+Fastolfe	3
+Oh	3
+Terre	3
+Est-ce	3
+Alors	3
+Oh !	3
+Je ne	3
+Un	2
+New	2
+York	2
+Cité	2
+Dans	2
+La	2
+Sarton	2
+Car	2
+Des	2
+Lije	2
+Ca	2
+Terriens	2
+Prenez	2
+Oui	2
+J'ai	2
+New York	2
+Mais il	2
+Il avait	2
+Tout à	2
+Cela ne	2
+Lije !	2
+Je le	2
+Il se	2
+Mondes Extérieurs	2
+R. Daneel.	2
+Est-ce que	2
+L'action	1
+Trinité	1
+Dès	1
+Brighton	1
+Norwich	1
+Coventry	1
+Canterbury	1
+Angleterre	1
+Ses	1
+Parfois	1
+De	1
+Exactement	1
+Quoi	1
+Ah	1
+J'aurais	1
+Mieux	1
+Pauvre	1
+Julius	1
+Lui	1
+Quand	1
+Comme	1
+Ces	1
+Don	1
+Quichotte	1
+Tant	1
+Ecoutez	1
+Haussant	1
+Section	1
+Q	1
+Eh	1
+Ils	1
+Monsieur	1
+C	1
+Fe	1
+L'introduction	1
+Quelquefois	1
+Bien	1
+Qu'y	1
+Peut-être	1
+A-t-il	1
+Non	1
+Envoyer	1
+Terrien	1
+Saturne	1
+Combien	1
+Plus	1
+Comptez-vous	1
+Voyez-vous	1
+Médiévalistes	1
+Jessie	1
+Aussi	1
+Regardez	1
+Comment	1
+Les	1
+Washington	1
+Toronto	1
+Los	1
+Angeles	1
+Budapest	1
+Shanghai	1
+Tachkent	1
+Winnipeg	1
+Buenos	1
+Aires	1
+Shakespeare	1
+Churchill	1
+Que	1
+Connaissant	1
+Puis	1
+Mon	1
+Préfecture	1
+Police	1
+Inutile	1
+Service	1
+Pendant	1
+Jusqu'à	1
+L'employée	1
+Pas	1
+Nous	1
+DF	1
+Tandis	1
+Naturellement	1
+Surtout	1
+Par	1
+Adam	1
+S'habituait-il	1
+Si	1
+Bentley	1
+Pourquoi	1
+Chacun	1
+Compris	1
+Pour	1
+Or	1
+Un long	1
+Daneel dît	1
+Ce devait	1
+Et Baley	1
+Baley se	1
+York un	1
+Et soudain,	1
+L'action se	1
+Londres, et	1
+Le meurtrier	1
+Dans ce	1
+Trinité et	1
+Dès lors,	1
+Brighton à	1
+Norwich, et	1
+Coventry à	1
+Canterbury, s'enfonçant	1
+Cité de	1
+Londres, derniers	1
+Il marchait,	1
+Parfois il	1
+De temps	1
+Et si	1
+En effet.	1
+Mais, par	1
+Quoi ?	1
+La cérébroanalyse	1
+Ah, vraiment	1
+Baley, peu	1
+Et qu'en	1
+Elle nous	1
+Enderby, et	1
+Dr Sarton.	1
+C'est exact,	1
+Il n'est	1
+J'aurais pu	1
+Mieux valait	1
+Il va	1
+Spaciens ont	1
+Ce qui	1
+Dans ces	1
+Car nous	1
+Des millions	1
+Ce disant,	1
+Spaciens ",	1
+Pauvre Julius	1
+Julius !	1
+Lui, un	1
+Il entendait	1
+Quand Baley	1
+Baley pénétra	1
+Vous avez	1
+Spacetown, Lije	1
+Tout le	1
+Fastolfe revint	1
+Baley, et	1
+Enderby leva	1
+Comme Fastolfe	1
+Fastolfe n'a	1
+Ces Spaciens	1
+Spaciens sont	1
+Mais la	1
+Don Quichotte,	1
+Quichotte, vous	1
+Baley acquiesça	1
+Tant pis	1
+Il éprouva	1
+Ecoutez, monsieur	1
+Je désire	1
+Daneel et	1
+En voilà	1
+Le bruit	1
+C'est possible,	1
+Baley sceptique.	1
+En attendant,	1
+Haussant les	1
+Section Q.	1
+C'est tout	1
+Ca va,	1
+A propos,	1
+Daneel en	1
+Il étudie	1
+Eh bien,	1
+Ils sont	1
+Baley avait	1
+Monsieur le	1
+Dr Sarton	1
+Spacetown, concernant	1
+C/Fe ?	1
+Une civilisation	1
+L'introduction des	1
+Quelquefois, oui,	1
+Enderby qui	1
+Vous a-t-il	1
+Spacetown voulait	1
+C'est toujours	1
+Bien entendu,	1
+Qu'y avait-il	1
+Peut-être qu'un	1
+Baley attendit	1
+A-t-il jamais	1
+Des émigrations	1
+Non, jamais	1
+Envoyer un	1
+Terrien dans	1
+Extérieurs ne	1
+Je parlais	1
+Une liste	1
+Combien en	1
+Plus d'un	1
+Comptez-vous les	1
+Daneel ?	1
+Ce serait	1
+Voyez-vous, Daneel,	1
+Daneel, presque	1
+Terriens sont,	1
+Médiévalistes :	1
+Jessie, ou	1
+Prenez, par	1
+Il fut	1
+Terriens devaient	1
+Aussi reprit-il,	1
+Regardez ce	1
+Oui, répliqua	1
+J'ai déjà	1
+Je n'ai	1
+New-Yorkais en	1
+C'est un	1
+Mais Baley	1
+Baley changea	1
+Comment vous	1
+C'est une	1
+On la	1
+Je l'ai	1
+Une autre	1
+Mondes Extérieurs.	1
+C'est incroyable	1
+Car cette	1
+Cela vous	1
+Mais voyons,	1
+Extérieurs ?	1
+Alors, allons-y	1
+Les restaurants	1
+Baley qui,	1
+Washington, à	1
+Toronto, à	1
+Los Angeles,	1
+Angeles, à	1
+Londres et	1
+A l'époque	1
+Terre diverses	1
+Mais maintenant	1
+Shanghai à	1
+Tachkent, et	1
+Winnipeg à	1
+Buenos Aires	1
+Aires ;	1
+Shakespeare ou	1
+Churchill, mais	1
+Mais s'ils	1
+On y	1
+Une triple	1
+Le grouillement	1
+Baley s'avança	1
+R. Daneel,	1
+Daneel, dans	1
+Le robot,	1
+Que voulez-vous	1
+Elijah ?	1
+Connaissant l'histoire	1
+Baley comprit	1
+Elle passa	1
+Puis la	1
+Daneel ;	1
+Mon ami	1
+Vous débiterez	1
+Préfecture de	1
+Inutile de	1
+Service officiel.	1
+Elle eut	1
+Pendant combien	1
+Jusqu'à nouvel	1
+Alors, mettez	1
+Baley eut	1
+Daneel se	1
+Mais aussitôt	1
+La femme	1
+Baley respira	1
+L'employée leur	1
+Pas de	1
+Nous sommes	1
+Prenez la	1
+Tandis qu'ils	1
+Daneel dit	1
+Baley :	1
+J'ai l'impression	1
+Naturellement, ce	1
+On n'y	1
+On est	1
+Surtout pour	1
+Par exemple,	1
+Daneel avalait,	1
+Et cependant	1
+S'habituait-il donc,	1
+Et voici	1
+Dr Fastolfe.	1
+New-Yorkais partaient	1
+Bentley, par	1
+Terre un	1
+Pourquoi pas,	1
+Spaciens vivaient	1
+Elijah !	1
+Est-ce mal	1
+C'est très	1
+Ca tombe	1
+Chacun de	1
+Cela n'empêche	1
+Compris !	1
+Alors, pouvez-vous	1
+Baley posa	1
+Pour lui,	1
+Daneel tourna	1
+Je suis	1
+Et bien,	1
+Ce sont	1
+Mais croyez-vous	1
+Un long moment	1
+R. Daneel dît	1
+Daneel dît un	1
+Ce devait être	1
+Et Baley se	1
+Baley se demanda	1
+New York un	1
+York un homme	1
+Et soudain, avec	1
+L'action se déroulait	1
+Dans ce coin	1
+Mais il se	1
+Trinité et de	1
+Dès lors, il	1
+Norwich, et de	1
+Coventry à Canterbury,	1
+Canterbury, s'enfonçant toujours	1
+Londres, derniers vestiges	1
+Il avait beau	1
+Il marchait, marchait	1
+Parfois il entendait	1
+De temps à	1
+Et si vous	1
+Mais, par mesure	1
+La cérébroanalyse est	1
+Ah, vraiment ?	1
+Baley, peu enthousiaste.	1
+Et qu'en avezvous	1
+Elle nous a	1
+Enderby, et nous	1
+Tout à fait	1
+C'est exact, fit	1
+Il n'est pas	1
+J'aurais pu vous	1
+Mieux valait obtenir	1
+Il va sans	1
+Spaciens ont consenti	1
+Ce qui a,	1
+Cela ne peut	1
+Dans ces conditions,	1
+Cela ne nous	1
+Car nous pourrions	1
+Des millions !...	1
+Ce disant, il	1
+Spaciens ", et	1
+Pauvre Julius !	1
+Lui, un suspect	1
+Il entendait encore	1
+Quand Baley pénétra	1
+Baley pénétra dans	1
+Vous avez vraiment	1
+Spacetown, Lije !	1
+Tout le duel	1
+Baley, et son	1
+Je le reconnais,	1
+Enderby leva les	1
+Comme Fastolfe n'a	1
+Fastolfe n'a pas	1
+Ces Spaciens sont	1
+Spaciens sont vraiment	1
+Don Quichotte, vous	1
+Baley acquiesça de	1
+Il se désintéressait	1
+Il avait tenté	1
+Tant pis !	1
+Il éprouva une	1
+Ecoutez, monsieur le	1
+Je désire que	1
+Daneel et pour	1
+En voilà une	1
+Le bruit court	1
+Il se peut	1
+C'est possible, fit	1
+En attendant, que	1
+Haussant les épaules,	1
+C'est tout ce	1
+Ca va, dit	1
+A propos, où	1
+R. Daneel en	1
+Daneel en ce	1
+Il étudie le	1
+Eh bien, je	1
+Ils sont des	1
+Je le sais,	1
+Baley avait presque	1
+Monsieur le commissaire,	1
+Une civilisation quoi	1
+L'introduction des robots	1
+Quelquefois, oui, dit	1
+Enderby qui ne	1
+Vous a-t-il expliqué	1
+Spacetown voulait en	1
+C'est toujours la	1
+Bien entendu, j'ai	1
+Qu'y avait-il d'autre	1
+Peut-être qu'un jour...	1
+Baley attendit la	1
+A-t-il jamais fait	1
+Des émigrations ?	1
+Non, jamais !	1
+Envoyer un Terrien	1
+Mondes Extérieurs ne	1
+Extérieurs ne serait	1
+Je parlais d'émigration	1
+Une liste d'hommes	1
+Combien en avez-vous	1
+Plus d'un million,	1
+Comptez-vous les contrôler	1
+Ce serait évidemment	1
+Voyez-vous, Daneel, presque	1
+Daneel, presque tous	1
+Terriens sont, d'une	1
+Médiévalistes : ainsi,	1
+Jessie, ou moi-même.	1
+Prenez, par exemple,	1
+Il fut sur	1
+Terriens devaient se	1
+Aussi reprit-il, après	1
+Regardez ce qu'il	1
+Oui, répliqua R.	1
+J'ai déjà remarqué	1
+Je n'ai vu	1
+New-Yorkais en porter.	1
+C'est un objet	1
+Est-ce que cela	1
+Mais Baley changea	1
+Baley changea brusquement	1
+Comment vous êtes-vous	1
+C'est une machine	1
+On la règle	1
+Je l'ai donc	1
+Une autre machine	1
+C'est incroyable ce	1
+Car cette machine-là	1
+Cela vous stupéfie	1
+Mais voyons, vous	1
+Mondes Extérieurs ?	1
+Alors, allons-y !	1
+Les restaurants communautaires	1
+Baley qui, pour	1
+Washington, à Toronto,	1
+Toronto, à Los	1
+Los Angeles, à	1
+Angeles, à Londres	1
+Londres et à	1
+Terre diverses langues,	1
+Mais maintenant les	1
+Shanghai à Tachkent,	1
+Tachkent, et de	1
+Winnipeg à Buenos	1
+Buenos Aires ;	1
+Aires ; quant	1
+Shakespeare ou de	1
+Mais s'ils ne	1
+Une triple queue	1
+Le grouillement de	1
+Baley s'avança pas	1
+Tout à coup,	1
+R. Daneel, dans	1
+Daneel, dans un	1
+Est-ce que vous	1
+Le robot, qui	1
+Que voulez-vous dire,	1
+Connaissant l'histoire en	1
+Baley comprit pourquoi	1
+Elle passa les	1
+Puis la femme	1
+R. Daneel ;	1
+Daneel ; mais	1
+Mon ami n'est	1
+Vous débiterez la	1
+Inutile de donner	1
+Elle eut un	1
+Pendant combien de	1
+Jusqu'à nouvel ordre.	1
+Alors, mettez vos	1
+Baley eut un	1
+R. Daneel se	1
+Daneel se poser	1
+Mais aussitôt il	1
+La femme reprit	1
+Baley respira plus	1
+L'employée leur remit	1
+Pas de menu	1
+Nous sommes à	1
+Prenez la table	1
+Tandis qu'ils gagnaient	1
+R. Daneel dit	1
+Daneel dit à	1
+J'ai l'impression que	1
+Naturellement, ce n'est	1
+On n'y connaît	1
+On est toujours	1
+Surtout pour les	1
+R. Daneel avalait,	1
+Daneel avalait, on	1
+Et cependant le	1
+S'habituait-il donc, en	1
+Et voici qu'il	1
+New-Yorkais partaient pour	1
+Terre un jour,	1
+Pourquoi pas, puisque	1
+Spaciens vivaient euxmêmes	1
+Est-ce mal élevé	1
+C'est très mal	1
+Ca tombe sous	1
+Chacun de nous	1
+Cela n'empêche pas	1
+Alors, pouvez-vous me	1
+Baley posa sa	1
+Je ne vois	1
+Mais il le	1
+Pour lui, tous	1
+R. Daneel tourna	1
+Daneel tourna vers	1
+Je suis tout	1
+Et bien, qu'importe,	1
+Ce sont des	1
+Je ne sais	1
+Mais croyez-vous que	1
+Un long moment s'écoula	1
+R. Daneel dît un	1
+Daneel dît un mot.	1
+Ce devait être une	1
+Et Baley se demanda	1
+New York un homme	1
+York un homme connaissant	1
+Et soudain, avec une	1
+L'action se déroulait sur	1
+Dans ce coin perdu,	1
+Mais il se trompait	1
+Trinité et de tous	1
+Dès lors, il ne	1
+Norwich, et de Coventry	1
+Coventry à Canterbury, s'enfonçant	1
+Canterbury, s'enfonçant toujours plus	1
+Londres, derniers vestiges de	1
+Il avait beau être	1
+Il marchait, marchait toujours,	1
+Parfois il entendait des	1
+De temps à autre,	1
+Et si vous admettez	1
+Mais, par mesure de	1
+La cérébroanalyse est un	1
+Et qu'en avezvous tiré	1
+Elle nous a renseignés	1
+Enderby, et nous en	1
+C'est exact, fit Baley.	1
+Il n'est pas homme	1
+J'aurais pu vous le	1
+Mieux valait obtenir un	1
+Spaciens ont consenti à	1
+Ce qui a, j'imagine,	1
+Cela ne peut faire	1
+Dans ces conditions, nous	1
+Cela ne nous servirait	1
+Des millions !... grommela	1
+Ce disant, il revit	1
+Spaciens ", et il	1
+Lui, un suspect !	1
+Il entendait encore le	1
+Quand Baley pénétra dans	1
+Baley pénétra dans le	1
+Vous avez vraiment fait	1
+Tout le duel verbal	1
+Baley, et son long	1
+Je le reconnais, monsieur	1
+Enderby leva les yeux	1
+Comme Fastolfe n'a pas	1
+Fastolfe n'a pas paru	1
+Ces Spaciens sont vraiment	1
+Spaciens sont vraiment des	1
+Baley acquiesça de la	1
+Il se désintéressait complètement	1
+Il avait tenté un	1
+Il éprouva une réelle	1
+Ecoutez, monsieur le commissaire,	1
+Daneel et pour moi,	1
+En voilà une idée	1
+Le bruit court qu'il	1
+Il se peut que	1
+C'est possible, fit Baley	1
+Haussant les épaules, le	1
+C'est tout ce qu'on	1
+Ca va, dit Baley.	1
+A propos, où est	1
+R. Daneel en ce	1
+Daneel en ce moment	1
+Il étudie le fichier	1
+Eh bien, je lui	1
+Ils sont des millions	1
+Je le sais, mais	1
+Baley avait presque atteint	1
+Monsieur le commissaire, dit-il,	1
+Une civilisation quoi ?	1
+L'introduction des robots sur	1
+Quelquefois, oui, dit Enderby	1
+Enderby qui ne parut	1
+Vous a-t-il expliqué où	1
+Spacetown voulait en venir	1
+C'est toujours la même	1
+Bien entendu, j'ai répondu	1
+Qu'y avait-il d'autre à	1
+Baley attendit la suite	1
+A-t-il jamais fait allusion	1
+Envoyer un Terrien dans	1
+Mondes Extérieurs ne serait	1
+Extérieurs ne serait pas	1
+Je parlais d'émigration dans	1
+Une liste d'hommes et	1
+Combien en avez-vous trouvé	1
+Plus d'un million, et	1
+Comptez-vous les contrôler tous,	1
+Ce serait évidemment impossible,	1
+Voyez-vous, Daneel, presque tous	1
+Daneel, presque tous les	1
+Médiévalistes : ainsi, le	1
+Prenez, par exemple, le	1
+Il fut sur le	1
+Terriens devaient se tenir	1
+Aussi reprit-il, après avoir	1
+Regardez ce qu'il met	1
+Oui, répliqua R. Daneel.	1
+J'ai déjà remarqué ces	1
+Je n'ai vu aucun	1
+C'est un objet très	1
+Est-ce que cela sert	1
+Mais Baley changea brusquement	1
+Baley changea brusquement de	1
+Comment vous êtes-vous procuré	1
+C'est une machine qui	1
+On la règle pour	1
+Une autre machine a	1
+C'est incroyable ce que	1
+Car cette machine-là a	1
+Cela vous stupéfie ?	1
+Mais voyons, vous avez	1
+Les restaurants communautaires de	1
+Baley qui, pour son	1
+Washington, à Toronto, à	1
+Toronto, à Los Angeles,	1
+Los Angeles, à Londres	1
+Angeles, à Londres et	1
+Londres et à Budapest,	1
+Terre diverses langues, et	1
+Mais maintenant les produits	1
+Shanghai à Tachkent, et	1
+Winnipeg à Buenos Aires	1
+Buenos Aires ; quant	1
+Aires ; quant à	1
+Shakespeare ou de Churchill,	1
+Mais s'ils ne différaient	1
+Une triple queue de	1
+Le grouillement de la	1
+Baley s'avança pas à	1
+Tout à coup, il	1
+R. Daneel, dans un	1
+Est-ce que vous pouvez	1
+Le robot, qui examinait	1
+Que voulez-vous dire, Elijah	1
+Connaissant l'histoire en détail,	1
+Elle passa les cartes	1
+Puis la femme se	1
+R. Daneel ; mais	1
+Daneel ; mais Baley,	1
+Mon ami n'est pas	1
+Vous débiterez la Préfecture	1
+Inutile de donner des	1
+Elle eut un geste	1
+Pendant combien de temps	1
+Alors, mettez vos index	1
+Baley eut un petit	1
+R. Daneel se poser	1
+Daneel se poser sur	1
+Mais aussitôt il se	1
+La femme reprit les	1
+Baley respira plus librement.	1
+L'employée leur remit de	1
+Pas de menu spécial.	1
+Nous sommes à court	1
+Prenez la table DF.	1
+Tandis qu'ils gagnaient leurs	1
+R. Daneel dit à	1
+Daneel dit à Baley	1
+J'ai l'impression que la	1
+Naturellement, ce n'est pas	1
+On est toujours à	1
+Surtout pour les jeunes,	1
+R. Daneel avalait, on	1
+Daneel avalait, on ne	1
+Et cependant le détective	1
+S'habituait-il donc, en fait,	1
+New-Yorkais partaient pour de	1
+Pourquoi pas, puisque les	1
+Spaciens vivaient euxmêmes de	1
+Est-ce mal élevé d'observer	1
+C'est très mal élevé,	1
+Ca tombe sous le	1
+Chacun de nous a	1
+Cela n'empêche pas de	1
+Alors, pouvez-vous me dire	1
+Baley posa sa fourchette	1
+Je ne vois rien	1
+Mais il le dit	1
+Pour lui, tous les	1
+R. Daneel tourna vers	1
+Daneel tourna vers lui	1
+Je suis tout à	1
+Et bien, qu'importe, après	1
+Ce sont des gens	1
+Je ne sais pas,	1
+Mais croyez-vous que ce	1

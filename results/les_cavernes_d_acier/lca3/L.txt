@@ -1,0 +1,862 @@
+Il	19
+Jessie	16
+Je	16
+Baley	16
+Bentley	15
+Mais	14
+Jézabel	13
+C'est	11
+Daneel	9
+Elle	7
+Elie	7
+Lije	7
+Olivaw	7
+Eh	5
+Non	5
+Naboth	5
+R	5
+Eh bien,	5
+En	4
+Ah	4
+Tu	4
+Et	4
+Si	4
+Toilettes	4
+Je ne	4
+De	3
+Oui	3
+La	3
+Ahab	3
+Alors	3
+Ne	3
+Ils	3
+Elle était	3
+Ah !	3
+R. Daneel	3
+J'ai	2
+Le	2
+Or	2
+Bible	2
+Oh	2
+Bien	2
+Est-ce	2
+Peut-être	2
+Ce	2
+Après	2
+Jéhu	2
+Elles	2
+Ca	2
+Qu'est-ce	2
+Tout	2
+Ben	2
+Il avait	2
+Oh !	2
+Est-ce que	2
+Si la	2
+Lije ?	2
+Il est	2
+Tu me	2
+C'est une	2
+Il y	2
+Je vous	2
+Bentley !	2
+S'apercevant	1
+Ainsi	1
+Voyez-vous	1
+Sûrement	1
+Savez-vous	1
+Jessica	1
+Vous	1
+J'avoue	1
+Sérieusement	1
+Cela	1
+Mes	1
+Elijah	1
+N	1
+T	1
+Pourquoi	1
+Julius	1
+Enderby	1
+Toujours	1
+Jouer	1
+L'Histoire	1
+Une	1
+Jéhoram	1
+Puis	1
+Jesreel	1
+Avec	1
+Jéhovah	1
+Premier	1
+Livre	1
+Rois	1
+Baal	1
+Baalites	1
+Voilà	1
+Dieu	1
+On	1
+Etats	1
+Epoque	1
+Médiévale	1
+Sa	1
+D'ailleurs	1
+Pour	1
+Junior	1
+S'il	1
+Evidemment	1
+Lequel	1
+Jamais	1
+Hommes	1
+Subdivisions	1
+IA	1
+IE	1
+Enfin	1
+Un	1
+Terriens	1
+L'animation	1
+Attendez-moi	1
+Pas	1
+Heureusement	1
+New	1
+York	1
+Comment	1
+Comme	1
+Allons	1
+Jusqu'à	1
+Monde	1
+Extérieur	1
+Cependant	1
+Avez-vous	1
+Car	1
+J'espère	1
+Mondes	1
+Extérieurs	1
+Pourtant	1
+Continuant	1
+Etes-vous	1
+Papa	1
+Enchanté	1
+As-tu	1
+Assez	1
+Fais	1
+Soudain	1
+Personnellement	1
+Assieds-toi	1
+N'ennuie	1
+M	1
+J'ai aidé	1
+Je peux	1
+En voulez-vous	1
+S'apercevant que	1
+Le visage	1
+Elle prit,	1
+Ainsi, vous	1
+Jessie ?	1
+C'est un	1
+Voyez-vous une	1
+Sûrement pas,	1
+De Jessica	1
+Jessica ?	1
+Vous ne	1
+J'avoue que	1
+C'est à	1
+Non, vraiment	1
+C'est Jézabel.	1
+Mes parents	1
+C'est que,	1
+Baley, fort	1
+Elie 2,	1
+Mais elle	1
+Or, fit-il,	1
+Elie fut	1
+Ah, oui	1
+Oui, bien	1
+C'est dans	1
+Mais j'espère	1
+Elijah =	1
+C'est gênant	1
+Baley était	1
+Pourquoi donc	1
+Tu peux	1
+Bien sûr	1
+Lije Baley,	1
+Peut-être était-il	1
+Enderby, alors	1
+Baley, marquait	1
+Toujours est-il	1
+Je suis	1
+Je voudrais	1
+Je serai	1
+Jouer les	1
+Jézabel ne	1
+Et si	1
+La Jézabel	1
+Jézabel de	1
+Bible était	1
+L'Histoire ne	1
+Jessie, fort	1
+Ce n'est	1
+Je me	1
+Une Jézabel	1
+Jézabel somptueusement	1
+Je sais	1
+C'est possible,	1
+Après la	1
+Ahab, mari	1
+Jézabel, son	1
+Jéhoram, lui	1
+Or, l'un	1
+Jéhu, se	1
+Puis Jéhu	1
+Jéhu galopa	1
+Jesreel où	1
+Jézabel, résidait.	1
+Elle l'entendit	1
+Avec autant	1
+Le fait	1
+Jézabel ait	1
+Jéhovah n'a	1
+Si tu	1
+Premier Livre	1
+Rois, tu	1
+Elie, dont	1
+Baal au	1
+Elie a	1
+Baalites, ce	1
+Jessie se	1
+Et que	1
+Naboth, Lije	1
+Voilà un	1
+Alors, Jézabel	1
+Jézabel s'est	1
+Naboth d'avoir	1
+Dieu et	1
+Oui ;	1
+On a	1
+Bien entendu,	1
+Etats de	1
+Médiévale, avait	1
+Naboth, un	1
+Mais le	1
+Ahab ne	1
+Et cependant,	1
+Jézabel fut	1
+Sa seule	1
+Je maintiens	1
+Jessie, le	1
+Jessie, et	1
+De quoi	1
+Je veux	1
+Bentley comme	1
+Baley fit	1
+Bentley Baley	1
+Baley ?...	1
+Ne trouves-tu	1
+D'ailleurs le	1
+Tu en	1
+Peut-être préfères-tu	1
+Elie ?	1
+Pour qu'on	1
+Junior ?	1
+S'il en	1
+Evidemment !	1
+Mais... mais	1
+Lequel ?	1
+Elle ne	1
+Bentley n'est	1
+Non, dit-il,	1
+Alors, c'est	1
+Jamais plus,	1
+Jessie ne	1
+Daneel Olivaw,	1
+Olivaw, il	1
+Bentley, dont	1
+Baley s'arrêta	1
+Toilettes -	1
+Hommes ;	1
+Subdivisions IA	1
+IA -	1
+Enfin, juste	1
+Un homme	1
+Il montra	1
+Elles étaient	1
+Elles portaient	1
+Baley les	1
+Il dit	1
+Mais celui-ci	1
+Si je	1
+Terriens, je	1
+L'animation joyeuse	1
+Baley n'en	1
+Daneel :	1
+Ca va	1
+Et surtout	1
+Pas un	1
+C'est l'usage	1
+Il jeta	1
+Heureusement personne	1
+Il se	1
+Elle comportait	1
+Mais maintenant,	1
+Non, fit	1
+Baley, d'un	1
+Il est...	1
+New York.	1
+Comment dois-je	1
+Comme n'importe	1
+Il lui	1
+Qu'est-ce qui	1
+Tout va	1
+Allons, chérie,	1
+Lije Baley	1
+Baley se	1
+Jusqu'à cet	1
+En fait,	1
+Il en	1
+De plus,	1
+Toilettes, ce	1
+Mais, en	1
+Monde Extérieur,	1
+Extérieur, Baley	1
+Baley ne	1
+Cependant, Jessie	1
+Jessie lui	1
+Avez-vous dîné,	1
+Olivaw et	1
+Daneel ne	1
+Mais moi,	1
+Jessie accepta	1
+C'est pourquoi	1
+J'espère, monsieur	1
+Olivaw, que	1
+Lije, Bentley	1
+Bentley et	1
+Mais là	1
+Baley, préoccupé	1
+Mondes Extérieurs,	1
+Extérieurs, telles,	1
+Daneel devait	1
+Pourtant, il	1
+Continuant à	1
+Etes-vous bien	1
+Jessie me	1
+Jessie, qui	1
+Non, simplement	1
+Tout le	1
+Jessie !	1
+La porte	1
+Il aperçut	1
+Daneel, et,	1
+Papa ?	1
+Bentley, dit	1
+Lije d'un	1
+Ben, ce	1
+Enchanté, monsieur	1
+Olivaw !	1
+Mais, dis-moi,	1
+La radio...	1
+Ne pose	1
+Ben !	1
+Bentley fit	1
+As-tu fait	1
+Bentley ?	1
+Ce disant,	1
+Il était	1
+Bentley était	1
+En effet,	1
+Mais j'y	1
+Je n'ai	1
+Ca ne	1
+Mais Jessie	1
+Jessie secoua	1
+Non, non,	1
+Ils penseraient	1
+Après tout,	1
+Assez, Bentley	1
+Lije, non	1
+Fais ce	1
+Bentley haussa	1
+Soudain, à	1
+Daneel demanda	1
+Ne trouverez-vous	1
+Mais c'est	1
+Bentley, en	1
+Ils sont	1
+Je vais	1
+Il l'apporta	1
+Daneel et	1
+Olivaw ?	1
+Baley laissa	1
+Oui, Bentley,	1
+Bentley, répondit	1
+R. Daneel.	1
+Ils m'intéressent	1
+Alors, vous	1
+J'ai une	1
+Assieds-toi, Bentley,	1
+Bentley, lui	1
+M. Olivaw.	1
+J'ai aidé à	1
+Je peux vous	1
+En voulez-vous encore	1
+S'apercevant que son	1
+Le visage de	1
+Elle était de	1
+Elle prit, elle	1
+Ainsi, vous vous	1
+C'est un joli	1
+Voyez-vous une objection	1
+Sûrement pas, puisque	1
+De Jessica ?	1
+Vous ne devinerez	1
+J'avoue que je	1
+Eh bien, fit-elle	1
+C'est à ce	1
+Il avait posé	1
+Non, vraiment ?	1
+Je ne plaisante	1
+Mes parents aimaient	1
+Elle était très	1
+C'est que, reprit	1
+Baley, fort sérieux,	1
+Elie 2, figurez-vous.	1
+Mais elle ne	1
+Or, fit-il, Elie	1
+Elie fut l'ennemi	1
+Ah, oui ?	1
+Oui, bien sûr.	1
+C'est dans la	1
+Eh bien, je	1
+Elijah = Elie.	1
+C'est gênant de	1
+Baley était fatigué	1
+Pourquoi donc est-ce	1
+Tu peux très	1
+Bien sûr !	1
+Est-ce que tu	1
+Peut-être était-il exceptionnellement	1
+Enderby, alors que	1
+Baley, marquait le	1
+Toujours est-il qu'il	1
+Je suis convaincu	1
+Je voudrais qu'une	1
+Je serai ce	1
+Jouer les Jézabel	1
+Jézabel ne te	1
+Et si tu	1
+La Jézabel de	1
+Jézabel de la	1
+Bible était une	1
+L'Histoire ne lui	1
+Jessie, fort en	1
+Ce n'est pas	1
+Je me souviens	1
+Une Jézabel somptueusement	1
+Jézabel somptueusement parée.	1
+Je sais ce	1
+C'est possible, mais	1
+Après la mort	1
+Ahab, mari de	1
+Jézabel, son fils,	1
+Jéhoram, lui succéda.	1
+Jéhu, se révolta	1
+Puis Jéhu galopa	1
+Jéhu galopa d'une	1
+Jesreel où la	1
+Elle l'entendit venir,	1
+Avec autant de	1
+Si la nouvelle	1
+Le fait que	1
+Jézabel ait mis	1
+Jéhovah n'a rien	1
+Si tu as	1
+Rois, tu dois	1
+Elie, dont je	1
+Baal au défi	1
+Baalites, ce qui	1
+Jessie se mordit	1
+Et que dis-tu	1
+Naboth, Lije ?	1
+Voilà un homme	1
+Alors, Jézabel s'est	1
+Jézabel s'est arrangée	1
+Naboth d'avoir proféré	1
+Il est écrit	1
+Dieu et contre	1
+Oui ; alors,	1
+On a eu	1
+Bien entendu, de	1
+Si la ville,	1
+Etats de l'Epoque	1
+Médiévale, avait eu	1
+Naboth, un tribunal	1
+Mais le roi	1
+Ahab ne disposait	1
+Jézabel fut mauvaise.	1
+Sa seule excuse	1
+Elle était le	1
+Jessie, le visage	1
+Tu me dis	1
+Jessie, et peu	1
+De quoi parles-tu	1
+Je veux dire	1
+Bentley comme prénom	1
+Baley fit un	1
+Bentley Baley ?...	1
+Baley ?... Ne	1
+Ne trouves-tu pas	1
+Je ne sais	1
+C'est une idée	1
+Eh bien, si	1
+Tu en es	1
+Peut-être préfères-tu l'appeler	1
+Pour qu'on y	1
+Je ne trouve	1
+S'il en a	1
+Mais... mais il	1
+Elle ne le	1
+Bentley n'est pas	1
+Non, dit-il, certainement	1
+Alors, c'est parfait.	1
+Je ne veux	1
+Jamais plus, depuis	1
+Jessie ne fit	1
+Daneel Olivaw, il	1
+Olivaw, il y	1
+Bentley, dont le	1
+Baley s'arrêta devant	1
+Hommes ; tandis	1
+Subdivisions IA -	1
+IA - IE.	1
+Enfin, juste audessous	1
+Un homme les	1
+Il montra ses	1
+Elles portaient tous	1
+Baley les trouva	1
+Il y a	1
+Il dit cela	1
+Mais celui-ci répliqua	1
+Je vous remercie	1
+Si je dois	1
+Terriens, je crois	1
+Eh bien, alors,	1
+L'animation joyeuse de	1
+Baley n'en eut	1
+Ca va me	1
+Il avait déjà	1
+Et surtout ne	1
+Pas un mot,	1
+C'est l'usage !	1
+Il jeta autour	1
+Heureusement personne ne	1
+Il se hâta,	1
+Il y avait	1
+Elle comportait même	1
+C'est une sorte	1
+Mais maintenant, il	1
+Non, fit Baley,	1
+Baley, d'un ton	1
+Il est... complètement	1
+Comment dois-je le	1
+Comme n'importe quel	1
+Il lui répondit	1
+Qu'est-ce qui ne	1
+Tout va très	1
+Allons, chérie, retournons	1
+Lije Baley se	1
+Baley se demanda	1
+En fait, il	1
+Il en résultait	1
+Toilettes, ce qui,	1
+Mais, en voyant	1
+Monde Extérieur, Baley	1
+Extérieur, Baley ne	1
+Baley ne fut	1
+Cependant, Jessie lui	1
+Jessie lui demanda,	1
+Avez-vous dîné, monsieur	1
+Olivaw et toi,	1
+Daneel ne prendra	1
+Mais moi, je	1
+Jessie accepta sans	1
+C'est pourquoi elle	1
+J'espère, monsieur Olivaw,	1
+Olivaw, que vous	1
+Lije, Bentley et	1
+Bentley et moi,	1
+Mais là n'était	1
+Baley, préoccupé de	1
+Mondes Extérieurs, telles,	1
+Extérieurs, telles, en	1
+R. Daneel devait	1
+Daneel devait être	1
+Pourtant, il ne	1
+Continuant à discuter	1
+Etes-vous bien sûre	1
+Jessie me semble	1
+Jessie, qui était	1
+Non, simplement Jessie.	1
+Tout le monde	1
+Eh bien, entendu,	1
+La porte s'ouvrit	1
+Il aperçut presque	1
+Daneel, et, ne	1
+Je vous présente	1
+Bentley, dit Lije	1
+Lije d'un ton	1
+Ben, ce monsieur	1
+Mais, dis-moi, papa,	1
+Ne pose donc	1
+Bentley fit la	1
+As-tu fait ce	1
+Ce disant, elle	1
+Bentley était chose	1
+En effet, il	1
+Mais j'y pense,	1
+Je n'ai qu'à	1
+Mais Jessie secoua	1
+Jessie secoua vigoureusement	1
+Non, non, Bentley	1
+Tu me surprends	1
+Ils penseraient que	1
+Après tout, ça	1
+Assez, Bentley !	1
+Lije, non sans	1
+Fais ce que	1
+Bentley haussa les	1
+Soudain, à l'autre	1
+R. Daneel demanda	1
+Daneel demanda :	1
+Ne trouverez-vous pas	1
+Mais c'est tout	1
+Bentley, en se	1
+Ils sont à	1
+Je vais vous	1
+Il est très	1
+Il l'apporta à	1
+R. Daneel et	1
+Daneel et lui	1
+Est-ce que les	1
+Baley laissa tomber	1
+Oui, Bentley, répondit	1
+Bentley, répondit R.	1
+Alors, vous allez	1
+J'ai une dissertation	1
+Assieds-toi, Bentley, lui	1
+Bentley, lui cria	1
+J'ai aidé à faire	1
+Je peux vous certifier	1
+En voulez-vous encore ?	1
+S'apercevant que son verre	1
+Le visage de la	1
+Elle était de mise	1
+Elle prit, elle aussi,	1
+Ainsi, vous vous appelez	1
+C'est un joli nom.	1
+Voyez-vous une objection à	1
+Sûrement pas, puisque vous	1
+Vous ne devinerez jamais.	1
+J'avoue que je donne	1
+Eh bien, fit-elle en	1
+C'est à ce moment-là	1
+Il avait posé son	1
+Je ne plaisante pas.	1
+Mes parents aimaient ce	1
+Elle était très fière	1
+C'est que, reprit Baley,	1
+Baley, fort sérieux, moi,	1
+Mais elle ne vit	1
+Or, fit-il, Elie fut	1
+Elie fut l'ennemi mortel	1
+C'est dans la Bible.	1
+Eh bien, je l'ignorais.	1
+C'est gênant de dîner	1
+Baley était fatigué et	1
+Pourquoi donc est-ce gênant	1
+Est-ce que tu te	1
+Peut-être était-il exceptionnellement las	1
+Enderby, alors que lui-même,	1
+Baley, marquait le pas	1
+Toujours est-il qu'il lui	1
+Je suis convaincu que	1
+Je serai ce qui	1
+Jouer les Jézabel ne	1
+Jézabel ne te mènera	1
+La Jézabel de la	1
+Jézabel de la Bible	1
+L'Histoire ne lui prête	1
+Jessie, fort en colère,	1
+Ce n'est pas vrai.	1
+Je me souviens très	1
+Une Jézabel somptueusement parée.	1
+Je sais ce que	1
+C'est possible, mais écoute-moi	1
+Après la mort du	1
+Ahab, mari de Jézabel,	1
+Jézabel, son fils, Jéhoram,	1
+Jéhu, se révolta contre	1
+Puis Jéhu galopa d'une	1
+Jéhu galopa d'une traite	1
+Elle l'entendit venir, et	1
+Si la nouvelle foi	1
+Le fait que Jézabel	1
+Jézabel ait mis à	1
+Jéhovah n'a rien d'extraordinaire	1
+Si tu as lu	1
+Rois, tu dois te	1
+Elie, dont je porte	1
+Baal au défi de	1
+Baalites, ce qui fut	1
+Jessie se mordit les	1
+Et que dis-tu de	1
+Voilà un homme qui	1
+Alors, Jézabel s'est arrangée	1
+Jézabel s'est arrangée pour	1
+Naboth d'avoir proféré des	1
+Il est écrit qu'il	1
+Dieu et contre son	1
+Oui ; alors, on	1
+On a eu tort.	1
+Bien entendu, de nos	1
+Si la ville, ou	1
+Etats de l'Epoque Médiévale,	1
+Médiévale, avait eu besoin	1
+Naboth, un tribunal aurait	1
+Ahab ne disposait pas	1
+Sa seule excuse fut	1
+Elle était le modèle	1
+Jessie, le visage empourpré	1
+Tu me dis ça	1
+Jessie, et peu de	1
+De quoi parles-tu ?	1
+Je veux dire que,	1
+Bentley comme prénom ?	1
+Baley fit un peu	1
+Bentley Baley ?... Ne	1
+Baley ?... Ne trouves-tu	1
+Ne trouves-tu pas que	1
+Je ne sais pas...	1
+C'est une idée que	1
+Eh bien, si cela	1
+Tu en es bien	1
+Peut-être préfères-tu l'appeler Elie	1
+Pour qu'on y ajoute	1
+Je ne trouve pas	1
+S'il en a envie,	1
+Mais... mais il y	1
+Elle ne le regarda	1
+Bentley n'est pas un	1
+Non, dit-il, certainement pas.	1
+Je ne veux pas	1
+Jamais plus, depuis lors,	1
+Jessie ne fit la	1
+Daneel Olivaw, il y	1
+Olivaw, il y avait	1
+Bentley, dont le surnom	1
+Baley s'arrêta devant la	1
+Hommes ; tandis qu'en	1
+Subdivisions IA - IE.	1
+Enfin, juste audessous de	1
+Un homme les dépassa	1
+Il montra ses paumes,	1
+Elles portaient tous les	1
+Baley les trouva aussi	1
+Il y a un	1
+Il dit cela sans	1
+Mais celui-ci répliqua :	1
+Je vous remercie pour	1
+Si je dois vivre	1
+Terriens, je crois qu'il	1
+Eh bien, alors, venez	1
+L'animation joyeuse de cette	1
+Baley n'en eut même	1
+Ca va me prendre	1
+Il avait déjà fait	1
+Et surtout ne parlez	1
+Pas un mot, pas	1
+Il jeta autour de	1
+Heureusement personne ne se	1
+Il se hâta, à	1
+Il y avait maintenant	1
+Elle comportait même un	1
+C'est une sorte d'annexe	1
+Mais maintenant, il lui	1
+Non, fit Baley, d'un	1
+Baley, d'un ton lamentable.	1
+Comment dois-je le traiter	1
+Comme n'importe quel autre	1
+Il lui répondit ces	1
+Qu'est-ce qui ne va	1
+Tout va très bien	1
+Allons, chérie, retournons au	1
+Lije Baley se demanda	1
+Baley se demanda soudain	1
+Toilettes, ce qui, bien	1
+Mais, en voyant assis,	1
+Monde Extérieur, Baley ne	1
+Extérieur, Baley ne fut	1
+Baley ne fut plus	1
+Cependant, Jessie lui demanda,	1
+Jessie lui demanda, en	1
+Avez-vous dîné, monsieur Olivaw	1
+Olivaw et toi, Lije	1
+Daneel ne prendra pas	1
+Mais moi, je mangerai	1
+Jessie accepta sans difficulté	1
+C'est pourquoi elle dit	1
+J'espère, monsieur Olivaw, que	1
+Olivaw, que vous voudrez	1
+Lije, Bentley et moi,	1
+Bentley et moi, nous	1
+Mais là n'était pas	1
+Baley, préoccupé de la	1
+Mondes Extérieurs, telles, en	1
+R. Daneel devait être	1
+Daneel devait être habitué.	1
+Pourtant, il ne semblait	1
+Continuant à discuter de	1
+Etes-vous bien sûre que	1
+Jessie me semble un	1
+Jessie, qui était en	1
+Tout le monde m'appelle	1
+Eh bien, entendu, Jessie	1
+La porte s'ouvrit et	1
+Il aperçut presque aussitôt	1
+Daneel, et, ne sachant	1
+Je vous présente mon	1
+Bentley, dit Lije d'un	1
+Lije d'un ton peu	1
+Ben, ce monsieur est	1
+Mais, dis-moi, papa, ajouta	1
+Ne pose donc pas	1
+Bentley fit la moue	1
+As-tu fait ce que	1
+Ce disant, elle lui	1
+Bentley était chose plus	1
+Mais j'y pense, maman	1
+Je n'ai qu'à prendre	1
+Mais Jessie secoua vigoureusement	1
+Jessie secoua vigoureusement la	1
+Non, non, Bentley !	1
+Tu me surprends beaucoup.	1
+Ils penseraient que cela	1
+Après tout, ça ne	1
+Lije, non sans nervosité.	1
+Bentley haussa les épaules	1
+Soudain, à l'autre bout	1
+R. Daneel demanda :	1
+Ne trouverez-vous pas indiscret,	1
+Mais c'est tout naturel	1
+Bentley, en se levant	1
+Je vais vous passer	1
+Il est très bon	1
+Il l'apporta à R.	1
+R. Daneel et lui	1
+Daneel et lui demanda	1
+Est-ce que les robots	1
+Baley laissa tomber sa	1
+Oui, Bentley, répondit R.	1
+Bentley, répondit R. Daneel.	1
+Alors, vous allez aimer	1
+J'ai une dissertation à	1
+Assieds-toi, Bentley, lui cria	1
+Bentley, lui cria son	1

@@ -1,0 +1,895 @@
+Je	21
+Dors	18
+Et	18
+Seldon	16
+Hari	13
+Vous	12
+Hummin	11
+Daneel	11
+Mais	10
+Il	10
+Un	7
+A	5
+Aurora	5
+Comment	5
+Loi	5
+On	4
+En	4
+Terre	4
+Non	4
+Et vous	4
+Quant	3
+Raych	3
+Pas	3
+Mère	3
+Rittah	3
+Alors	3
+Cela	3
+Pourquoi	3
+Empire	3
+Si	3
+Première	3
+Zéro	3
+Elle	3
+Bien	3
+En ce	3
+Je ne	3
+Sans	2
+Ce	2
+Par	2
+Les	2
+Quand	2
+Mycogéniens	2
+Peut-être	2
+Même	2
+Plus	2
+Maître-du-Soleil	2
+Quatorze	2
+Mannix	2
+Rien	2
+Ils	2
+Eh	2
+Oui	2
+Ou	2
+Parce	2
+La	2
+C'est	2
+Trois	2
+Lois	2
+Robotique	2
+Le	2
+Université	2
+Quant à	2
+Mais c'était	2
+Mère Rittah	2
+Même le	2
+Je me	2
+Je suis	2
+Dors et	2
+Comment avez-vous	2
+Et s'il	2
+Cela ne	2
+Eh bien,	2
+Je n'ai	2
+Je peux	2
+Parce que	2
+Vous n'êtes	2
+Vous êtes	2
+Daneel marqua	2
+Lois de	2
+Un :	2
+Je comprends.	2
+Daneel se	2
+Dors, je	2
+Hari, je	2
+Bien sûr,	2
+Je me suis	2
+Je n'ai pas	2
+Lois de la	2
+Un : un	2
+Daneel se leva.	2
+En ce cas,	2
+Un : un robot	2
+De	1
+Comme	1
+Encyclopaedia	1
+Galactica	1
+Assis	1
+C'était	1
+Moi	1
+Sacratorium	1
+Mycogène	1
+Dahlites	1
+Pour	1
+Terriens	1
+Quels	1
+D'une	1
+L'idée	1
+Pouvez-vous	1
+N'êtes-vous	1
+Malgré	1
+Tisalver	1
+Pendant	1
+Cléon	1
+IV	1
+Kan	1
+Rachelle	1
+Maire	1
+Une	1
+Voyons	1
+Croyez-vous	1
+Absolument	1
+Quelque	1
+Certes	1
+L'esquisse	1
+J'ai	1
+Trantor	1
+Ces	1
+Quelles	1
+Ont-elles	1
+Galaxie	1
+J'en	1
+J'essaie	1
+Dans	1
+Impériaux	1
+Qui	1
+Pardonnez-moi	1
+Maître	1
+Robot	1
+Toujours	1
+Deux	1
+Deuxième	1
+Différent	1
+Impossible	1
+Comprenez-vous	1
+Qu'entend-on	1
+Loin	1
+Ayant	1
+Après	1
+Maintenant	1
+D'ici	1
+Dahlite	1
+Yugo	1
+Amaryl	1
+J'interviendrai	1
+Attendez	1
+Cette	1
+S'il	1
+Hélicon	1
+Tout	1
+Jamais	1
+Modifier	1
+D'un	1
+A-til	1
+Contre	1
+Demerzel	1
+Doucement	1
+Enfin	1
+Y	1
+Donc	1
+Avez-vous	1
+Seldon, Hari.	1
+On a	1
+Seldon uniquement	1
+Sans nul	1
+A l'en	1
+De même	1
+On sait	1
+Raych Seldon,	1
+A l'évidence,	1
+Seldon désirait	1
+Comme s'il	1
+Encyclopaedia Galactica.	1
+Assis, impassible,	1
+Hummin fixait	1
+Seldon et	1
+C'était, estimait-il,	1
+Ce que	1
+Hummin mais	1
+Moi ?	1
+Par robot,	1
+Sacratorium de	1
+Mycogène ?	1
+Pas exactement.	1
+Les deux	1
+A entendre	1
+Rittah, c'était	1
+Quand je	1
+Mycogéniens, qui	1
+Aurora, et	1
+Dahlites, qui	1
+Terre, j'imagine	1
+Un tel	1
+Pour les	1
+Terriens, en	1
+Quels furent	1
+D'une telle	1
+Peut-être, mais	1
+Rittah était	1
+Il m'a	1
+Je n'entends	1
+Et Mère	1
+Rittah avait	1
+Un robot	1
+Terre et	1
+L'idée vous	1
+Hari, que	1
+Pouvez-vous vous	1
+N'êtes-vous pas	1
+Je sais	1
+Malgré tout,	1
+Seldon poursuivit.	1
+Plus étonnant	1
+Maître-du-Soleil Quatorze,	1
+Quatorze, ce	1
+Mycogéniens ?	1
+Alors que	1
+Comment faites-vous	1
+Pendant qu'on	1
+Cléon ?	1
+Mais surtout,	1
+Mannix IV	1
+IV de	1
+Rien de	1
+Rien ?	1
+Pas même	1
+Ils ne	1
+Ils devaient	1
+Mannix renoncerait	1
+Maire ;	1
+Une fois,	1
+Dors vous	1
+Et certes	1
+Plus que	1
+Mais pas	1
+Hummin ?	1
+Pourquoi faudrait-il	1
+Voyons, Hummin.	1
+Croyez-vous réellement	1
+Quelque part,	1
+Seldon savait	1
+Les sentiments	1
+L'esquisse d'un	1
+Hummin et,	1
+Seldon décela	1
+J'ai bâti	1
+Alors, je	1
+Trantor seule	1
+Ces difficultés,	1
+Par exemple,	1
+Aurora et	1
+Terre, lequel	1
+Quelles étaient	1
+Ont-elles, l'une	1
+Galaxie ?	1
+Si une	1
+Si toutes	1
+En vingt	1
+Daneel, personne	1
+Mais aussi	1
+La détection	1
+J'en suis	1
+J'essaie de	1
+Dans ce	1
+Et si	1
+Quatorze pour	1
+Vous non	1
+Vous vous	1
+C'est le	1
+Qui plus	1
+Vous n'étiez	1
+Seldon plissa	1
+Maître Robot,	1
+Robot, mais	1
+Daneel sourit	1
+Cela dépasse	1
+Toujours est-il	1
+Trois Lois	1
+Robotique qui,	1
+Deux :	1
+Première Loi.	1
+Trois :	1
+Première ou	1
+Deuxième Loi.	1
+Mais j'avais	1
+Un autre	1
+Différent de	1
+Impossible de	1
+Il lui	1
+Il l'avait	1
+Zéro ‖,	1
+Elle s'énonce	1
+Zéro :	1
+La Première	1
+Première Loi	1
+Loi est	1
+Loi Zéro.	1
+Et les	1
+Comprenez-vous ?	1
+Seldon répondit	1
+Daneel poursuivit	1
+Le problème,	1
+Hari, c'est	1
+Il est	1
+Mais qu'est-ce	1
+Qu'entend-on au	1
+Et comment	1
+Loin de	1
+Ayant besoin	1
+Oui, je	1
+Après tout,	1
+Pas question	1
+Seldon rougit.	1
+Mais si,	1
+Et c'est	1
+Vous n'aurez	1
+Je suspecte	1
+Dors de	1
+Elle sait	1
+Et elle	1
+Maintenant que	1
+Hari, mon	1
+D'ici peu,	1
+Le jeune	1
+Raych, doit	1
+Il y	1
+Dahlite du	1
+On ramènera	1
+Raych avec	1
+On s'occupera	1
+Vous aurez	1
+J'interviendrai le	1
+Et quand	1
+Attendez, Hummin,	1
+Hummin, s'inquiéta	1
+Et si,	1
+Un plan	1
+Elle exige	1
+Sans vous,	1
+Bien sûr	1
+Dors, si	1
+Dors le	1
+Cette discussion	1
+Il ne	1
+Il n'en	1
+Comment pouvez-vous	1
+S'il vous	1
+Hélicon et	1
+Tout ce	1
+Vous ne	1
+Hummin peut	1
+Seldon hocha	1
+Jamais Hummin	1
+Hummin ne	1
+Je lui	1
+Il n'ose	1
+Modifier mon	1
+Dors, est	1
+D'un autre	1
+Pourquoi ne	1
+Dors secoua	1
+Il peut	1
+Pourquoi ?	1
+Il vous	1
+A-til annulé	1
+Alors, il	1
+Et moi,	1
+Contre quoi	1
+Vous avez	1
+Hummin, sous	1
+Demerzel et	1
+Daneel, et	1
+Je vous	1
+Dors et,	1
+Doucement, Dors	1
+Dors lui	1
+Et je	1
+Je m'en	1
+Hari baissa	1
+Vous a-t-on	1
+C'est un	1
+Non, non	1
+Je veux	1
+Enfin, vous	1
+Y avez-vous	1
+Dors hésita.	1
+Quand on	1
+Dors rougit	1
+Mais Hari,	1
+Hari, plus	1
+Donc, vous	1
+Peut-être que	1
+Seldon rumina	1
+Et vous,	1
+Dors marqua	1
+Ou désiré	1
+Avez-vous déjà	1
+Ce genre	1
+Hari la	1
+Mais avez-vous	1
+Dors, avez-vous	1
+On a coutume	1
+Seldon uniquement à	1
+Sans nul doute	1
+A l'en croire,	1
+De même qu'il	1
+Quant à sa	1
+En ce qui	1
+On sait que	1
+Seldon désirait rester	1
+Comme s'il avait	1
+Assis, impassible, Hummin	1
+Hummin fixait toujours	1
+Seldon et celuici,	1
+C'était, estimait-il, à	1
+Ce que fit	1
+Hummin mais simplement	1
+Par robot, je	1
+Sacratorium de Mycogène	1
+Les deux planètes	1
+A entendre la	1
+Rittah, c'était évident.	1
+Quand je compare	1
+Aurora, et les	1
+Dahlites, qui semblent	1
+Terre, j'imagine qu'Aurora	1
+Un tel robot	1
+Mais c'était un	1
+Pour les Terriens,	1
+Terriens, en revanche,	1
+Quels furent les	1
+D'une telle machine,	1
+Peut-être, mais quand	1
+Mère Rittah était	1
+Rittah était convaincue	1
+Il m'a semblé	1
+Même le cerveau	1
+Même le cerveau.	1
+Je n'entends rien	1
+Et Mère Rittah	1
+Mère Rittah avait	1
+Rittah avait évoqué	1
+Je suis peut-être	1
+Un robot ne	1
+Terre et la	1
+L'idée vous est-elle	1
+Hari, que vous	1
+Pouvez-vous vous croire	1
+N'êtes-vous pas en	1
+Je sais fort	1
+Malgré tout, quand	1
+Plus étonnant encore,	1
+Maître-du-Soleil Quatorze, ce	1
+Quatorze, ce monstre	1
+Dors et moi,	1
+Alors que nous	1
+Comment avez-vous fait	1
+Comment faites-vous pour	1
+Pendant qu'on y	1
+Et s'il est	1
+Mais surtout, comment	1
+Mannix IV de	1
+IV de Kan	1
+Comment avez-vous réussi	1
+Cela ne pourrait-il	1
+Rien de ce	1
+Pas même la	1
+Ils ne voulaient	1
+Ils devaient savoir	1
+Mannix renoncerait à	1
+Maire ; pourtant,	1
+Une fois, Dors	1
+Dors vous a	1
+Et certes vous	1
+Plus que n'importe	1
+Mais pas plus	1
+Eh bien, Hummin	1
+Pourquoi faudrait-il recourir	1
+Croyez-vous réellement au	1
+Quelque part, Seldon	1
+Seldon savait qu'il	1
+Et vous voulez	1
+Et vous avez	1
+Et vous devez	1
+Les sentiments personnels	1
+L'esquisse d'un sourire	1
+Hummin et, l'espace	1
+Seldon décela la	1
+J'ai bâti une	1
+Alors, je vous	1
+Je peux mettre	1
+Trantor seule mais	1
+Ces difficultés, je	1
+Par exemple, de	1
+Aurora et la	1
+Terre, lequel fut	1
+Quelles étaient les	1
+Ont-elles, l'une ou	1
+Si une seule	1
+Si toutes deux	1
+En vingt mille	1
+Daneel, personne n'a	1
+Parce que les	1
+Mais aussi parce	1
+La détection ne	1
+J'essaie de ne	1
+Dans ce cas,	1
+Et si je	1
+Quatorze pour l'amener	1
+Je suis effectivement	1
+Vous non plus,	1
+Vous vous méfiez	1
+C'est le cas	1
+Vous n'étiez pas	1
+Cela ne pouvait	1
+Seldon plissa le	1
+Maître Robot, mais	1
+Robot, mais je	1
+Daneel sourit benoîtement	1
+Vous n'êtes absolument	1
+Vous êtes parfaitement	1
+Daneel marqua un	1
+Je ne souhaite	1
+Cela dépasse mon	1
+Toujours est-il que	1
+Trois Lois de	1
+Robotique qui, traditionnellement,	1
+Deux : un	1
+Trois : un	1
+Mais j'avais un...	1
+Différent de moi.	1
+Impossible de le	1
+Mais c'était lui	1
+Il lui semblait	1
+Il l'avait baptisée	1
+Zéro ‖, puisque	1
+Elle s'énonce ainsi	1
+Zéro : un	1
+La Première Loi	1
+Première Loi est	1
+Loi est donc	1
+Et les autres	1
+Daneel marqua consciencieusement	1
+Seldon répondit :	1
+Daneel poursuivit :	1
+Le problème, Hari,	1
+Hari, c'est qu'un	1
+Je peux vous	1
+Mais qu'est-ce que	1
+Qu'entend-on au juste	1
+Et comment définir	1
+Quant à Daneel,	1
+Loin de moi	1
+Ayant besoin de	1
+Oui, je sais	1
+Après tout, vous	1
+Pas question que	1
+Je ne suis	1
+Mais si, même	1
+Et c'est important,	1
+Vous n'aurez même	1
+Je suspecte Dors	1
+Dors de se	1
+Elle sait qui	1
+Et elle non	1
+Maintenant que vous	1
+Hari, mon travail	1
+D'ici peu, vous	1
+Dors et vous,	1
+Le jeune garçon,	1
+Raych, doit m'accompagner.	1
+Je ne peux	1
+Il y a	1
+Dahlite du nom	1
+On ramènera Raych	1
+Raych avec vous	1
+On s'occupera de	1
+Et vous pourrez	1
+Vous aurez une	1
+J'interviendrai le moins	1
+Et quand naîtront	1
+Attendez, Hummin, s'inquiéta	1
+Hummin, s'inquiéta Seldon.	1
+Et si, malgré	1
+Un plan auquel	1
+Dors, je me	1
+Elle exige aussi	1
+Sans vous, Dors,	1
+Dors, je n'aurai	1
+Bien sûr que	1
+Dors, si vous	1
+Dors le considéra,	1
+Cette discussion est	1
+Il ne fait	1
+Et s'il me	1
+Il n'en fera	1
+Comment pouvez-vous en	1
+Parce que je	1
+Hélicon et l'Empire	1
+Vous n'êtes pas	1
+Tout ce qu'il	1
+Vous ne comprenez	1
+Hummin peut modifier	1
+Seldon hocha la	1
+Jamais Hummin ne	1
+Hummin ne prendra	1
+Je lui ai	1
+Il n'ose pas	1
+Modifier mon esprit	1
+D'un autre côté,	1
+Pourquoi ne s'en	1
+Dors secoua la	1
+Il peut ne	1
+Il vous a	1
+A-til annulé son	1
+Alors, il veut	1
+Et moi, je	1
+Contre quoi ?	1
+Vous avez désormais	1
+Hummin, sous la	1
+Demerzel et sous	1
+Je vous prendrai	1
+Vous êtes Dors	1
+Doucement, Dors lui	1
+Dors lui expliqua	1
+Hari, je veux	1
+Et je ne	1
+Je m'en fiche	1
+Hari baissa les	1
+Vous a-t-on déjà	1
+Bien sûr, Hari.	1
+C'est un élément	1
+Non, non !	1
+Je veux dire,	1
+Enfin, vous savez,	1
+Eh bien, oui,	1
+Y avez-vous pris	1
+Quand on m'a	1
+Dors rougit et	1
+Hari, je vous	1
+Mais Hari, plus	1
+Hari, plus résolu	1
+Peut-être que c'est	1
+Seldon rumina cette	1
+Et vous, avez-vous	1
+Dors marqua un	1
+Ou désiré être	1
+Avez-vous déjà couché	1
+Bien sûr, je	1
+Ce genre de	1
+Hari la saisit	1
+Mais avez-vous jamais	1
+On a coutume d'évoquer	1
+Seldon uniquement à propos	1
+Sans nul doute a-t-il	1
+A l'en croire, l'intuition	1
+De même qu'il ne	1
+Quant à sa vie	1
+On sait que son	1
+Seldon désirait rester une	1
+Comme s'il avait senti	1
+Assis, impassible, Hummin fixait	1
+Hummin fixait toujours Seldon	1
+Seldon et celuici, pour	1
+C'était, estimait-il, à son	1
+Ce que fit Hummin	1
+Hummin mais simplement pour	1
+Par robot, je présume	1
+Sacratorium de Mycogène ?	1
+Les deux planètes étaient	1
+A entendre la Mère	1
+Quand je compare les	1
+Aurora, et les Dahlites,	1
+Dahlites, qui semblent incarner	1
+Terre, j'imagine qu'Aurora qu'elle	1
+Un tel robot a	1
+Mais c'était un renégat	1
+Pour les Terriens, en	1
+Terriens, en revanche, c'était	1
+Quels furent les raisons,	1
+D'une telle machine, voulez-vous	1
+Peut-être, mais quand je	1
+Mère Rittah était convaincue	1
+Rittah était convaincue que	1
+Il m'a semblé qu'il	1
+Même le cerveau ?	1
+Je n'entends rien à	1
+Et Mère Rittah avait	1
+Mère Rittah avait évoqué	1
+Je me suis dit	1
+Je suis peut-être par	1
+Un robot ne pouvait	1
+Terre et la défaite	1
+L'idée vous est-elle venue,	1
+Hari, que vous êtes	1
+Pouvez-vous vous croire vraiment	1
+N'êtes-vous pas en train	1
+Je sais fort bien	1
+Malgré tout, quand je	1
+Plus étonnant encore, comment	1
+Maître-du-Soleil Quatorze, ce monstre	1
+Quatorze, ce monstre d'arrogance,	1
+Dors et moi, et	1
+Alors que nous avions	1
+Comment avez-vous fait pour	1
+Comment faites-vous pour être	1
+Mais surtout, comment se	1
+Mannix IV de Kan	1
+Comment avez-vous réussi à	1
+Cela ne pourrait-il pas	1
+Rien de ce que	1
+Pas même la neutralisation	1
+Ils ne voulaient pas	1
+Ils devaient savoir depuis	1
+Mannix renoncerait à ses	1
+Maire ; pourtant, jamais	1
+Une fois, Dors vous	1
+Dors vous a décrit	1
+Et certes vous l'êtes.	1
+Mais pas plus qu'un	1
+Eh bien, Hummin ?	1
+Pourquoi faudrait-il recourir au	1
+Croyez-vous réellement au déclin	1
+Quelque part, Seldon savait	1
+Seldon savait qu'il parlait	1
+Et vous voulez vraiment	1
+Je n'ai pas les	1
+Et vous avez l'impression	1
+Et vous devez par	1
+Les sentiments personnels -	1
+L'esquisse d'un sourire effleura	1
+Hummin et, l'espace d'une	1
+Seldon décela la présence	1
+J'ai bâti une longue	1
+Alors, je vous demande	1
+Je peux mettre au	1
+Trantor seule mais je	1
+Ces difficultés, je les	1
+Par exemple, de ces	1
+Aurora et la Terre,	1
+Terre, lequel fut le	1
+Ont-elles, l'une ou l'autre,	1
+Si une seule l'a	1
+Si toutes deux l'ont	1
+En vingt mille ans,	1
+Daneel, personne n'a deviné	1
+Parce que les hommes	1
+Mais aussi parce que	1
+J'essaie de ne jamais	1
+Dans ce cas, il	1
+Et si je peux	1
+Je n'ai pas eu	1
+Quatorze pour l'amener à	1
+Je suis effectivement intervenu	1
+Je me suis contenté	1
+Vous non plus, je	1
+Vous vous méfiez aussi	1
+C'est le cas de	1
+Vous n'étiez pas gêné	1
+Cela ne pouvait que	1
+Seldon plissa le front	1
+Maître Robot, mais je	1
+Robot, mais je n'ai	1
+Daneel sourit benoîtement :	1
+Vous n'êtes absolument pas	1
+Vous êtes parfaitement conscient	1
+Daneel marqua un temps	1
+Je ne souhaite pas	1
+Toujours est-il que je	1
+Trois Lois de la	1
+Lois de la Robotique	1
+Deux : un robot	1
+Trois : un robot	1
+Mais j'avais un... ami,	1
+Impossible de le confondre	1
+Mais c'était lui qui	1
+Il lui semblait qu'il	1
+Il l'avait baptisée la	1
+Zéro ‖, puisque zéro	1
+Elle s'énonce ainsi :	1
+Zéro : un robot	1
+La Première Loi est	1
+Première Loi est donc	1
+Loi est donc modifiée	1
+Et les autres lois	1
+Daneel marqua consciencieusement un	1
+Seldon répondit : "	1
+Daneel poursuivit : "	1
+Le problème, Hari, c'est	1
+Hari, c'est qu'un être	1
+Je peux vous en	1
+Qu'entend-on au juste lorsqu'on	1
+Et comment définir une	1
+Loin de moi cette	1
+Ayant besoin de votre	1
+Oui, je sais que	1
+Après tout, vous êtes	1
+Pas question que quelqu'un	1
+Je ne suis pas...	1
+Mais si, même si	1
+Et c'est important, car	1
+Vous n'aurez même pas	1
+Je suspecte Dors de	1
+Dors de se douter	1
+Elle sait qui je	1
+Et elle non plus	1
+Maintenant que vous connaissez	1
+Hari, mon travail m'attend	1
+D'ici peu, vous allez,	1
+Dors et vous, être	1
+Le jeune garçon, Raych,	1
+Il y a aussi	1
+Dahlite du nom de	1
+On ramènera Raych avec	1
+Raych avec vous et	1
+Et vous pourrez travailler	1
+Vous aurez une équipe	1
+J'interviendrai le moins possible.	1
+Et quand naîtront des	1
+Attendez, Hummin, s'inquiéta Seldon.	1
+En ce cas, j'ai	1
+Un plan auquel je	1
+En ce cas, Dors,	1
+Dors, je me permets	1
+Elle exige aussi la	1
+Sans vous, Dors, je	1
+Dors, je n'aurai pas	1
+Bien sûr que si,	1
+Dors, si vous n'êtes	1
+Dors le considéra, pensive.	1
+Cette discussion est vaine,	1
+Il ne fait aucun	1
+Et s'il me renvoie	1
+Il n'en fera rien.	1
+Comment pouvez-vous en être	1
+Parce que je lui	1
+Hélicon et l'Empire peut	1
+Vous n'êtes pas sérieux.	1
+Tout ce qu'il y	1
+Vous ne comprenez pas	1
+Hummin peut modifier vos	1
+Seldon hocha la tête.	1
+Jamais Hummin ne prendra	1
+Hummin ne prendra de	1
+Je lui ai parlé.	1
+Il n'ose pas trop	1
+Lois de la Robotique.	1
+Modifier mon esprit au	1
+Pourquoi ne s'en tiendrait-il	1
+Dors secoua la tête.	1
+Il peut ne pas	1
+Il vous a demandé	1
+A-til annulé son ordre	1
+Alors, il veut que	1
+Et moi, je demande	1
+Vous avez désormais la	1
+Hummin, sous la forme	1
+Demerzel et sous celle	1
+Je vous prendrai comme	1
+Vous êtes Dors et,	1
+Doucement, Dors lui expliqua	1
+Dors lui expliqua :	1
+Hari, je veux ce	1
+Je m'en fiche éperdument.	1
+Hari baissa les yeux,	1
+Vous a-t-on déjà embrassée	1
+C'est un élément de	1
+Je veux dire, avez-vous	1
+Enfin, vous savez, passionnément	1
+Eh bien, oui, Hari.	1
+Y avez-vous pris plaisir	1
+Quand on m'a embrassée	1
+Dors rougit et détourna	1
+Hari, je vous en	1
+Mais Hari, plus résolu	1
+Hari, plus résolu que	1
+Peut-être que c'est ce	1
+Seldon rumina cette réponse	1
+Et vous, avez-vous jamais	1
+Dors marqua un temps	1
+Ou désiré être embrassée	1
+Avez-vous déjà couché avec	1
+Bien sûr, je vous	1
+Ce genre de choses	1
+Hari la saisit aux	1
+Mais avez-vous jamais ressenti	1

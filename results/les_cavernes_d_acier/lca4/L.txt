@@ -1,0 +1,709 @@
+Baley	17
+Il	16
+Daneel	12
+Je	11
+R	10
+Spacetown	10
+Terriens	10
+Mais	9
+Vous	9
+Elijah	7
+Le	6
+Dr	6
+Sarton	6
+Spaciens	6
+Dr Sarton	5
+Ah	4
+Alors	4
+Non	4
+Oui	4
+Terre	4
+Terrien	4
+Et	4
+Enderby	4
+Il est	4
+R. Daneel.	4
+Pas	3
+C	3
+Fe	3
+Eh	3
+Nous	3
+New	3
+York	3
+Julius	3
+R. Daneel,	3
+Vous avez	3
+Eh bien,	3
+New York	3
+Jessie	2
+Oh	2
+Ce	2
+Allons	2
+Moi	2
+La	2
+Comment	2
+C'est	2
+Si	2
+A	2
+Tout	2
+Mondes	2
+Extérieurs	2
+Malgré	2
+Par	2
+Comme	2
+Impossible	2
+En	2
+Ne	2
+Bien	2
+Qu'est-ce	2
+Au	2
+Cependant	2
+Quoi	2
+Pauvre	2
+Je suis	2
+Ah !	2
+Elijah ?	2
+Si même	2
+Je crois	2
+Le Dr	2
+Baley eut	2
+Je ne	2
+Il n'y	2
+Pauvre Julius	2
+Julius !	2
+Le Dr Sarton	2
+Baley eut l'impression	2
+Je ne vous	2
+Pauvre Julius !	2
+Baley eut l'impression que	2
+Olivaw	1
+Ben	1
+Fais	1
+Sommes-nous	1
+Personne	1
+On	1
+Cela	1
+Spacien	1
+Pour	1
+Après	1
+Même	1
+Naturellement	1
+Nos	1
+C'était	1
+Continuez	1
+Les	1
+Tous	1
+Plus	1
+Vos	1
+J'espère	1
+Pendant	1
+De	1
+C-Fe	1
+Avec	1
+Elle	1
+L'instruction	1
+L'entrée	1
+Absolument	1
+Voudriez-vous	1
+Merci	1
+Puis	1
+Dans	1
+Quand	1
+L'assassin	1
+Impensable	1
+Aussi	1
+L'une	1
+Savez-vous	1
+Une	1
+Cinq	1
+Primitivement	1
+Votre	1
+Lije	1
+Du	1
+J'ai	1
+N'est-ce	1
+Un	1
+J'en	1
+Oh !	1
+Olivaw !	1
+Ce n'est	1
+Allons, viens,	1
+Ben !	1
+Mais le	1
+Je voudrais	1
+Ah, la	1
+Allons, ça	1
+Fais ce	1
+Alors, emmène-moi	1
+Moi, je	1
+La porte	1
+Le moment	1
+Il fallait	1
+Le pire,	1
+Il tambourina	1
+Jessie n'avait	1
+Sommes-nous sûrs	1
+Baley le	1
+Personne ne	1
+On n'a	1
+Non, Daneel.	1
+Cela ne	1
+Pas plus	1
+Comment ?	1
+C'est contraire	1
+Baley sentit	1
+Pas ouvertement,	1
+Pour moi,	1
+Après avoir	1
+Daneel, répliqua	1
+A mon	1
+La victime	1
+Il faut,	1
+Alors, sortez-les	1
+Vous usez	1
+Il va	1
+Spacetown, l'état	1
+Terre est	1
+Je dirai	1
+Spacetown, mes	1
+Terriens étaient	1
+Mondes Extérieurs.	1
+Même après	1
+Terriens, surpris	1
+Mais la	1
+Malgré la	1
+Terre et	1
+Naturellement, cet	1
+Par pur	1
+Mondes Extérieurs	1
+Extérieurs réunis	1
+Nos compatriotes,	1
+Dr Sarton...	1
+C'était un	1
+Oui, un	1
+Ah, vraiment	1
+Comme je	1
+Sarton et	1
+Spacetown -	1
+Sarton sentit	1
+Terre sont	1
+Terriens ",	1
+Sarton déclara	1
+Terrien au	1
+Il affirma	1
+Spaciens désireux	1
+Spacetown et	1
+Terriens ;	1
+Les Spaciens	1
+Spaciens ?	1
+En dépit	1
+Sarton ne	1
+Il s'en	1
+Il n'aurait	1
+Mais voyons,	1
+Baley, comment	1
+Spaciens concernant	1
+Ne l'oubliez	1
+Tous vos	1
+Plus ou	1
+Vous en	1
+Bien entendu.	1
+Comment faire	1
+Vos usines	1
+Mais je	1
+Ce disant,	1
+J'espère qu'avec	1
+Daneel, je	1
+Pendant un	1
+De toutes	1
+Daneel, le	1
+Sarton avait	1
+C/Fe ?	1
+Qu'est-ce que	1
+Tout simplement	1
+Le carbone	1
+Il devient	1
+C/Fe, quand	1
+Mais, dites-moi,	1
+C-Fe ?	1
+Avec un	1
+Non, Elijah,	1
+Elijah, avec	1
+Elle signifie	1
+Malgré lui,	1
+Baley ne	1
+L'instruction que	1
+Terriens ne	1
+L'entrée de	1
+Spacetown est,	1
+En effet,	1
+Terrien ne	1
+Alors, vous	1
+Nous serions	1
+Elijah, s'il	1
+York à	1
+Spacetown, que	1
+Baley, songeur,	1
+Daneel, qui,	1
+Vous ne	1
+Absolument pas.	1
+Je me	1
+Voudriez-vous me	1
+Alors, suivez-moi	1
+Je trace	1
+York ;	1
+Puis, en	1
+Au point	1
+Ne voyez-vous	1
+Non, bien	1
+Il n'en	1
+Dans une	1
+Terriens et	1
+Cependant, si	1
+York et	1
+Spacetown donnent,	1
+Terrien de	1
+Spacetown par	1
+Par la	1
+Spacetown, à	1
+Terriens, mais	1
+Mais ce	1
+Quand le	1
+L'assassin a	1
+Et, tout	1
+Impossible !	1
+Impensable !	1
+Comme vous	1
+Quoi qu'il	1
+Baley songea	1
+Oui, cela	1
+Bien entendu,	1
+Enderby n'avait	1
+Spaciens, car	1
+Terriens, et	1
+Au surplus,	1
+Julius Enderby	1
+Enderby ne	1
+Aussi bien,	1
+Baley se	1
+Cependant, R.	1
+R. Daneel	1
+Daneel reprit	1
+L'une après	1
+Savez-vous combien	1
+Baley secoua	1
+Une vingtaine	1
+Cinq cent	1
+Quoi ?	1
+Primitivement, il	1
+Votre ville	1
+Moi pas,	1
+Le commissaire	1
+Lije ironiquement,	1
+Il a	1
+Nous ne	1
+Nous avons	1
+Oh, oh	1
+Et vous	1
+Pas la	1
+Mais votre	1
+C'est exactement	1
+Enderby vous	1
+Vous n'éprouvez	1
+Du moment	1
+Baley en	1
+A la	1
+J'ai donc	1
+Qu'est-ce qui	1
+Vous êtes	1
+Spaciens des	1
+N'est-ce pas	1
+Elijah, que	1
+Un début,	1
+Mais une	1
+J'en suis	1
+Et c'est	1
+Je suis désolé	1
+Ce n'est pas	1
+Allons, viens, Ben	1
+Mais le garçon	1
+Je voudrais bien	1
+Ah, la barbe	1
+Allons, ça suffit	1
+Fais ce que	1
+Alors, emmène-moi au	1
+Moi, je vais	1
+La porte se	1
+Le moment fatidique	1
+Il fallait enfin	1
+Le pire, c'était	1
+Il tambourina nerveusement	1
+Jessie n'avait pas	1
+Sommes-nous sûrs de	1
+Baley le regarda,	1
+Personne ne se	1
+On n'a donc	1
+Cela ne se	1
+Pas plus qu'on	1
+C'est contraire à	1
+Baley sentit la	1
+Pas ouvertement, sans	1
+Si même il	1
+Pour moi, il	1
+Après avoir écouté	1
+R. Daneel, répliqua	1
+Daneel, répliqua :	1
+A mon avis,	1
+La victime a	1
+Il faut, pour	1
+Alors, sortez-les !	1
+Vous usez d'expressions	1
+Il va falloir	1
+Spacetown, l'état des	1
+Terre est fort	1
+Je dirai qu'elles	1
+Je crois savoir	1
+Spacetown, mes compatriotes	1
+Terriens étaient décidés	1
+Même après les	1
+Terriens, surpris et	1
+Mais la suite	1
+Malgré la coopération	1
+Terre et de	1
+Naturellement, cet état	1
+Par pur altruisme,	1
+Mondes Extérieurs réunis	1
+Extérieurs réunis excède	1
+Nos compatriotes, en	1
+C'était un savant	1
+Oui, un spécialiste	1
+Ah, vraiment ?	1
+Comme je vous	1
+Dr Sarton et	1
+Sarton et d'autres	1
+Spacetown - et	1
+Dr Sarton sentit	1
+Sarton sentit que	1
+Il est facile	1
+Terre sont par	1
+Terriens ", ou	1
+Dr Sarton déclara	1
+Sarton déclara que	1
+Terrien au moyen	1
+Il affirma que	1
+Spaciens désireux de	1
+Terriens ; ils	1
+Les Spaciens ?	1
+Vous avez parfaitement	1
+Dr Sarton ne	1
+Sarton ne put	1
+Il s'en sentait	1
+Si même on	1
+Mais voyons, demanda	1
+Baley, comment admettre	1
+Spaciens concernant nos	1
+Tous vos robots	1
+Plus ou moins,	1
+Vous en désapprouvez	1
+Comment faire admettre	1
+Vos usines ne	1
+Je suis convaincu	1
+Mais je crois	1
+Ce disant, il	1
+J'espère qu'avec le	1
+R. Daneel, je	1
+Daneel, je parviendrai	1
+Pendant un court	1
+De toutes manières,	1
+R. Daneel, le	1
+Daneel, le Dr	1
+Dr Sarton avait	1
+Qu'est-ce que c'est	1
+Tout simplement les	1
+Le carbone est	1
+Il devient facile	1
+C/Fe, quand on	1
+Mais, dites-moi, comment	1
+Avec un trait	1
+Non, Elijah, avec	1
+Elijah, avec une	1
+Elle signifie que	1
+Malgré lui, Baley	1
+Baley ne put	1
+Terriens ne comportait	1
+Eh bien, je	1
+L'entrée de Spacetown	1
+Spacetown est, bien	1
+En effet, dit	1
+Je crois pouvoir	1
+Terrien ne peut	1
+Alors, vous voilà	1
+Nous serions certainement	1
+Elijah, s'il n'y	1
+New York à	1
+York à Spacetown,	1
+Spacetown, que le	1
+Baley, songeur, observa	1
+Il n'y a	1
+Il n'y en	1
+Daneel, qui, après	1
+Vous ne voyez	1
+Je me demande	1
+Eh bien, sans	1
+Voudriez-vous me donner	1
+Alors, suivez-moi bien,	1
+Je trace ici	1
+New York ;	1
+York ; Puis,	1
+Au point de	1
+Ne voyez-vous aucun	1
+Non, bien sûr	1
+Il n'en existe	1
+Dans une certaine	1
+Terriens et leur	1
+Cependant, si la	1
+New York et	1
+York et Spacetown	1
+Spacetown donnent, l'une	1
+Il est donc	1
+Terrien de quitter	1
+Spacetown par la	1
+Par la campagne	1
+Spacetown, à ce	1
+Terriens, mais également	1
+Mais ce n'est	1
+Quand le commissaire	1
+L'assassin a dû	1
+Comme vous pouvez	1
+Quoi qu'il en	1
+Baley songea aux	1
+Oui, cela ne	1
+Bien entendu, Enderby	1
+Enderby n'avait pas	1
+Spaciens, car ceux-ci	1
+Terriens, et due	1
+Julius Enderby ne	1
+Aussi bien, les	1
+Cependant, R. Daneel	1
+R. Daneel reprit	1
+Daneel reprit son	1
+L'une après l'autre,	1
+Savez-vous combien il	1
+Baley secoua la	1
+Une vingtaine ?...	1
+Cinq cent deux.	1
+Primitivement, il y	1
+Votre ville a	1
+Moi pas, dit	1
+Le commissaire principal	1
+Il est vraiment	1
+Lije ironiquement, tout	1
+Il a du	1
+Nous ne nous	1
+Nous avons examiné	1
+Oh, oh !	1
+Et vous avez	1
+Pas la moindre.	1
+Il est bien	1
+Mais votre prise	1
+Vous avez un	1
+C'est exactement ce	1
+Enderby vous a	1
+Vous n'éprouvez aucun	1
+Du moment qu'elle	1
+Baley en resta	1
+A la bonne	1
+J'ai donc passé	1
+Eh bien, parlons	1
+Vous avez été	1
+Vous êtes un	1
+Spaciens des éléments	1
+N'est-ce pas un	1
+Un début, peut-être.	1
+Mais une enquête	1
+J'en suis convaincu.	1
+Et c'est pourquoi	1
+Je suis désolé de	1
+Ce n'est pas à	1
+Allons, viens, Ben !	1
+Mais le garçon ne	1
+Je voudrais bien savoir	1
+Ah, la barbe !	1
+Allons, ça suffit maintenant	1
+Fais ce que je	1
+Alors, emmène-moi au moins	1
+Moi, je vais avec	1
+La porte se referma	1
+Le moment fatidique était	1
+Il fallait enfin aborder	1
+Le pire, c'était qu'il	1
+Il tambourina nerveusement sur	1
+Jessie n'avait pas repliée	1
+Sommes-nous sûrs de ne	1
+Baley le regarda, très	1
+Personne ne se permettrait	1
+On n'a donc pas	1
+Cela ne se fait	1
+Pas plus qu'on ne	1
+C'est contraire à vos	1
+Baley sentit la colère	1
+Pas ouvertement, sans doute.	1
+Si même il existe	1
+Pour moi, il semble	1
+Après avoir écouté soigneusement,	1
+R. Daneel, répliqua :	1
+A mon avis, il	1
+La victime a été	1
+Il faut, pour que	1
+Vous usez d'expressions un	1
+Il va falloir que	1
+Terre est fort peu	1
+Je dirai qu'elles sont	1
+Je crois savoir qu'au	1
+Spacetown, mes compatriotes ont,	1
+Terriens étaient décidés à	1
+Même après les premières	1
+Terriens, surpris et choqués	1
+Mais la suite des	1
+Malgré la coopération effective	1
+Terre et de ceux	1
+Naturellement, cet état de	1
+Par pur altruisme, j'imagine,	1
+Mondes Extérieurs réunis excède	1
+Extérieurs réunis excède à	1
+Nos compatriotes, en particulier	1
+C'était un savant ?	1
+Oui, un spécialiste des	1
+Comme je vous le	1
+Dr Sarton et d'autres	1
+Spacetown - et tout	1
+Le Dr Sarton sentit	1
+Dr Sarton sentit que	1
+Sarton sentit que l'heure	1
+Il est facile de	1
+Terre sont par nature	1
+Terriens ", ou de	1
+Le Dr Sarton déclara	1
+Dr Sarton déclara que	1
+Sarton déclara que de	1
+Terrien au moyen d'un	1
+Il affirma que les	1
+Spaciens désireux de réformer	1
+Terriens ; ils devraient	1
+Vous avez parfaitement raison,	1
+Dr Sarton ne put	1
+Sarton ne put jamais	1
+Il s'en sentait incapable.	1
+Si même on l'avait	1
+Mais voyons, demanda Baley,	1
+Baley, comment admettre cette	1
+Spaciens concernant nos maladies	1
+Tous vos robots sont-ils	1
+Plus ou moins, dit	1
+Comment faire admettre qu'une	1
+Vos usines ne peuvent-elles	1
+Je suis convaincu que	1
+Mais je crois que	1
+Ce disant, il regarda	1
+J'espère qu'avec le temps,	1
+R. Daneel, je parviendrai	1
+Daneel, je parviendrai à	1
+Pendant un court instant,	1
+De toutes manières, reprit	1
+R. Daneel, le Dr	1
+Daneel, le Dr Sarton	1
+Qu'est-ce que c'est que	1
+Tout simplement les symboles	1
+Le carbone est l'élément	1
+C/Fe, quand on désire	1
+Mais, dites-moi, comment écrivez-vous	1
+Avec un trait d'union	1
+Non, Elijah, avec une	1
+Elijah, avec une barre	1
+Malgré lui, Baley ne	1
+Baley ne put s'empêcher	1
+Terriens ne comportait à	1
+Eh bien, je ne	1
+L'entrée de Spacetown est,	1
+Spacetown est, bien entendu,	1
+En effet, dit R.	1
+Je crois pouvoir affirmer	1
+Terrien ne peut franchir	1
+Alors, vous voilà bien	1
+Nous serions certainement dans	1
+Elijah, s'il n'y avait,	1
+New York à Spacetown,	1
+York à Spacetown, que	1
+Baley, songeur, observa attentivement	1
+Je ne vous suis	1
+Il n'y a pas	1
+Il n'y en a	1
+Daneel, qui, après avoir	1
+Vous ne voyez toujours	1
+Je me demande à	1
+Eh bien, sans vouloir	1
+Voudriez-vous me donner du	1
+Alors, suivez-moi bien, Elijah.	1
+Je trace ici un	1
+New York ; Puis,	1
+York ; Puis, en	1
+Au point de tangence	1
+Ne voyez-vous aucun autre	1
+Non, bien sûr !	1
+Il n'en existe pas	1
+Dans une certaine mesure,	1
+Terriens et leur méthode	1
+Cependant, si la barrière	1
+New York et Spacetown	1
+York et Spacetown donnent,	1
+Spacetown donnent, l'une et	1
+Il est donc possible	1
+Terrien de quitter la	1
+Spacetown par la campagne,	1
+Par la campagne ?	1
+Spacetown, à ce moment	1
+Terriens, mais également pour	1
+Mais ce n'est pas	1
+Quand le commissaire principal	1
+L'assassin a dû venir	1
+Comme vous pouvez l'imaginer,	1
+Quoi qu'il en soit,	1
+Baley songea aux lunettes	1
+Oui, cela ne pouvait	1
+Bien entendu, Enderby n'avait	1
+Spaciens, car ceux-ci considéraient	1
+Terriens, et due au	1
+Aussi bien, les Terriens	1
+Cependant, R. Daneel reprit	1
+R. Daneel reprit son	1
+Daneel reprit son exposé	1
+L'une après l'autre, toutes	1
+Savez-vous combien il y	1
+Baley secoua la tête,	1
+Primitivement, il y en	1
+Votre ville a grandi	1
+Moi pas, dit R.	1
+Le commissaire principal nous	1
+Il est vraiment trop	1
+Il a du remords	1
+Nous ne nous en	1
+Nous avons examiné votre	1
+Et vous avez une	1
+Il est bien évident	1
+Mais votre prise de	1
+Vous avez un sens	1
+C'est exactement ce qu'il	1
+Enderby vous a bien	1
+Vous n'éprouvez aucun ressentiment,	1
+Du moment qu'elle ne	1
+Baley en resta interloqué,	1
+A la bonne heure	1
+J'ai donc passé avec	1
+Eh bien, parlons un	1
+Je ne vous comprends	1
+Vous avez été dessiné	1
+Vous êtes un sosie	1
+Spaciens des éléments précis	1
+N'est-ce pas un bon	1
+Mais une enquête exige	1
+Et c'est pourquoi on	1

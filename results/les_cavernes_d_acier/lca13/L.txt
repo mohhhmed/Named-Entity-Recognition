@@ -1,0 +1,797 @@
+Baley	20
+Daneel	18
+Je	18
+Jessie	17
+Elle	13
+Lije	12
+R	11
+C'est	9
+Et	9
+Mais	7
+Il	7
+Alors	6
+As-tu	6
+Je ne	6
+Ca	5
+J'ai	5
+Allons	5
+Spaciens	5
+Un	4
+Qu'est-ce	4
+Ce	4
+On	4
+Bible	4
+Jessie !	4
+R. Daneel	4
+Est-ce	3
+Oui	3
+A	3
+Tout	3
+Tu	3
+Nous	3
+La	3
+R. Daneel.	3
+R. Daneel,	3
+Qu'est-ce que	3
+Depuis	2
+Sur	2
+Ne	2
+Dans	2
+Si	2
+Pas	2
+Réponds-moi	2
+Eh	2
+Décadent	2
+Elisabeth	2
+Cités	2
+C'était	2
+Quand	2
+Cela	2
+Klemin	2
+Pour	2
+Non	2
+Elijah	2
+C'est bien	2
+Ca ne	2
+Lije ?	2
+Ca m'est	2
+Tu ne	2
+Baley lui	2
+Lije !	2
+Allons, Jessie	2
+Jessie, de	2
+Je t'en	2
+Eh bien,	2
+Spaciens, qui	2
+Décadent !	2
+Est-ce que	2
+Ce qu'il	2
+Daneel ;	2
+Je n'en	2
+Je le	2
+Ca m'est égal	2
+Allons, Jessie !	2
+Qu'est-ce que tu	2
+R. Daneel ;	2
+Je n'en sais	2
+Je n'en sais rien.	2
+Mieux	1
+Moi	1
+Quelle	1
+Le	1
+Commandez	1
+Oh	1
+Sois	1
+L'opération	1
+Dès	1
+Hôtel	1
+Ville	1
+Voyons	1
+L'égarement	1
+Ecoute	1
+Quoi	1
+Lizzy	1
+En	1
+Terre	1
+Jane	1
+Myers	1
+Quant	1
+Pardonnez-moi	1
+Continuez	1
+Ainsi	1
+Bien	1
+De	1
+Jézabel	1
+Bon	1
+Justement	1
+Ici	1
+Là	1
+Combien	1
+Soixante	1
+Quelqu'un	1
+Ces	1
+Les	1
+Toilettes	1
+Sa	1
+Ah	1
+Bentley	1
+Qui	1
+Joseph	1
+Comment	1
+Y	1
+Quelquefois	1
+Peut-être	1
+D'autre	1
+Rien	1
+Une	1
+Plus	1
+Peu	1
+Aucun	1
+Jésus	1
+Cette	1
+L'homme	1
+Où	1
+Francis	1
+Clousarr	1
+Avez-vous	1
+Ils	1
+Est-ce que...	1
+Elle leva	1
+Baley, puis,	1
+Oui, Jessie,	1
+Jessie, fit	1
+Mais non,	1
+Jessie, puisque	1
+Et moi,	1
+A quoi	1
+Mieux vaut	1
+Moi, je	1
+Depuis hier,	1
+Tout m'est	1
+Mais tu	1
+Lije, n'est-ce	1
+J'ai... j'ai	1
+Daneel :	1
+Elle n'est	1
+Nous ne	1
+Le commissaire	1
+Commandez une	1
+Daneel, et	1
+Sur l'autoroute	1
+Jessie en	1
+Oh !	1
+Ne déraisonne	1
+Dans l'état	1
+Sois gentille,	1
+Si tu	1
+Elle essuya	1
+L'opération avait	1
+Baley l'avait	1
+Allons, viens	1
+Elle eut	1
+Dès qu'ils	1
+Baley arrêta	1
+Alors, Jessie,	1
+Depuis leur	1
+Ville, la	1
+Daneel, sans	1
+As-tu commis	1
+Un véritable	1
+Un crime	1
+Voyons Jessie,	1
+Jessie, reprends-toi	1
+Pas de	1
+Réponds-moi simplement	1
+As-tu... as-tu	1
+L'égarement de	1
+Jessie fit	1
+Qu'est-ce qui	1
+Réponds-moi oui	1
+Baley sentit	1
+Alors, quoi	1
+As-tu volé	1
+As-tu attaqué	1
+As-tu détérioré	1
+Allons, parle	1
+Je n'ai...	1
+Ecoute, Lije,	1
+Lije, fit-elle	1
+Oui, jusqu'à	1
+Quoi qu'il	1
+Lizzy parlait	1
+En prévision	1
+Elle disait	1
+Terre dans	1
+La décadence,	1
+Elle examinait	1
+Jane Myers	1
+Myers l'imitait	1
+Quant à	1
+Elisabeth, elle	1
+Cités, où	1
+Cités en	1
+Mais elle	1
+Pardonnez-moi de	1
+Jessie ;	1
+Continuez, je	1
+Baley s'agita	1
+C'était une	1
+Jessie, que	1
+Quand Elisabeth	1
+Elisabeth parlait	1
+Ainsi, elle	1
+A la	1
+Elle aurait	1
+Bien entendu,	1
+De toute	1
+Lije, notre	1
+Elle s'arrêta	1
+Allons, continue,	1
+Lije, reprit-elle,	1
+Jézabel ?	1
+Alors elle	1
+Bon !	1
+Un mois	1
+C'est d'accord,	1
+Et depuis	1
+Et tu	1
+Il commençait	1
+Dans un	1
+Justement ici,	1
+Ici même	1
+Là où	1
+Je veux	1
+C'est pour	1
+C'est un	1
+Combien étiez-vous	1
+Soixante, soixante-dix	1
+Ca se	1
+On y	1
+Quelqu'un faisait	1
+Ces discours	1
+On se	1
+Ce qui	1
+Nous nous	1
+Cela obligerait	1
+Spaciens retournent	1
+J'ai toujours	1
+Alors, on	1
+C'est maintenant	1
+On va	1
+Les femmes	1
+Mais moi,	1
+Sa voix	1
+Mais voyons,	1
+Jessie, c'était	1
+Tu vois	1
+Ah, je	1
+J'ai eu	1
+Je me	1
+Je fais	1
+Si on	1
+Lije va	1
+Bentley aussi	1
+Elle s'effondra	1
+Baley, qui	1
+Et maintenant,	1
+Jessie, dit	1
+Qui était	1
+Elle se	1
+Il y	1
+Joseph Klemin,	1
+Klemin, mais,	1
+Lije, sur	1
+Pour l'instant,	1
+Comment Klemin	1
+Klemin recevait-il	1
+Y avait-il	1
+Quelquefois, il	1
+Et toi,	1
+Lije, que	1
+Ne te	1
+Mais combien	1
+Peut-être un	1
+Quand Baley	1
+Baley se	1
+J'ai l'impression,	1
+Tout d'abord,	1
+D'autre part,	1
+C'est ce	1
+Nous pouvons	1
+Jessie nous	1
+Tout cela	1
+Daneel, à	1
+Pour ma	1
+Baley, j'estime	1
+Et vous	1
+Rien dans	1
+J'ai la	1
+Baley d'un	1
+Daneel ?	1
+Il en	1
+C'est possible,	1
+Elle est	1
+Une volonté	1
+Et dans	1
+Baley, dévisageant	1
+Il faut	1
+Bible joue	1
+Bible ?	1
+Sur le	1
+Baley ;	1
+Il savait	1
+Daneel ne	1
+La Bible,	1
+Bible, répliqua-t-il	1
+Je m'excuse,	1
+Un livre	1
+Bible contient	1
+Daneel eut	1
+Il s'en	1
+Elle ne	1
+Elle exige	1
+C'est vous	1
+Plus de	1
+Cela aussi	1
+Je crois,	1
+Baley en	1
+Peu importe.	1
+C'était un	1
+Et cette	1
+Alors, pourquoi	1
+Aucun de	1
+Jésus leur	1
+Cette histoire	1
+L'homme est	1
+Ce sont	1
+Non, Elijah.	1
+On ne	1
+Il démarra	1
+Où allons-nous	1
+A l'usine	1
+Francis Clousarr,	1
+Clousarr, conspirateur.	1
+Avez-vous une	1
+Elijah ?	1
+Non, pas	1
+Daneel !	1
+Pas précisément	1
+Mais vous,	1
+Ils se	1
+Est-ce que... est-ce	1
+Elle leva une	1
+Baley, puis, respirant	1
+C'est bien vous	1
+Oui, Jessie, fit	1
+Jessie, fit R.	1
+Ca ne vous	1
+Mais non, Jessie,	1
+Jessie, puisque c'est	1
+Et moi, ça	1
+A quoi bon	1
+Mieux vaut qu'il	1
+Moi, je ne	1
+Depuis hier, je	1
+Tout m'est égal.	1
+Mais tu ne	1
+Tu ne les	1
+Baley lui caressa	1
+Elle n'est pas	1
+Nous ne pouvons	1
+Le commissaire principal	1
+Commandez une voiture,	1
+Daneel, et nous	1
+Sur l'autoroute !	1
+Jessie en redressant	1
+Ne déraisonne pas	1
+Dans l'état où	1
+Sois gentille, fais	1
+Elle essuya son	1
+L'opération avait duré	1
+Allons, viens maintenant	1
+Elle eut à	1
+Dès qu'ils eurent	1
+Baley arrêta la	1
+Alors, Jessie, de	1
+Jessie, de quoi	1
+Depuis leur départ	1
+Ville, la jeune	1
+R. Daneel, sans	1
+Daneel, sans prononcer	1
+Je t'en prie,	1
+As-tu commis un	1
+Un crime ?	1
+Voyons Jessie, reprends-toi	1
+Jessie, reprends-toi !	1
+Pas de simagrées,	1
+Réponds-moi simplement oui	1
+As-tu... as-tu tué	1
+L'égarement de Jessie	1
+Jessie fit place	1
+Qu'est-ce qui te	1
+Réponds-moi oui ou	1
+Eh bien, non,	1
+Baley sentit la	1
+Alors, quoi ?	1
+As-tu volé quelque	1
+As-tu attaqué quelqu'un	1
+As-tu détérioré du	1
+Allons, parle !	1
+Je n'ai... je	1
+Ecoute, Lije, fit-elle	1
+Lije, fit-elle en	1
+Oui, jusqu'à ce	1
+Quoi qu'il en	1
+Lizzy parlait tout	1
+Elle disait que	1
+Spaciens, qui tenaient	1
+Terre dans un	1
+La décadence, c'était	1
+Elle examinait les	1
+Jane Myers l'imitait	1
+Myers l'imitait à	1
+Quant à Elisabeth,	1
+Elisabeth, elle répétait	1
+Spaciens, qui essaient	1
+Cités en nous	1
+Mais elle n'appelait	1
+Pardonnez-moi de répéter	1
+Je ne connais	1
+Jessie ; mais,	1
+Continuez, je vous	1
+Baley s'agita nerveusement	1
+C'était une vraie	1
+Jessie, que de	1
+Quand Elisabeth parlait	1
+Elisabeth parlait ainsi,	1
+Ainsi, elle disait	1
+A la dernière	1
+Elle aurait voulu	1
+Bien entendu, je	1
+De toute façon,	1
+Lije, notre mariage	1
+Elle s'arrêta court.	1
+Allons, continue, Jessie	1
+Est-ce que tu	1
+Lije, reprit-elle, la	1
+Alors elle a	1
+Eh bien, j'en	1
+Un mois plus	1
+C'est d'accord, vous	1
+Et depuis cette	1
+Et tu ne	1
+Je t'en demande	1
+Ca ne sert	1
+Jessie, de me	1
+Il commençait à	1
+Ce qu'il avait	1
+Justement ici, répondit-elle.	1
+Ici même !	1
+Là où nous	1
+Je veux dire	1
+C'est pour ça	1
+C'est un endroit	1
+Combien étiez-vous ?	1
+Je ne sais	1
+Soixante, soixante-dix peutêtre...	1
+Ca se passait	1
+On y apportait	1
+Quelqu'un faisait un	1
+On se bornait	1
+Ce qui nous	1
+Nous nous jurions	1
+Cela obligerait le	1
+J'ai toujours pensé	1
+Alors, on a	1
+On va faire	1
+Les femmes en	1
+Mais moi, je	1
+Sa voix se	1
+Baley lui dit,	1
+Mais voyons, Jessie,	1
+Jessie, c'était de	1
+Tu vois bien	1
+Ah, je ne	1
+J'ai eu si	1
+Je fais partie	1
+Si on tue	1
+Lije va se	1
+Bentley aussi peutêtre,	1
+Elle s'effondra en	1
+Baley, qui la	1
+Daneel ; celui-ci,	1
+Et maintenant, Jessie,	1
+Jessie, dit son	1
+Qui était le	1
+Elle se calma	1
+Il y avait	1
+Joseph Klemin, mais,	1
+Klemin, mais, en	1
+Je ne pense	1
+Tu ne vas	1
+Lije, sur mon	1
+Pour l'instant, je	1
+Comment Klemin recevait-il	1
+Klemin recevait-il des	1
+Y avait-il des	1
+Quelquefois, il y	1
+Et toi, Lije,	1
+Lije, que vas-tu	1
+Ne te fais	1
+Je ne cours	1
+Mais combien de	1
+Peut-être un ou	1
+Quand Baley se	1
+Baley se retrouva	1
+J'ai l'impression, finit-il	1
+Tout d'abord, à	1
+D'autre part, une	1
+C'est ce petit	1
+Nous pouvons laisser	1
+Jessie nous a	1
+Tout cela va	1
+R. Daneel, à	1
+Daneel, à la	1
+Pour ma part,	1
+Baley, j'estime qu'elle	1
+Et vous avez	1
+Rien dans ses	1
+J'ai la prétention	1
+Je ne vois	1
+C'est bien entendu,	1
+Il en sera	1
+C'est possible, mais	1
+Elle est venue	1
+Je ne vous	1
+Une volonté peut-elle	1
+Baley, dévisageant longuement	1
+Il faut vous	1
+Bible joue un	1
+Qu'est-ce que la	1
+Sur le moment,	1
+Baley ; mais	1
+Il savait fort	1
+R. Daneel ne	1
+Daneel ne pouvait	1
+La Bible, répliqua-t-il	1
+Bible, répliqua-t-il sèchement,	1
+Je m'excuse, dit	1
+Daneel ; mais	1
+Un livre sacré	1
+Bible contient de	1
+R. Daneel eut	1
+Daneel eut l'air	1
+Est-ce que cette	1
+Il s'en faut	1
+Elle ne se	1
+Elle exige que	1
+C'est vous dire	1
+Plus de portée	1
+Cela aussi me	1
+Je crois, répliqua	1
+Baley en souriant	1
+C'était un crime,	1
+Et cette femme	1
+Alors, pourquoi n'a-t-elle	1
+Aucun de ses	1
+Jésus leur avait	1
+Cette histoire sert	1
+Ce sont là	1
+On ne m'a	1
+Je le sais,	1
+Je le sais	1
+Il démarra brusquement	1
+Où allons-nous ?	1
+A l'usine de	1
+Francis Clousarr, conspirateur.	1
+Avez-vous une méthode	1
+Non, pas moi,	1
+Pas précisément !	1
+Mais vous, vous	1
+Ils se hâtèrent	1
+Est-ce que... est-ce que	1
+Elle leva une main	1
+Baley, puis, respirant profondément,	1
+C'est bien vous n'est-ce	1
+Oui, Jessie, fit R.	1
+Jessie, fit R. Daneel.	1
+Ca ne vous fait	1
+Mais non, Jessie, puisque	1
+Jessie, puisque c'est ce	1
+Et moi, ça ne	1
+A quoi bon me	1
+Moi, je ne peux	1
+Depuis hier, je vis	1
+Ca m'est égal d'aller	1
+Ca m'est égal d'être	1
+Mais tu ne les	1
+Tu ne les laisseras	1
+Baley lui caressa l'épaule	1
+Elle n'est pas bien.	1
+Nous ne pouvons la	1
+Le commissaire principal peut	1
+Commandez une voiture, Daneel,	1
+Daneel, et nous parlerons	1
+Jessie en redressant vivement	1
+Ne déraisonne pas !	1
+Dans l'état où tu	1
+Sois gentille, fais un	1
+Elle essuya son visage	1
+L'opération avait duré plus	1
+Allons, viens maintenant !	1
+Elle eut à peine	1
+Dès qu'ils eurent atteint	1
+Baley arrêta la voiture,	1
+Alors, Jessie, de quoi	1
+Jessie, de quoi s'agit-il	1
+Depuis leur départ de	1
+Ville, la jeune femme	1
+R. Daneel, sans prononcer	1
+Daneel, sans prononcer une	1
+Je t'en prie, dis-nous	1
+As-tu commis un crime	1
+Voyons Jessie, reprends-toi !	1
+Pas de simagrées, veux-tu	1
+Réponds-moi simplement oui ou	1
+L'égarement de Jessie fit	1
+Jessie fit place à	1
+Qu'est-ce qui te prend,	1
+Réponds-moi oui ou non.	1
+Eh bien, non, bien	1
+Baley sentit la barre	1
+As-tu volé quelque chose	1
+As-tu attaqué quelqu'un ?	1
+As-tu détérioré du matériel	1
+Je n'ai... je n'ai	1
+Ecoute, Lije, fit-elle en	1
+Oui, jusqu'à ce que	1
+Qu'est-ce que tu es	1
+Quoi qu'il en soit,	1
+Lizzy parlait tout le	1
+Elle disait que c'était	1
+Spaciens, qui tenaient à	1
+La décadence, c'était un	1
+Elle examinait les menus	1
+Jane Myers l'imitait à	1
+Myers l'imitait à la	1
+Quant à Elisabeth, elle	1
+Elisabeth, elle répétait sans	1
+Spaciens, qui essaient de	1
+Cités en nous imposant	1
+Pardonnez-moi de répéter le	1
+Je ne connais pas	1
+Jessie ; mais, de	1
+Continuez, je vous prie.	1
+Baley s'agita nerveusement sur	1
+Jessie, que de ne	1
+Quand Elisabeth parlait ainsi,	1
+Elisabeth parlait ainsi, continua-t-elle,	1
+Ainsi, elle disait :	1
+A la dernière réunion...	1
+Elle aurait voulu sans	1
+Bien entendu, je ne	1
+De toute façon, Lije,	1
+Lije, notre mariage a	1
+Allons, continue, Jessie !	1
+Est-ce que tu te	1
+Lije, reprit-elle, la discussion	1
+Alors elle a fini	1
+Eh bien, j'en parlerai	1
+Un mois plus tard,	1
+Et depuis cette époque-là,	1
+Et tu ne m'en	1
+Je t'en demande pardon,	1
+Ca ne sert à	1
+Jessie, de me demander	1
+Il commençait à se	1
+Ce qu'il avait essayé	1
+Qu'est-ce que tu dis	1
+Là où nous sommes	1
+Je veux dire :	1
+C'est pour ça que	1
+Je ne sais pas	1
+Soixante, soixante-dix peutêtre... Ca	1
+Ca se passait sur	1
+On y apportait des	1
+Quelqu'un faisait un discours,	1
+On se bornait à	1
+Ce qui nous faisait	1
+Cela obligerait le gouvernement	1
+J'ai toujours pensé que	1
+Alors, on a dit	1
+On va faire un	1
+Les femmes en ont	1
+Mais moi, je m'en	1
+Sa voix se brisa,	1
+Baley lui dit, doucement	1
+Mais voyons, Jessie, c'était	1
+Jessie, c'était de l'enfantillage	1
+Ah, je ne sais	1
+J'ai eu si peur,	1
+Je fais partie du	1
+Si on tue quelqu'un,	1
+Lije va se faire	1
+Bentley aussi peutêtre, et	1
+Elle s'effondra en sanglotant	1
+R. Daneel ; celui-ci,	1
+Daneel ; celui-ci, ne	1
+Et maintenant, Jessie, dit	1
+Jessie, dit son mari,	1
+Qui était le chef	1
+Elle se calma petit	1
+Il y avait un	1
+Joseph Klemin, mais, en	1
+Klemin, mais, en réalité,	1
+Je ne pense pas	1
+Tu ne vas pas	1
+Lije, sur mon témoignage	1
+Pour l'instant, je n'ai	1
+Comment Klemin recevait-il des	1
+Klemin recevait-il des ordres	1
+Y avait-il des étrangers	1
+Quelquefois, il y avait	1
+Et toi, Lije, que	1
+Lije, que vas-tu faire	1
+Ne te fais pas	1
+Je ne cours aucun	1
+Mais combien de temps	1
+Peut-être un ou deux	1
+Quand Baley se retrouva	1
+Baley se retrouva seul	1
+J'ai l'impression, finit-il par	1
+Tout d'abord, à la	1
+C'est ce petit groupe	1
+Nous pouvons laisser de	1
+Jessie nous a parlé.	1
+Tout cela va de	1
+R. Daneel, à la	1
+Pour ma part, répliqua	1
+Et vous avez apparemment	1
+J'ai la prétention de	1
+Je ne vois donc	1
+C'est bien entendu, n'est-ce	1
+Il en sera fait	1
+C'est possible, mais cela	1
+Elle est venue nous	1
+Je ne vous comprends	1
+Une volonté peut-elle vraiment	1
+Baley, dévisageant longuement le	1
+Il faut vous dire,	1
+Bible joue un grand	1
+Qu'est-ce que la Bible	1
+Sur le moment, la	1
+Baley ; mais aussitôt	1
+R. Daneel ne pouvait	1
+La Bible, répliqua-t-il sèchement,	1
+Bible, répliqua-t-il sèchement, est	1
+Je m'excuse, dit R.	1
+R. Daneel ; mais	1
+Daneel ; mais vous	1
+Un livre sacré est	1
+Bible contient de nombreux	1
+R. Daneel eut l'air	1
+Daneel eut l'air de	1
+Est-ce que cette règle	1
+Il s'en faut de	1
+Elle ne se prête	1
+Elle exige que chaque	1
+C'est vous dire que,	1
+Plus de portée qu'une	1
+Cela aussi me parait	1
+Je crois, répliqua Baley	1
+Baley en souriant finement,	1
+C'était un crime, et,	1
+Et cette femme était	1
+Alors, pourquoi n'a-t-elle pas	1
+Aucun de ses accusateurs	1
+Jésus leur avait déclaré.	1
+Cette histoire sert à	1
+Ce sont là deux	1
+On ne m'a pas	1
+Je le sais, murmura	1
+Je le sais bien	1
+Il démarra brusquement et	1
+A l'usine de levure,	1
+Avez-vous une méthode particulière	1
+Non, pas moi, Daneel	1
+Ils se hâtèrent vers	1

@@ -1,0 +1,592 @@
+Baley	20
+Daneel	20
+Enderby	15
+R	13
+Fastolfe	12
+Dr	11
+R. Daneel	10
+Vous	8
+Sarton	8
+Je	6
+Mais	6
+Le	5
+Spaciens	5
+Et	5
+Toilettes	5
+On	4
+La	4
+Elijah	4
+Or	3
+Il	3
+Ne	3
+Un	3
+Comment	3
+Ce	3
+Hier	3
+C'est	3
+Dr Sarton	3
+Dr Fastolfe.	3
+C'était	2
+Lije	2
+J'ai	2
+Non	2
+Supposez	2
+Après	2
+Cette	2
+Rien	2
+Si	2
+Spacien	2
+Robotique	2
+Pour	2
+En	2
+Nous	2
+Monsieur	2
+Quels	2
+Spacetown	2
+Que	2
+C'était bien	2
+Dr Sarton.	2
+Vous avez	2
+Dr Sarton,	2
+Baley en	2
+R. Daneel.	2
+Enderby parut	2
+Comment donc	2
+Ce n'est	2
+Daneel a	2
+Baley se	2
+Hier soir,	2
+Le commissaire	2
+Baley ne	2
+Daneel est	2
+Monsieur le	2
+Quels complices	2
+Daneel a été	2
+Monsieur le commissaire	2
+Quels complices ?	2
+Monsieur le commissaire principal,	2
+Terriens	1
+Julius	1
+Oui	1
+Avez-vous	1
+Etant	1
+Puis-je	1
+Trois	1
+Veuillez	1
+Bien	1
+Mondes	1
+Extérieurs	1
+Ah	1
+C	1
+Fe	1
+Reprenant	1
+Terre	1
+Elle	1
+Par	1
+Dans	1
+Certainement	1
+Très	1
+Qu'avez-vous	1
+Jessie	1
+Quand	1
+J'en	1
+Peut-être	1
+Autant	1
+Personne	1
+Pas	1
+Olivaw	1
+Moi	1
+Pourquoi	1
+Avant	1
+Les	1
+Terrien	1
+New-Yorkais	1
+Washington	1
+Mon	1
+Vraiment	1
+Voyons	1
+Oh	1
+Tout	1
+Eh	1
+Voulez-vous	1
+On aurait	1
+Enderby, on	1
+Le brave	1
+Spaciens, c'était	1
+Spaciens ne	1
+Or, voici	1
+Vous vous	1
+Lije !	1
+J'ai vu	1
+Sarton, répliqua	1
+Baley, en	1
+Non, non,	1
+Lije, dit	1
+Je connaissais	1
+Sarton, et	1
+Il porta	1
+Je l'ai	1
+Et que	1
+Sarton ?	1
+Oui, sans	1
+Un être	1
+Supposez que	1
+Vous me	1
+Avez-vous regardé	1
+Je n'ai	1
+Fastolfe riposta	1
+Vous devez	1
+Etant donné	1
+Puis-je fumer	1
+Trois pipes	1
+Après tout,	1
+Spaciens, et	1
+Mais Fastolfe	1
+Fastolfe lui	1
+Veuillez m'excuser,	1
+Cette "	1
+Baley sentit	1
+Il remit	1
+Bien sûr	1
+Enderby ne	1
+Mondes Extérieurs,	1
+Extérieurs, on	1
+Rien d'étonnant	1
+Ah !	1
+C/Fe !...	1
+Daneel puisse	1
+Reprenant la	1
+Fastolfe :	1
+La ressemblance	1
+Hier, tandis	1
+Terre ont	1
+Mais un	1
+Daneel représente	1
+Si je	1
+Elle a	1
+Par conséquent	1
+La partie	1
+Spacien à	1
+Vous aurez	1
+Je m'en	1
+Cette opération	1
+Un besoin	1
+La justice,	1
+Fastolfe, est	1
+Si vous	1
+Dans l'état	1
+Vous donc,	1
+Robotique, vous	1
+Pour moi,	1
+Daneel voulait	1
+En arrivant	1
+La raison	1
+Or, pendant	1
+Toilettes, comme	1
+En tant	1
+Mais en	1
+On ne	1
+Fastolfe fit	1
+Très intéressant,	1
+Mais pourquoi	1
+Daneel ce	1
+Toilettes ?	1
+Enderby se	1
+Je vous	1
+Fastolfe !	1
+Ne vous	1
+Spacien, dont	1
+Je suis	1
+Daneel n'offusquera	1
+Qu'avez-vous à	1
+Daneel ?	1
+Jessie, la	1
+Quand elle	1
+J'en ai	1
+Elijah avait	1
+Le secret	1
+Elijah m'avait	1
+Nous avons	1
+Or, Elijah	1
+Peut-être, rétorqua	1
+Baley avec	1
+Comment ces	1
+Autant que	1
+Enderby et	1
+Non, dit	1
+Enderby, qui	1
+Rien que	1
+Et lui,	1
+Baley, montrant	1
+Daneel Olivaw.	1
+Moi ?	1
+Pourquoi pas	1
+J'ai été	1
+C'est faux	1
+Baley, farouchement.	1
+Avant d'entrer	1
+Toilettes, et,	1
+C'est à	1
+Un assassinat	1
+Spacetown pour	1
+On vous	1
+Les Spaciens	1
+Spaciens affirment	1
+Terrien ;	1
+New-Yorkais a	1
+Spacetown, à	1
+Que se	1
+On envoie	1
+Sarton, vous	1
+Après quoi,	1
+Fastolfe, ayant	1
+Daneel pour	1
+Sarton dans	1
+Sarton pour	1
+Daneel dans	1
+C'est exactement	1
+Et je	1
+Nous serons	1
+Et notre	1
+Pour ma	1
+Mon cher	1
+Baley, répliqua	1
+Fastolfe en	1
+Vraiment, vous	1
+Voyons, supposez	1
+Daneel soit	1
+Supposez qu'il	1
+Il en	1
+Enderby était	1
+Enderby a	1
+Daneel et	1
+Oh !	1
+Baley, si	1
+Robotique, et,	1
+Daneel !	1
+Ne nous	1
+Baley, je	1
+Que direz-vous,	1
+Eh bien	1
+Daneel pinça	1
+Mais d'un	1
+Voulez-vous vous	1
+Baley ?	1
+Mais Baley	1
+Baley entendit	1
+On aurait fait	1
+Enderby, on lui	1
+Le brave Julius	1
+C'était bien pour	1
+Spaciens ne pût	1
+Vous vous trompez	1
+J'ai vu moimême	1
+Vous avez vu	1
+Dr Sarton, répliqua	1
+Baley, en songeant	1
+Non, non, Lije,	1
+Lije, dit Enderby.	1
+Je connaissais bien	1
+Sarton, et sa	1
+C'était bien lui.	1
+Il porta la	1
+Je l'ai examiné	1
+Et que pensez-vous	1
+Baley en désignant	1
+Dr Sarton ?	1
+Oui, sans doute,	1
+Un être humain	1
+Vous me dites	1
+Avez-vous regardé d'assez	1
+Enderby parut scandalisé	1
+Comment donc l'avez-vous	1
+Je n'ai pas	1
+Enderby parut profondément	1
+Vous devez sûrement	1
+Etant donné le	1
+Puis-je fumer ?	1
+Trois pipes dans	1
+Après tout, il	1
+Spaciens, et de	1
+Mais Fastolfe lui	1
+Fastolfe lui répondit	1
+Veuillez m'excuser, mais	1
+Cette " préférence	1
+Baley sentit qu'elle	1
+Il remit donc	1
+Bien sûr !	1
+Enderby ne m'a	1
+Mondes Extérieurs, on	1
+Extérieurs, on ne	1
+Rien d'étonnant à	1
+Comment donc R.	1
+C/Fe !... Ce	1
+Ce n'est pas	1
+R. Daneel puisse	1
+Daneel puisse faire	1
+Reprenant la discussion,	1
+La ressemblance trop	1
+Hier, tandis que	1
+Terre ont sans	1
+Mais un type	1
+R. Daneel représente	1
+Daneel représente tout	1
+Si je ne	1
+Elle a donc	1
+Par conséquent il	1
+Baley se crispa	1
+Spacien à son	1
+Vous aurez beau	1
+Hier soir, en	1
+Je m'en porte	1
+Cette opération a	1
+Un besoin de	1
+La justice, docteur	1
+Si vous définissez	1
+Dans l'état actuel	1
+Vous donc, expert	1
+Robotique, vous admettez	1
+Pour moi, la	1
+R. Daneel voulait	1
+Daneel voulait dire	1
+Le commissaire principal	1
+En arrivant chez	1
+La raison qu'il	1
+Or, pendant la	1
+Toilettes, comme il	1
+En tant qu'homme,	1
+Mais en tant	1
+Daneel est un	1
+Fastolfe fit un	1
+Très intéressant, fit-il.	1
+Mais pourquoi ne	1
+Daneel ce qu'il	1
+Le commissaire Enderby	1
+Enderby se pencha	1
+Je vous en	1
+Ce n'est vraiment	1
+Ne vous tracassez	1
+Spacien, dont les	1
+Je suis certain	1
+Daneel n'offusquera ni	1
+Qu'avez-vous à nous	1
+Hier soir, répondit	1
+Jessie, la femme	1
+Quand elle est	1
+J'en ai automatiquement	1
+Elijah avait été	1
+Le secret de	1
+Elijah m'avait assuré	1
+Nous avons parlé	1
+Peut-être, rétorqua Baley	1
+Baley avec feu,	1
+Comment ces bruits	1
+Enderby et moi-même,	1
+Non, dit Enderby,	1
+Enderby, qui sembla	1
+Rien que nous	1
+Et lui, dit	1
+Baley, montrant Daneel	1
+Pourquoi pas ?	1
+J'ai été constamment	1
+C'est faux !	1
+C'est à ce	1
+Baley se leva	1
+Spacetown pour rendre	1
+On vous montre	1
+Les Spaciens affirment	1
+Terrien ; or,	1
+New-Yorkais a pu	1
+Spacetown, à travers	1
+Que se passe-t-il	1
+On envoie en	1
+Vous avez construit	1
+Dr Sarton, vous	1
+Après quoi, dit	1
+Fastolfe, ayant utilisé	1
+R. Daneel pour	1
+Dr Sarton dans	1
+Sarton dans le	1
+Dr Sarton pour	1
+Sarton pour personnifier	1
+R. Daneel dans	1
+Daneel dans la	1
+C'est exactement cela.	1
+Et je vous	1
+Et notre gouvernement	1
+Pour ma part,	1
+Mon cher monsieur	1
+Baley, répliqua Fastolfe	1
+Fastolfe en secouant	1
+Vraiment, vous nous	1
+Voyons, supposez maintenant,	1
+R. Daneel soit	1
+Daneel soit réellement	1
+Supposez qu'il soit	1
+Il en résultera	1
+Enderby était bien	1
+Enderby a assisté	1
+R. Daneel et	1
+Daneel et il	1
+Baley, si vous	1
+Robotique, et, pour	1
+Ne nous écartons	1
+Baley, je vous	1
+Que direz-vous, si	1
+R. Daneel est	1
+Daneel est vraiment	1
+Eh bien ?	1
+R. Daneel pinça	1
+Daneel pinça alors	1
+Baley ne put	1
+Mais d'un seul	1
+Voulez-vous vous donner	1
+Mais Baley entendit	1
+Baley entendit à	1
+On aurait fait des	1
+Enderby, on lui aurait	1
+C'était bien pour cette	1
+Spaciens ne pût l'atteindre...	1
+Vous vous trompez complètement,	1
+J'ai vu moimême le	1
+Vous avez vu les	1
+Baley, en songeant aux	1
+Non, non, Lije, dit	1
+Je connaissais bien le	1
+Sarton, et sa tête	1
+Il porta la main	1
+Je l'ai examiné de	1
+Et que pensez-vous de	1
+Baley en désignant R.	1
+Oui, sans doute, comme	1
+Un être humain peut	1
+Vous me dites que	1
+Enderby parut scandalisé et	1
+Comment donc l'avez-vous découvert	1
+Je n'ai pas pu	1
+Enderby parut profondément choqué	1
+Vous devez sûrement comprendre	1
+Etant donné le but	1
+Trois pipes dans la	1
+Après tout, il était	1
+Spaciens, et de les	1
+Mais Fastolfe lui répondit	1
+Fastolfe lui répondit :	1
+Veuillez m'excuser, mais je	1
+Cette " préférence ",	1
+Baley sentit qu'elle avait	1
+Il remit donc en	1
+Enderby ne m'a pas	1
+Mondes Extérieurs, on ne	1
+Extérieurs, on ne fume	1
+Rien d'étonnant à ce	1
+Comment donc R. Daneel	1
+C/Fe !... Ce n'est	1
+R. Daneel puisse faire	1
+Daneel puisse faire le	1
+Reprenant la discussion, il	1
+La ressemblance trop complète	1
+Hier, tandis que je	1
+Terre ont sans doute	1
+Mais un type de	1
+R. Daneel représente tout	1
+Daneel représente tout autre	1
+Daneel a été nécessaire	1
+Elle a donc eu	1
+Par conséquent il a	1
+Baley se crispa intérieurement,	1
+Spacien à son propre	1
+Vous aurez beau tenter	1
+Je m'en porte garant,	1
+Cette opération a eu	1
+Un besoin de justice	1
+La justice, docteur Fastolfe,	1
+Si vous définissez le	1
+Dans l'état actuel de	1
+Vous donc, expert en	1
+Robotique, vous admettez cela	1
+Pour moi, la seule	1
+R. Daneel voulait dire	1
+Daneel voulait dire en	1
+Le commissaire principal suivait	1
+En arrivant chez moi,	1
+La raison qu'il m'a	1
+Or, pendant la nuit,	1
+Toilettes, comme il vient	1
+En tant qu'homme, j'ose	1
+Mais en tant que	1
+Daneel est un homme.	1
+Fastolfe fit un signe	1
+Mais pourquoi ne pas	1
+Daneel ce qu'il est	1
+Le commissaire Enderby se	1
+Enderby se pencha en	1
+Je vous en prie,	1
+Ce n'est vraiment pas	1
+Ne vous tracassez pas,	1
+Spacien, dont les lèvres	1
+Je suis certain que	1
+Daneel n'offusquera ni votre	1
+Qu'avez-vous à nous dire,	1
+Hier soir, répondit celui-ci,	1
+Quand elle est rentrée	1
+J'en ai automatiquement déduit	1
+Le secret de ma	1
+Elijah m'avait assuré que	1
+Nous avons parlé à	1
+Peut-être, rétorqua Baley avec	1
+Baley avec feu, mais	1
+Comment ces bruits ont-ils	1
+Enderby et moi-même, et	1
+Non, dit Enderby, qui	1
+Enderby, qui sembla inquiet.	1
+Rien que nous et	1
+Et lui, dit Baley,	1
+Baley, montrant Daneel Olivaw.	1
+J'ai été constamment avec	1
+C'est à ce moment	1
+Baley se leva et	1
+Spacetown pour rendre visite	1
+On vous montre les	1
+Terrien ; or, cette	1
+New-Yorkais a pu quitter	1
+Spacetown, à travers la	1
+Que se passe-t-il alors	1
+On envoie en ville	1
+Vous avez construit un	1
+Après quoi, dit Fastolfe,	1
+Fastolfe, ayant utilisé R.	1
+Dr Sarton dans le	1
+Sarton dans le faux	1
+Dr Sarton pour personnifier	1
+Sarton pour personnifier R.	1
+R. Daneel dans la	1
+Daneel dans la fausse	1
+Et je vous fais	1
+Pour ma part, je	1
+Mon cher monsieur Baley,	1
+Baley, répliqua Fastolfe en	1
+Vraiment, vous nous attribuez	1
+Voyons, supposez maintenant, supposez	1
+R. Daneel soit réellement	1
+Daneel soit réellement R.	1
+Supposez qu'il soit vraiment	1
+Il en résultera tout	1
+Enderby était bien celui	1
+Enderby a assisté à	1
+R. Daneel et il	1
+Daneel et il peut	1
+Baley, si vous en	1
+Robotique, et, pour ma	1
+Ne nous écartons pas	1
+Que direz-vous, si R.	1
+R. Daneel est vraiment	1
+Daneel est vraiment un	1
+R. Daneel pinça alors	1
+Daneel pinça alors légèrement,	1
+Baley ne put voir	1
+Mais d'un seul coup,	1
+Voulez-vous vous donner la	1
+Daneel a été construit,	1
+Mais Baley entendit à	1
+Baley entendit à peine	1

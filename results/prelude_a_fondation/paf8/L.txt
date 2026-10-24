@@ -1,0 +1,973 @@
+Seldon	35
+Je	31
+Il	21
+Dors	16
+Quarante-trois	12
+Mais	11
+Goutte-de-Pluie	11
+C'est	10
+Vous	9
+Mycogène	8
+La	8
+Elle	7
+Frère	7
+Je ne	7
+Hari	6
+A	6
+Le	6
+Sœur	6
+Nous	6
+Goutte-de-Pluie Quarante-trois	6
+En	5
+Les	4
+Et	4
+Que	4
+Seldon se	4
+C'était	3
+Oui	3
+Ce	3
+Non	3
+Si	3
+Hummin	3
+Pour	3
+Cela	3
+Ils	3
+Je suis	3
+Vous me	3
+Je n'en	3
+Je vous	3
+Il y	3
+Il y a	3
+Dans	2
+Ça	2
+Sœurs	2
+Au	2
+J'ai	2
+Trantor	2
+Malgré	2
+Ne	2
+Lois	2
+Humanique	2
+Chetter	2
+Qu'est-ce	2
+Finalement	2
+Parfois	2
+Gouttede-Pluie	2
+Maître-du-Soleil	2
+Quatorze	2
+Tout	2
+Alors	2
+On	2
+A propos,	2
+Dors lui	2
+Qu'est-ce que	2
+Dors avait	2
+Maître-du-Soleil Quatorze	2
+Goutte-de-Pluie Quarante-trois,	2
+Que voulez-vous	2
+Je veux	2
+Si vous	2
+Seldon nota	2
+Mais elle	2
+Je ne cherche	2
+Je ne peux	2
+Microferme	1
+MYCOGÈNE	1
+Ces	1
+Fuite	1
+Encyclopaedia	1
+Galactica	1
+Nettement	1
+Grisnuage	1
+N'oubliez	1
+Comme	1
+Trantoriens	1
+Évidemment	1
+L'excuse	1
+Selon	1
+Mycogéniens	1
+Surnaturaliste	1
+Avez-vous	1
+Qu'entendez-vous	1
+L'évidence	1
+Religieuse	1
+Religieux	1
+Certainement	1
+Bien	1
+Voilà	1
+Règle	1
+Ah	1
+Pressez	1
+Comment	1
+Du	1
+L'esquisse	1
+Est-ce	1
+Bon	1
+Par	1
+Incidemment	1
+D'ordinaire	1
+Croyez-vous	1
+Ç'aurait	1
+Toutes	1
+Balivernes	1
+Quarante-cinq	1
+Sans	1
+Merci	1
+Puis	1
+Nul	1
+Galaxie	1
+J'aurais	1
+Eh	1
+Votre	1
+Avec	1
+Maintenant	1
+Couverture	1
+Rien	1
+Sinon	1
+Chez	1
+Hélicon	1
+Après	1
+Quand	1
+L'odeur	1
+D'après	1
+Attendez	1
+État	1
+Allons	1
+Faites	1
+Toujours	1
+Chaque	1
+Certains	1
+Tenez	1
+Venez	1
+Qu'y	1
+Pourrais-je	1
+F	1
+Prends-en	1
+Tandis	1
+Elles	1
+Des	1
+Un	1
+Plateaux	1
+Exactement	1
+Résultat	1
+L'ennui	1
+Empire	1
+Galactique	1
+Inévitablement	1
+Hein	1
+Toute	1
+Aussitôt	1
+Les microfermes	1
+Mycogène sont	1
+Mycogène "	1
+Ces formules	1
+Hari Seldon	1
+Seldon a	1
+Fuite et	1
+Encyclopaedia Galactica	1
+C'était rudement	1
+Nettement meilleur	1
+Grisnuage... "	1
+Dors tempéra	1
+N'oubliez pas	1
+Elle marqua	1
+Dans leur	1
+Je sais.	1
+Ça me	1
+Mais ils	1
+C'est leur	1
+Sœurs n'ont	1
+Au fait,	1
+Oui, et	1
+Je n'aurai	1
+J'ai cru	1
+En fait,	1
+En réussissant	1
+Comme on	1
+A Trantor,	1
+Trantor, fais	1
+Évidemment, j'étais	1
+L'excuse habituelle	1
+Dors avec	1
+Vous êtes	1
+Trantor depuis	1
+Dors, vous	1
+Selon vous,	1
+Mycogéniens serait-il	1
+Surnaturaliste ?	1
+Avez-vous entendu	1
+Qu'entendez-vous par	1
+L'évidence :	1
+Je vois.	1
+Mycogène est	1
+C'était au	1
+Seldon d'être	1
+Religieuse ?	1
+C'est un	1
+Religieux ―	1
+Mycogène de	1
+Malgré tout,	1
+Mycogène soit	1
+En ce	1
+Certainement pas.	1
+Je n'y	1
+Hari, mais	1
+Bien ",	1
+Seldon, pensif.	1
+Voilà un	1
+Règle numéro	1
+Seldon hocha	1
+Ne plaisantez	1
+Vous savez	1
+Ce que	1
+Ah, ah,	1
+Mais c'est	1
+Vous décrivez	1
+Pressez ce	1
+Non, parce	1
+Comment pouvez-vous	1
+Du moins,	1
+C'est ainsi	1
+Lois fondamentales	1
+J'ai prouvé	1
+Mais inapplicable,	1
+Je n'arrête	1
+L'esquisse d'un	1
+Hari, chercher	1
+Chetter Hummin	1
+Hummin voudrait	1
+Bon, laissez-moi	1
+Hummin dit	1
+C'est à	1
+Je me	1
+Par exemple,	1
+Incidemment, voilà	1
+Mais... "	1
+Et là,	1
+Dors s'éteignit	1
+Seldon l'observa,	1
+Finalement, elle	1
+Ce n'est	1
+Parfois, ils	1
+Croyez-vous que	1
+Mycogène possède	1
+Pour dire	1
+Dors, songeuse,	1
+Ç'aurait été	1
+Dans l'un	1
+Au moins,	1
+Seldon, d'un	1
+Les Sœurs	1
+Sœurs revinrent	1
+Hari et	1
+Dors eurent	1
+Toutes deux	1
+Gouttede-Pluie Quarante-trois,	1
+Quarante-trois, la	1
+Dors une	1
+Il se	1
+Hari, qu'elles	1
+Balivernes !	1
+Mycogène, à	1
+Chetter Hummin,	1
+Hummin, et	1
+Je refuse	1
+Quatorze et	1
+Goutte-de-Pluie Quarante-cinq	1
+Quarante-cinq se	1
+Quarante-trois, tout	1
+Dors fit	1
+Gouttede-Pluie Quarante-trois	1
+Quarante-trois de	1
+Finalement, cette	1
+Elle ne	1
+Vous ne	1
+Seldon eut	1
+Le vêtement	1
+La tunique.	1
+Sans un	1
+Il s'inclina	1
+Merci, Sœur.	1
+Puis il	1
+Dors du	1
+Mais cette	1
+La tunique	1
+Seldon en	1
+Nul doute	1
+Je vais	1
+Ça ne	1
+Il pénétra	1
+Galaxie ne	1
+J'aurais cru	1
+Eh bien,	1
+Quarante-trois, se	1
+Mais n'allez	1
+Mais ai-je	1
+Votre parole	1
+Avec un	1
+Sœur, et	1
+Elle avait	1
+Seldon passa	1
+Pour commencer,	1
+Tout l'intérêt,	1
+Maintenant que	1
+Et s'il	1
+Couverture ?	1
+Rien n'arrivera.	1
+Sinon, je	1
+C'est important	1
+Il était	1
+Seldon était	1
+La descente	1
+Quarante-trois les	1
+Seldon n'était	1
+A mesure	1
+La plupart	1
+Chez lui,	1
+Hélicon, Seldon	1
+Les gens	1
+Alors même	1
+Il en	1
+Il eut	1
+Après qu'il	1
+Quand atteindrons-nous	1
+Nous y	1
+Seldon inspira	1
+A l'odeur,	1
+L'odeur ?	1
+Quarante-trois était	1
+D'après mon	1
+Vous savez,	1
+Les détails	1
+Alors ne	1
+Ne soyez	1
+Allons, mon	1
+Il la	1
+Elle resta	1
+Il reprit	1
+C'est simplement	1
+Faites toutes	1
+Toujours est-il	1
+Chaque Frère	1
+Frère et	1
+Sœur ont	1
+Certains en	1
+Elle parlait	1
+Cela s'étend	1
+Ils poursuivirent	1
+Le verre	1
+Le sol	1
+Quarante-trois avait	1
+Frère ou	1
+Sœur travailler	1
+Sœur l'humiliation	1
+Ils venaient	1
+Seldon décela	1
+Que diraient-ils	1
+En attendant,	1
+Quarante-trois qui,	1
+Parfois même	1
+Tenez !	1
+Venez donc	1
+Qu'y a-t-il	1
+Ils se	1
+Le Frère	1
+Frère chargé	1
+A voix	1
+Quarante-trois dit	1
+Seldon s'avisa	1
+Frère tant	1
+Pourrais-je en	1
+Frère ?	1
+Prends-en une	1
+Frère ",	1
+Seldon cueillit	1
+Quarante-trois quand	1
+La sphère	1
+Tandis qu'ils	1
+Frère qui	1
+Seldon interrogea	1
+C'est censé	1
+Il porta	1
+Elles ne	1
+Des bouchées.	1
+Non traitées.	1
+Pour le	1
+Mycogène, on	1
+Elle en	1
+Seldon mit	1
+Un instant	1
+Il arrive	1
+Et qu'arrive-t-il,	1
+Il n'y	1
+Plateaux et	1
+Cela relèverait	1
+Et que	1
+Que pouvons-nous	1
+Nous effectuons	1
+Il est	1
+Résultat, les	1
+L'ennui, c'est	1
+Empire Galactique	1
+Galactique dans	1
+Inévitablement découragé,	1
+Tout n'est	1
+Il existe	1
+La Sœur	1
+Sœur se	1
+Elle se	1
+Mais tout	1
+Hein ?	1
+Il me	1
+Cela laisse	1
+Nous devons	1
+Nous travaillons	1
+C'est tout	1
+Je n'ai	1
+C'est pour	1
+Nous sommes	1
+En tout	1
+La religion	1
+On n'en	1
+Le moral	1
+Seldon, qui	1
+Toute cette	1
+Non, nous	1
+Nous avons	1
+Aussitôt le	1
+Seldon remonta	1
+Les microfermes de	1
+Mycogène " ou	1
+Ces formules laudatives	1
+Hari Seldon a	1
+Seldon a visité	1
+Fuite et l'on	1
+C'était rudement bon	1
+Nettement meilleur que	1
+Dors tempéra son	1
+N'oubliez pas que	1
+Elle marqua un	1
+Dans leur bouche,	1
+Ça me met	1
+Mais ils pourraient	1
+Sœurs n'ont pas	1
+Au fait, vous	1
+Oui, et à	1
+Je n'aurai qu'à	1
+J'ai cru comprendre	1
+En fait, certains	1
+En réussissant quand	1
+Comme on dit	1
+A Trantor, fais	1
+Trantor, fais comme	1
+Évidemment, j'étais sûre	1
+Je suis seulement	1
+L'excuse habituelle ",	1
+Dors avec un	1
+Seldon se carra	1
+Vous êtes sur	1
+Trantor depuis deux	1
+Dors, vous devez	1
+Selon vous, l'étrange	1
+Mycogéniens serait-il lié	1
+Avez-vous entendu évoquer	1
+Qu'entendez-vous par ―	1
+L'évidence : la	1
+Vous me demandez	1
+Mycogène est une	1
+C'était au tour	1
+Seldon d'être intrigué	1
+C'est un terme	1
+Religieux ― n'est	1
+Je ne puis	1
+Malgré tout, partant	1
+Mycogène soit une	1
+En ce cas,	1
+Je n'y mettrais	1
+Hari, mais je	1
+Bien ", dit	1
+Dors lui sourit.	1
+Voilà un élément	1
+Règle numéro 47854	1
+Seldon hocha la	1
+Ne plaisantez pas	1
+Vous savez que	1
+Ce que je	1
+Ah, ah, ce	1
+Mais c'est horrible	1
+Vous décrivez les	1
+Pressez ce bouton	1
+Non, parce qu'il	1
+Comment pouvez-vous le	1
+Du moins, je	1
+C'est ainsi que	1
+Lois fondamentales de	1
+J'ai prouvé qu'en	1
+Mais inapplicable, c'est	1
+Je n'arrête pas	1
+L'esquisse d'un sourire	1
+Hari, chercher une	1
+Je n'en sais	1
+Je vous jure	1
+Chetter Hummin voudrait	1
+Hummin voudrait tellement	1
+Bon, laissez-moi réfléchir.	1
+Hummin dit que	1
+Qu'est-ce que je	1
+C'est à cent	1
+Par exemple, les	1
+Et là, la	1
+Dors s'éteignit tandis	1
+Seldon l'observa, circonspect	1
+Dors avait les	1
+Finalement, elle reprit	1
+Ce n'est pas	1
+Parfois, ils sont	1
+Croyez-vous que Mycogène	1
+Mycogène possède ce	1
+Pour dire la	1
+Dors, songeuse, je	1
+Ç'aurait été le	1
+Dans l'un et	1
+Au moins, voilà	1
+Seldon, d'un air	1
+Les Sœurs revinrent	1
+Sœurs revinrent environ	1
+Dors eurent fini	1
+Toutes deux souriaient	1
+Gouttede-Pluie Quarante-trois, la	1
+Quarante-trois, la plus	1
+Il se pourrait,	1
+Hari, qu'elles soient	1
+Je n'en crois	1
+Je ne suis	1
+Mycogène, à la	1
+Chetter Hummin, et	1
+Hummin, et introduit	1
+Je refuse d'être	1
+Maître-du-Soleil Quatorze et	1
+Quatorze et me	1
+Goutte-de-Pluie Quarante-cinq se	1
+Quarante-cinq se mit	1
+Goutte-de-Pluie Quarante-trois, tout	1
+Quarante-trois, tout en	1
+Dors fit mine	1
+Gouttede-Pluie Quarante-trois de	1
+Quarante-trois de toute	1
+Finalement, cette dernière	1
+Vous ne devez	1
+Vous me forcez	1
+Que voulez-vous de	1
+Seldon eut aussitôt	1
+Le vêtement que	1
+Sans un mot,	1
+Il s'inclina légèrement	1
+Puis il lorgna	1
+Dors du coin	1
+Mais cette dernière	1
+La tunique était	1
+Seldon en la	1
+Nul doute qu'il	1
+Je vais passer	1
+Il pénétra dans	1
+Dors lui avait	1
+Je veux voir	1
+Galaxie ne possède	1
+J'aurais cru que	1
+Eh bien, nous	1
+Quarante-trois, se décidant	1
+Mais n'allez pas	1
+Je vous montrerai	1
+Je veux bien	1
+Votre parole d'honneur	1
+Avec un mépris	1
+Je suis une	1
+Sœur, et je	1
+Elle avait prononcé	1
+Seldon passa une	1
+Pour commencer, Dors	1
+Tout l'intérêt, avait-il	1
+Maintenant que la	1
+Si vous êtes	1
+Et s'il vous	1
+Je vous en	1
+Si vous voulez	1
+Sinon, je ne	1
+Je suis sérieux,	1
+C'est important pour	1
+Il était manifeste	1
+Seldon était à	1
+La descente ne	1
+Goutte-de-Pluie Quarante-trois les	1
+Seldon n'était pas	1
+A mesure qu'ils	1
+La plupart des	1
+Chez lui, sur	1
+Les gens qui	1
+Alors même que	1
+Il en souffrait	1
+Il eut beau	1
+Après qu'il eut	1
+Quand atteindrons-nous les	1
+Nous y sommes	1
+Seldon inspira un	1
+A l'odeur, on	1
+Que voulez-vous dire	1
+Quarante-trois était suffisamment	1
+D'après mon expérience,	1
+Vous savez, à	1
+Les détails ne	1
+Ne soyez pas	1
+Je ne compte	1
+Allons, mon petit...	1
+Il la prit	1
+Elle resta immobile	1
+Il reprit :	1
+C'est simplement que	1
+Faites toutes les	1
+Toujours est-il qu'il	1
+Chaque Frère et	1
+Frère et chaque	1
+Sœur ont l'occasion	1
+Certains en font	1
+Elle parlait plus	1
+Seldon nota que	1
+Cela s'étend sur	1
+Ils poursuivirent la	1
+Seldon nota la	1
+Le verre étincelait.	1
+Le sol carrelé	1
+Goutte-de-Pluie Quarante-trois avait	1
+Quarante-trois avait raison	1
+Frère ou une	1
+Sœur travailler en	1
+Seldon se garda	1
+Sœur l'humiliation d'avouer	1
+Ils venaient de	1
+Que diraient-ils en	1
+En attendant, il	1
+Goutte-de-Pluie Quarante-trois qui,	1
+Quarante-trois qui, de	1
+Parfois même elle	1
+Venez donc par	1
+Qu'y a-t-il ?	1
+Ils se trouvaient	1
+Le Frère chargé	1
+Frère chargé du	1
+A voix basse,	1
+Goutte-de-Pluie Quarante-trois dit	1
+Quarante-trois dit à	1
+Seldon s'avisa qu'elle	1
+Pourrais-je en goûter	1
+Prends-en une poignée,	1
+Frère ", répondit	1
+Seldon cueillit l'une	1
+Goutte-de-Pluie Quarante-trois quand	1
+Quarante-trois quand il	1
+La sphère était	1
+Tandis qu'ils s'éloignaient	1
+Frère qui s'en	1
+Seldon interrogea sa	1
+C'est censé être	1
+Elles ne sentent	1
+Qu'est-ce que c'est	1
+Pour le marché	1
+Elle en mit	1
+Je n'en ai	1
+Seldon mit une	1
+Un instant après,	1
+Vous me surprenez.	1
+Et qu'arrive-t-il, alors	1
+Il n'y a	1
+Plateaux et cuves	1
+Cela relèverait donc	1
+Et que faites-vous	1
+Que pouvons-nous faire	1
+Nous effectuons constamment	1
+Il est rare	1
+Résultat, les mauvaises	1
+L'ennui, c'est que	1
+Empire Galactique dans	1
+Galactique dans la	1
+Inévitablement découragé, il	1
+Il existe des	1
+La Sœur se	1
+Sœur se raidit.	1
+Elle se tourna	1
+Mais tout ce	1
+Seldon se sentit	1
+Il me semble	1
+Cela laisse de	1
+Nous devons savoir	1
+Nous travaillons dans	1
+C'est tout ce	1
+Je n'ai aucune	1
+C'est pour ça	1
+Nous sommes peut-être	1
+En tout cas,	1
+Mais elle refusait	1
+La religion !	1
+On n'en a	1
+Le moral de	1
+Seldon, qui n'avait	1
+Toute cette affaire,	1
+Mais elle poursuivit	1
+Non, nous avons	1
+Nous avons l'histoire.	1
+Aussitôt le moral	1
+Seldon remonta en	1
+Les microfermes de Mycogène	1
+Mycogène " ou bien	1
+Ces formules laudatives tendent	1
+Hari Seldon a visité	1
+Seldon a visité ces	1
+Fuite et l'on trouve	1
+C'était rudement bon !	1
+Nettement meilleur que les	1
+Dors tempéra son enthousiasme	1
+N'oubliez pas que sa	1
+Elle marqua un temps	1
+Dans leur bouche, on	1
+Ça me met en	1
+Mais ils pourraient dire	1
+Sœurs n'ont pas l'air	1
+Oui, et à les	1
+Je n'aurai qu'à faire	1
+J'ai cru comprendre qu'on	1
+En fait, certains des	1
+En réussissant quand même	1
+Comme on dit chez	1
+A Trantor, fais comme	1
+Trantor, fais comme les	1
+Évidemment, j'étais sûre que	1
+Je suis seulement humain,	1
+L'excuse habituelle ", remarqua	1
+Dors avec un petit	1
+Seldon se carra dans	1
+Vous êtes sur Trantor	1
+Dors, vous devez donc	1
+Selon vous, l'étrange système	1
+Mycogéniens serait-il lié à	1
+Avez-vous entendu évoquer ce	1
+Qu'entendez-vous par ― surnaturaliste	1
+L'évidence : la croyance	1
+Vous me demandez si	1
+C'était au tour de	1
+Seldon d'être intrigué :	1
+C'est un terme archaïque,	1
+Religieux ― n'est pas	1
+Je ne puis répondre	1
+Malgré tout, partant du	1
+Mycogène soit une société	1
+En ce cas, seriez-vous	1
+Je n'y mettrais pas	1
+Bien ", dit Seldon,	1
+Voilà un élément pour	1
+Règle numéro 47854 :	1
+Seldon hocha la tête.	1
+Ne plaisantez pas avec	1
+Vous savez que je	1
+Je ne cherche pas	1
+Ce que je cherche,	1
+Ah, ah, ce groupe-là	1
+Mais c'est horrible !	1
+Vous décrivez les êtres	1
+Non, parce qu'il y	1
+Comment pouvez-vous le savoir	1
+Je ne peux pas,	1
+Du moins, je ne	1
+C'est ainsi que j'estime	1
+Mais inapplicable, c'est cela	1
+Je n'arrête pas de	1
+L'esquisse d'un sourire incurva	1
+Hari, chercher une sorte	1
+Je n'en sais rien.	1
+Je vous jure que	1
+Chetter Hummin voudrait tellement	1
+Hummin voudrait tellement trouver	1
+Hummin dit que je	1
+Qu'est-ce que je peux	1
+C'est à cent lieues	1
+Par exemple, les religions	1
+Et là, la voix	1
+Dors s'éteignit tandis qu'elle	1
+Seldon l'observa, circonspect :	1
+Finalement, elle reprit :	1
+Ce n'est pas une	1
+Parfois, ils sont secrets.	1
+Croyez-vous que Mycogène possède	1
+Mycogène possède ce genre	1
+Pour dire la vérité,	1
+Dors, songeuse, je n'en	1
+Ç'aurait été le cas	1
+Dans l'un et l'autre	1
+Au moins, voilà un	1
+Les Sœurs revinrent environ	1
+Sœurs revinrent environ deux	1
+Dors eurent fini de	1
+Toutes deux souriaient et	1
+Gouttede-Pluie Quarante-trois, la plus	1
+Quarante-trois, la plus sérieuse,	1
+Il se pourrait, Hari,	1
+Hari, qu'elles soient censées	1
+Je n'en crois rien	1
+Je ne suis pas	1
+Mycogène, à la demande	1
+Chetter Hummin, et introduit	1
+Hummin, et introduit ici	1
+Je refuse d'être traité	1
+Maître-du-Soleil Quatorze et me	1
+Quatorze et me plaindre	1
+Goutte-de-Pluie Quarante-cinq se mit	1
+Quarante-cinq se mit à	1
+Goutte-de-Pluie Quarante-trois, tout en	1
+Quarante-trois, tout en gardant	1
+Dors fit mine de	1
+Gouttede-Pluie Quarante-trois de toute	1
+Quarante-trois de toute sa	1
+Finalement, cette dernière se	1
+Vous ne devez pas	1
+Vous me forcez à	1
+Que voulez-vous de moi	1
+Seldon eut aussitôt un	1
+Le vêtement que vous	1
+Sans un mot, elle	1
+Il s'inclina légèrement et	1
+Puis il lorgna Dors	1
+Dors du coin de	1
+La tunique était absolument	1
+Nul doute qu'il saurait	1
+Je vais passer dans	1
+Il pénétra dans le	1
+Dors lui avait emboîté	1
+Je ne peux pas	1
+Je veux voir la	1
+Galaxie ne possède pas,	1
+Eh bien, nous en	1
+Quarante-trois, se décidant enfin	1
+Mais n'allez pas imaginer	1
+Je vous montrerai les	1
+Je veux bien attendre	1
+Votre parole d'honneur ?	1
+Avec un mépris manifeste,	1
+Je suis une Sœur,	1
+Sœur, et je ferai	1
+Elle avait prononcé ces	1
+Seldon passa une nuit	1
+Pour commencer, Dors avait	1
+Tout l'intérêt, avait-il expliqué,	1
+Si vous êtes là,	1
+Et s'il vous arrive	1
+Je vous en prie	1
+Si vous voulez m'aider,	1
+Sinon, je ne veux	1
+Je suis sérieux, Dors.	1
+C'est important pour moi.	1
+Seldon était à peu	1
+La descente ne se	1
+Seldon n'était pas sûr	1
+A mesure qu'ils s'enfonçaient	1
+La plupart des mondes	1
+Chez lui, sur Hélicon,	1
+Les gens qui y	1
+Alors même que les	1
+Il en souffrait et	1
+Il eut beau se	1
+Après qu'il eut perdu	1
+Quand atteindrons-nous les niveaux	1
+Nous y sommes déjà.	1
+Seldon inspira un grand	1
+A l'odeur, on ne	1
+Que voulez-vous dire ?	1
+Quarante-trois était suffisamment outrée	1
+D'après mon expérience, il	1
+Vous savez, à cause	1
+Il y a du	1
+Les détails ne sont	1
+Ne soyez pas fâchée	1
+Allons, mon petit... "	1
+Il la prit par	1
+Elle resta immobile mais	1
+Il reprit : "	1
+C'est simplement que tout	1
+Faites toutes les suppositions	1
+Toujours est-il qu'il reste	1
+Chaque Frère et chaque	1
+Frère et chaque Sœur	1
+Elle parlait plus librement	1
+Seldon nota que sa	1
+Cela s'étend sur des	1
+Ils poursuivirent la visite.	1
+Seldon nota la propreté	1
+Le sol carrelé semblait	1
+Goutte-de-Pluie Quarante-trois avait raison	1
+Quarante-trois avait raison sur	1
+Frère ou une Sœur	1
+Sœur travailler en silence,	1
+Seldon se garda bien	1
+Sœur l'humiliation d'avouer son	1
+Ils venaient de passer	1
+En attendant, il marchait	1
+Goutte-de-Pluie Quarante-trois qui, de	1
+Parfois même elle s'attardait.	1
+Venez donc par ici	1
+Ils se trouvaient devant	1
+Le Frère chargé du	1
+A voix basse, Goutte-de-Pluie	1
+Goutte-de-Pluie Quarante-trois dit à	1
+Quarante-trois dit à Seldon	1
+Seldon s'avisa qu'elle ne	1
+Pourrais-je en goûter quelques-unes,	1
+Prends-en une poignée, Frère	1
+Frère ", répondit l'autre	1
+Seldon cueillit l'une des	1
+Goutte-de-Pluie Quarante-trois quand il	1
+Quarante-trois quand il s'aperçut	1
+La sphère était luisante,	1
+Tandis qu'ils s'éloignaient de	1
+Frère qui s'en occupait,	1
+C'est censé être comestible	1
+Elles ne sentent pas,	1
+Qu'est-ce que c'est ?	1
+Pour le marché extérieur,	1
+Elle en mit une	1
+Seldon mit une sphère	1
+Un instant après, elle	1
+Il y a parfois	1
+Et qu'arrive-t-il, alors ?	1
+Il n'y a généralement	1
+Plateaux et cuves doivent	1
+Cela relèverait donc de	1
+Et que faites-vous pour	1
+Que pouvons-nous faire ?	1
+Il est rare qu'on	1
+Résultat, les mauvaises années	1
+L'ennui, c'est que même	1
+Empire Galactique dans la	1
+Galactique dans la totalité	1
+Inévitablement découragé, il remarqua	1
+Il existe des forces	1
+La Sœur se raidit.	1
+Elle se tourna vers	1
+Mais tout ce qu'elle	1
+Seldon se sentit mal	1
+Il me semble que,	1
+Cela laisse de côté	1
+Nous devons savoir qui	1
+Nous travaillons dans nos	1
+C'est tout ce que	1
+Je n'ai aucune intention	1
+Je ne cherche que	1
+C'est pour ça que	1
+Il y a bien	1
+Nous sommes peut-être en	1
+En tout cas, il	1
+Mais elle refusait de	1
+On n'en a pas	1
+Le moral de Seldon,	1
+Seldon, qui n'avait cessé	1
+Toute cette affaire, cette	1
+Mais elle poursuivit en	1
+Non, nous avons bien	1
+Aussitôt le moral de	1
+Seldon remonta en flèche	1

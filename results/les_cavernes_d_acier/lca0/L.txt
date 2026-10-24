@@ -1,0 +1,689 @@
+Baley	20
+Il	17
+Vous	14
+Mais	11
+Lije	11
+Enderby	10
+Et	8
+Je	8
+Oui	7
+Oh	6
+Spaciens	6
+Oh !	6
+Les	5
+C	5
+R	4
+J'en	4
+C'est	4
+En	4
+Un	3
+Ah	3
+Le	3
+Julius	3
+C'était	3
+Alors	3
+A	3
+Spacetown	3
+Pourquoi	3
+Baley se	3
+Il y	3
+Il y a	3
+Il y a eu	3
+Sammy	2
+Vince	2
+DE	2
+New	2
+York	2
+On	2
+Voilà	2
+De	2
+Qu'est-ce	2
+Quand	2
+La	2
+Terre	2
+Au	2
+Si	2
+Allons	2
+Jessie	2
+Il est	2
+J'en ai	2
+Ah !	2
+Baley ne	2
+Je vous	2
+Pourquoi pas	2
+Je ne	2
+Et c'est	2
+Vous lui	2
+Pourquoi pas ?	2
+Moi	1
+Simpson	1
+Tu	1
+Barrett	1
+Service	1
+Pauvre	1
+Pourtant	1
+Sur	1
+Commissaire	1
+Principal	1
+Police	1
+Décidément	1
+Excusez-moi	1
+Sans	1
+Ecoutez	1
+J'y	1
+Car	1
+Avez-vous	1
+Dans	1
+Ces	1
+City	1
+Hall	1
+Building	1
+Vues	1
+C'étaient	1
+Space	1
+Town	1
+N	1
+T	1
+Qu'allez-vous	1
+Aussi	1
+Cette	1
+Spacien	1
+Terrien	1
+Impossible	1
+Qui	1
+Personne	1
+Quelqu'un	1
+Cependant	1
+Los	1
+Angeles	1
+Berlin	1
+Shanghai	1
+J'avais	1
+Roj	1
+Nemennuh	1
+Sarton	1
+Cinq	1
+Avec	1
+Comme	1
+Ils	1
+Mondes	1
+Extérieurs	1
+Maison-Blanche	1
+Elle	1
+Seulement	1
+Caisse	1
+Pour	1
+Quelle	1
+Bien	1
+Eh	1
+Merci	1
+Pas	1
+Entendu	1
+J'accepte	1
+Y	1
+Que	1
+Pierre	1
+Jacques	1
+Paul	1
+C'est-à-dire	1
+Enfin	1
+Robot	1
+Daneel	1
+Olivaw	1
+Un ruban	1
+Moi, reprit	1
+Simpson, je	1
+R. Sammy,	1
+Sammy, si	1
+Vince Barrett...	1
+Ah oui	1
+Il cherche	1
+Pauvre gosse	1
+Mais que	1
+R. Sammy	1
+Sammy l'a	1
+Et pendant	1
+Vince fait	1
+Pourtant, c'était	1
+Baley haussa	1
+Le patron	1
+Sur la	1
+Julius Enderby.	1
+C'était écrit	1
+Principal DE	1
+DE Police	1
+Police DE	1
+DE New	1
+New York.	1
+Baley entra	1
+Vous m'avez	1
+Enderby leva	1
+Il portait	1
+Il fallait	1
+Baley, pour	1
+On appelait	1
+Vous le	1
+Baley n'ignorait	1
+Alors, venez	1
+Baley hésita	1
+Il trouva	1
+Décidément, il	1
+C'était tout	1
+Voilà ce	1
+C'était cela	1
+Excusez-moi, monsieur	1
+Mais il	1
+Le commissaire,	1
+Sans ses	1
+Et, du	1
+Il remit	1
+Oui, j'ai	1
+Lije, que	1
+A cause	1
+Et d'autres	1
+J'en prends	1
+Il se	1
+Baley, l'imitant,	1
+C'est la	1
+C'est très	1
+Mais, ce	1
+Ecoutez, Julius,	1
+Julius, vous	1
+De quoi	1
+J'y arrive,	1
+Car il	1
+Qu'est-ce qui	1
+R ?	1
+Dans une	1
+A vrai	1
+Je la	1
+Ces remarques	1
+En dépit	1
+Les services	1
+Hall Building,	1
+Building, lequel	1
+Vues de	1
+On eût	1
+Les murs	1
+C'étaient autant	1
+A un	1
+Spacetown 1	1
+Baley jeta	1
+Enderby, la	1
+Les tours	1
+New York	1
+York s'estompaient	1
+Space =	1
+Town =	1
+C'est vraiment	1
+Il a	1
+Le commissaire	1
+Qu'allez-vous donc	1
+La précision	1
+Spaciens avaient	1
+Au surplus,	1
+Aussi Baley	1
+Baley répondit-il	1
+Alors, de	1
+Qu'est-ce que	1
+Et vous,	1
+Cette fois,	1
+Mais c'est	1
+Un Spacien	1
+Spacien ?	1
+Et il	1
+Mais qui	1
+Les Spaciens	1
+Spaciens disent	1
+Impossible !	1
+Vous n'aimez	1
+Spaciens, et	1
+Qui sur	1
+Terre les	1
+Quelqu'un les	1
+Je l'admets.	1
+Los Angeles.	1
+R de	1
+C'est exact.	1
+J'avais rendez-vous	1
+Roj Nemennuh	1
+Nemennuh Sarton.	1
+La victime	1
+Oui, la	1
+Cinq minutes	1
+Vous imaginez	1
+Mais telle	1
+Au moment	1
+Avec cela,	1
+En tout	1
+Il s'imagina	1
+Spaciens s'avançant	1
+Julius avait	1
+Baley était	1
+Oui, reprit	1
+Enderby, je	1
+Comme vous	1
+Spacetown jouit	1
+Ils peuvent	1
+Les Mondes	1
+Mondes Extérieurs	1
+Extérieurs pourraient	1
+Si la	1
+Maison-Blanche consentait	1
+Elle commettrait	1
+Baley, vous	1
+Mais voyons	1
+Quand cette	1
+Allons, Lije,	1
+Lije, réplique	1
+Enderby, ne	1
+Vous savez	1
+Voilà vingt-deux	1
+Spaciens sont	1
+Seulement, aujourd'hui,	1
+Si nous	1
+Caisse des	1
+En revanche,	1
+Lije, si	1
+Pour moi	1
+Oui, car	1
+Mais voyons,	1
+Mais vous	1
+Quelle question	1
+Baley connaissait	1
+Bien sûr	1
+Mais si	1
+Pourquoi ne	1
+Lije ?	1
+Enderby d'une	1
+Vous en	1
+Vous êtes	1
+Enderby se	1
+Alors, Lije,	1
+Lije, êtes-vous	1
+Vous me	1
+Eh bien,	1
+Merci, Lije.	1
+Il va	1
+Allons, allons,	1
+Lije !	1
+Vous avez	1
+Vous pouvez	1
+Il ne	1
+Pas le	1
+Jessie va	1
+J'en suis	1
+Vous entendez,	1
+Lije, C.	1
+Entendu monsieur	1
+J'accepte le	1
+Y a-t-il	1
+Oui, fit	1
+Enderby en	1
+Il s'agit	1
+Que ce	1
+Pierre, Jacques,	1
+C'est-à-dire... murmura	1
+Enfin... les	1
+Spaciens font...	1
+En fait,	1
+Baley écarquilla	1
+Un instant,	1
+Vous ne	1
+Je suis	1
+Robot Daneel	1
+Olivaw !	1
+Un ruban couvert	1
+Moi, reprit Simpson,	1
+Simpson, je flanquerais	1
+R. Sammy, si	1
+Sammy, si je	1
+Ah oui ?...	1
+Il cherche à	1
+Pauvre gosse !	1
+Il est désespéré	1
+R. Sammy l'a	1
+Sammy l'a remplacé,	1
+Et pendant ce	1
+Vince fait marcher	1
+Pourtant, c'était un	1
+Baley haussa les	1
+Le patron avait	1
+Sur la porte	1
+C'était écrit en	1
+Principal DE Police	1
+DE Police DE	1
+Police DE New	1
+DE New York.	1
+Baley entra et	1
+Vous m'avez fait	1
+Enderby leva la	1
+Il portait des	1
+Il fallait d'abord	1
+Baley, pour sa	1
+On appelait ça	1
+Vous le saviez	1
+Baley n'ignorait pas	1
+J'en ai entendu	1
+Alors, venez ici	1
+Baley hésita un	1
+Il trouva un	1
+Décidément, il y	1
+Voilà ce qui	1
+C'était cela qui	1
+Excusez-moi, monsieur le	1
+Mais il me	1
+Le commissaire, légèrement	1
+Sans ses verres,	1
+Et, du coup,	1
+Il remit ses	1
+Oui, j'ai cassé	1
+Lije, que ces	1
+A cause des	1
+Et d'autres choses	1
+J'en prends l'habitude	1
+Il se tourna	1
+Baley, l'imitant, ne	1
+C'est la troisième	1
+C'est très remarquable,	1
+Mais, ce jour-là,	1
+Ecoutez, Julius, vous	1
+Julius, vous me	1
+J'y arrive, j'y	1
+Car il s'agit	1
+Qu'est-ce qui n'est	1
+Dans une certaine	1
+A vrai dire,	1
+Ces remarques mélancoliques	1
+En dépit du	1
+Les services de	1
+Hall Building, lequel	1
+Building, lequel s'élevait	1
+Vues de la	1
+On eût dit	1
+Les murs étaient	1
+C'étaient autant de	1
+A un certain	1
+Spacetown 1 .	1
+Baley jeta un	1
+Enderby, la vue,	1
+New York s'estompaient	1
+York s'estompaient dans	1
+Space = espace.	1
+Town = la	1
+C'est vraiment dommage,	1
+Il a dû	1
+Le commissaire parut	1
+Qu'allez-vous donc chercher	1
+Baley ne prit	1
+La précision avec	1
+Spaciens avaient réussi	1
+Aussi Baley répondit-il	1
+Baley répondit-il tranquillement	1
+Alors, de quoi	1
+Il est mort	1
+Baley ne se	1
+Qu'est-ce que vous	1
+Je vous raconte	1
+Et vous, un	1
+Cette fois, Baley	1
+Baley se retourna.	1
+Mais c'est incroyable	1
+Un Spacien ?	1
+Et il y	1
+Mais qui a	1
+Les Spaciens disent	1
+Spaciens disent que	1
+Vous n'aimez pas	1
+Spaciens, et moi	1
+Qui sur la	1
+Terre les encaisse	1
+R de Berlin.	1
+J'avais rendez-vous avec	1
+Roj Nemennuh Sarton.	1
+La victime ?	1
+Oui, la victime,	1
+Cinq minutes de	1
+Vous imaginez ce	1
+Mais telle que	1
+Au moment même	1
+Avec cela, tout	1
+En tout cas,	1
+J'en ai commandé	1
+Baley se représenta	1
+Il s'imagina les	1
+Spaciens s'avançant vers	1
+Julius avait dû	1
+Baley était bien	1
+Oui, reprit Enderby,	1
+Enderby, je suis	1
+Comme vous venez	1
+Spacetown jouit de	1
+Ils peuvent donc	1
+Les Mondes Extérieurs	1
+Mondes Extérieurs pourraient	1
+Extérieurs pourraient se	1
+Si la Maison-Blanche	1
+Maison-Blanche consentait à	1
+Elle commettrait un	1
+Baley, vous n'avez	1
+Mais voyons !	1
+Quand cette question	1
+Allons, Lije, réplique	1
+Lije, réplique Enderby,	1
+Enderby, ne faites	1
+Vous savez bien	1
+Voilà vingt-deux ans	1
+Spaciens sont venus	1
+Seulement, aujourd'hui, ça	1
+En revanche, Lije,	1
+Lije, si nous	1
+Pour moi ?	1
+Oui, car c'est	1
+Mais voyons, monsieur	1
+Je ne suis	1
+Mais vous désirez	1
+Quelle question !	1
+Baley connaissait les	1
+Bien sûr que	1
+Mais si je	1
+Pourquoi ne réussiriez-vous	1
+Vous en avez	1
+Vous êtes l'un	1
+Et c'est bien	1
+Enderby se refusa	1
+Alors, Lije, êtes-vous	1
+Lije, êtes-vous prêt	1
+Vous me le	1
+Je vous prie	1
+Eh bien, c'est	1
+Il va falloir	1
+Je ne marche	1
+Allons, allons, Lije	1
+Vous avez un	1
+Vous pouvez donc	1
+Il ne vous	1
+Et c'est indispensable.	1
+Jessie va avoir	1
+J'en suis sûr.	1
+Vous lui expliquerez	1
+Vous lui direz	1
+Vous entendez, Lije,	1
+Entendu monsieur le	1
+J'accepte le marché.	1
+Baley se leva	1
+Y a-t-il d'autres	1
+Oui, fit Enderby	1
+Enderby en baissant	1
+Il s'agit du	1
+Que ce soit	1
+C'est-à-dire... murmura le	1
+Spaciens font... ils	1
+En fait, l'associé	1
+Baley écarquilla les	1
+Un instant, je	1
+Vous ne prétendez	1
+Je suis donc	1
+Un ruban couvert d'inscriptions	1
+Moi, reprit Simpson, je	1
+Simpson, je flanquerais mon	1
+R. Sammy, si je	1
+Sammy, si je n'avais	1
+Il cherche à récupérer	1
+Il est désespéré !	1
+R. Sammy l'a remplacé,	1
+Sammy l'a remplacé, et	1
+Vince fait marcher un	1
+Pourtant, c'était un gosse	1
+Baley haussa les épaules	1
+Le patron avait droit	1
+Sur la porte en	1
+C'était écrit en jolies	1
+Principal DE Police DE	1
+DE Police DE New	1
+Police DE New York.	1
+Baley entra et dit	1
+Vous m'avez fait demander,	1
+Enderby leva la tête	1
+Il portait des lunettes,	1
+Baley, pour sa part,	1
+On appelait ça des	1
+Vous le saviez ?	1
+Baley n'ignorait pas ce	1
+J'en ai entendu parler,	1
+Alors, venez ici !	1
+Baley hésita un peu,	1
+Décidément, il y avait	1
+Voilà ce qui lui	1
+C'était cela qui lui	1
+Excusez-moi, monsieur le commissaire,	1
+Le commissaire, légèrement surpris,	1
+Sans ses verres, sa	1
+Et, du coup, son	1
+Il remit ses verres	1
+Oui, j'ai cassé les	1
+Lije, que ces trois	1
+A cause des lunettes	1
+Et d'autres choses aussi...	1
+J'en prends l'habitude !	1
+Il se tourna vers	1
+Baley, l'imitant, ne put	1
+C'est la troisième fois,	1
+C'est très remarquable, n'est-ce	1
+Mais, ce jour-là, sans	1
+Ecoutez, Julius, vous me	1
+Julius, vous me parlez	1
+J'y arrive, j'y arrive	1
+Car il s'agit de	1
+Qu'est-ce qui n'est pas	1
+Dans une certaine mesure,	1
+A vrai dire, j'en	1
+Ces remarques mélancoliques déplurent	1
+En dépit du mauvais	1
+Les services de la	1
+Hall Building, lequel s'élevait	1
+Building, lequel s'élevait dans	1
+Vues de la fenêtre	1
+On eût dit de	1
+Les murs étaient nus,	1
+C'étaient autant de ruches	1
+A un certain point	1
+Baley jeta un regard	1
+Enderby, la vue, de	1
+New York s'estompaient dans	1
+York s'estompaient dans un	1
+Town = la ville.	1
+C'est vraiment dommage, dit-il.	1
+Il a dû attraper	1
+Le commissaire parut choqué	1
+Qu'allez-vous donc chercher ?	1
+Baley ne prit pas	1
+La précision avec laquelle	1
+Aussi Baley répondit-il tranquillement	1
+Baley répondit-il tranquillement :	1
+Il est mort d'une	1
+Baley ne se retourna	1
+Qu'est-ce que vous me	1
+Je vous raconte un	1
+Et vous, un détective,	1
+Cette fois, Baley se	1
+Mais c'est incroyable !	1
+Et il y a	1
+Mais qui a pu	1
+Les Spaciens disent que	1
+Spaciens disent que c'est	1
+Vous n'aimez pas les	1
+Spaciens, et moi non	1
+Qui sur la Terre	1
+Terre les encaisse ?	1
+J'avais rendez-vous avec lui,	1
+Oui, la victime, répondit	1
+Cinq minutes de plus,	1
+Vous imaginez ce que	1
+Mais telle que la	1
+Au moment même où	1
+Avec cela, tout était	1
+En tout cas, cette	1
+J'en ai commandé trois	1
+Baley se représenta l'événement,	1
+Il s'imagina les hautes	1
+Spaciens s'avançant vers le	1
+Julius avait dû ôter	1
+Baley était bien convaincu	1
+Oui, reprit Enderby, je	1
+Enderby, je suis dans	1
+Comme vous venez de	1
+Spacetown jouit de l'extraterritorialité.	1
+Ils peuvent donc insister	1
+Les Mondes Extérieurs pourraient	1
+Mondes Extérieurs pourraient se	1
+Extérieurs pourraient se baser	1
+Si la Maison-Blanche consentait	1
+Maison-Blanche consentait à payer	1
+Elle commettrait un autre	1
+Baley, vous n'avez pas	1
+Quand cette question de	1
+Allons, Lije, réplique Enderby,	1
+Lije, réplique Enderby, ne	1
+Enderby, ne faites pas	1
+Vous savez bien que	1
+Spaciens sont venus ici,	1
+Seulement, aujourd'hui, ça commence	1
+En revanche, Lije, si	1
+Oui, car c'est vous	1
+Mais voyons, monsieur le	1
+Je ne suis encore	1
+Mais vous désirez passer	1
+Baley connaissait les avantages	1
+Bien sûr que je	1
+Mais si je n'arrive	1
+Pourquoi ne réussiriez-vous pas,	1
+Vous en avez toutes	1
+Et c'est bien cela	1
+Enderby se refusa à	1
+Alors, Lije, êtes-vous prêt	1
+Lije, êtes-vous prêt à	1
+Vous me le demandez	1
+Je vous prie de	1
+Eh bien, c'est d'accord,	1
+Il va falloir qu'il	1
+Je ne marche plus	1
+Allons, allons, Lije !	1
+Vous avez un grand	1
+Il ne vous dérangera	1
+Jessie va avoir horreur	1
+Vous lui expliquerez !	1
+Vous lui direz que	1
+Vous entendez, Lije, C.	1
+Entendu monsieur le commissaire.	1
+Baley se leva à	1
+Y a-t-il d'autres conditions	1
+Oui, fit Enderby en	1
+Enderby en baissant lentement	1
+Que ce soit Pierre,	1
+C'est-à-dire... murmura le commissaire.	1
+Spaciens font... ils ont	1
+Baley écarquilla les yeux	1
+Un instant, je vous	1
+Vous ne prétendez pas	1
+Je suis donc associé	1

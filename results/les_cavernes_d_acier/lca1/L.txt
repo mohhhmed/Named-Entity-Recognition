@@ -1,0 +1,618 @@
+Baley	21
+Il	20
+Mais	9
+Spacetown	9
+R	8
+Daneel	8
+Je	7
+Or	6
+C'est	5
+Et	5
+New	5
+On	5
+Les	4
+Quand	4
+Spaciens	4
+York	4
+Terriens	4
+Je suis	4
+R. Daneel	4
+Si	3
+C	3
+Terre	3
+La	3
+Cité	3
+Olivaw	3
+Il ne	3
+Il y	3
+Après	2
+Bien	2
+Barrière	2
+Puis	2
+Terrien	2
+Hudson	2
+En	2
+Sans	2
+Enderby	2
+Ce	2
+Du	2
+Mondes	2
+Extérieurs	2
+Dans	2
+Certes	2
+C'était	2
+Spacien	2
+Est-ce	2
+Tout	2
+Elijah	2
+Laissez-moi	2
+Spacetown, on	2
+Bien entendu,	2
+Il se	2
+New York	2
+Or, il	2
+Quand il	2
+Baley, et	2
+Baley se	2
+C'est que...	2
+Il était	2
+Laissez-moi passer	2
+Il y avait	2
+Laissez-moi passer !	2
+A	1
+Yorkais	1
+Poliment	1
+Pendant	1
+Ils	1
+Enfin	1
+Long	1
+Island	1
+Julius	1
+Elle	1
+Amérique	1
+Los	1
+Angeles	1
+Shanghaï	1
+City	1
+Ville	1
+Ces	1
+Tant	1
+Dès	1
+Chacune	1
+L'énorme	1
+Car	1
+Le	1
+Une	1
+Newark	1
+Trenton	1
+L'agent	1
+De	1
+Vraiment	1
+Ne	1
+Excusez-moi	1
+Bonjour	1
+Parfait	1
+Cependant	1
+Puis-je	1
+J'ose	1
+Cela	1
+Da	1
+Ah	1
+Vous	1
+Montons	1
+Sa	1
+Sammy	1
+Instantanément	1
+Lorsqu'il	1
+Par	1
+Usant	1
+Qu'est-ce	1
+Moi	1
+Alors	1
+Oh	1
+Police	1
+Mettez-les	1
+Cassez-les	1
+Quelqu'un	1
+Il sauta	1
+Les enfants	1
+C'est à	1
+Mais il	1
+Après tout,	1
+A quoi	1
+Si l'on	1
+Et si	1
+Spacetown avait	1
+New Yorkais	1
+Yorkais s'étaient	1
+Mais les	1
+Spaciens n'avaient	1
+Poliment (ils	1
+Quand donc	1
+New York.	1
+Baley gardait	1
+Spaciens attendirent	1
+Pendant quelque	1
+Mais, très	1
+Puis, au	1
+Spaciens assouplirent	1
+Ils supprimèrent	1
+New York,	1
+York, qui	1
+Spacetown et	1
+Enfin, décision	1
+Mais maintenant,	1
+Baley, les	1
+Si les	1
+Spaciens croyaient	1
+Terrien avait	1
+Spacetown pour	1
+En effet,	1
+Island et	1
+Sans doute,	1
+Les gens	1
+Et, en	1
+Baley devait	1
+Il affectait	1
+Julius Enderby,	1
+Enderby, cela	1
+Baley cela	1
+Elle était	1
+Angeles, et	1
+Terre, que	1
+Or, elle	1
+York City.	1
+Ce rassemblement	1
+Mais, en	1
+Il n'y	1
+Terre par	1
+Ces agglomérations-là	1
+Du point	1
+Or, l'accroissement	1
+Terriens à	1
+Tant que	1
+Mais quand	1
+Dès lors,	1
+Mondes Extérieurs	1
+Extérieurs (qui,	1
+Terre) devenaient	1
+Chacune devint	1
+La cité	1
+L'énorme complexe	1
+Puis venaient,	1
+Dans la	1
+Et, au	1
+On n'en	1
+Cité moderne	1
+Mondes Extérieurs,	1
+Extérieurs, qui	1
+On ne	1
+Terrien vivant	1
+Car, dehors,	1
+Certes, toute	1
+Terriens, car	1
+Les régions	1
+Le rendement	1
+Spacetown en	1
+Une réaction	1
+Baley que	1
+C'était une	1
+Il en	1
+Sans transition,	1
+L'agent, qui	1
+Baley s'avança	1
+De toute	1
+Terriens de	1
+Enderby et	1
+Spacetown, à	1
+Il n'avait	1
+Je me	1
+Vraiment ?	1
+Est-ce que	1
+Je croyais	1
+Tout à	1
+Ne vous	1
+Si, je	1
+Baley passa	1
+Excusez-moi, monsieur	1
+Je ne	1
+Elijah Baley,	1
+Baley, votre	1
+Parfait !	1
+La main	1
+Cependant, reprit-il,	1
+Puis-je vous	1
+Dans une	1
+C'est pourquoi,	1
+J'ose croire	1
+Baley d'un	1
+Et cela	1
+Cela ne	1
+Da... Daneel.	1
+Est-ce qu'ils	1
+Elijah, comme	1
+Mais vous,	1
+Ah !	1
+Vous vous	1
+Et cependant	1
+R ;	1
+C'est bon,	1
+Baley, d'un	1
+Montons !	1
+Baley regarda	1
+En un	1
+Daneel était	1
+Sa faiblesse	1
+Il n'était	1
+Tout cela,	1
+Or, ce	1
+Daneel Olivaw	1
+Olivaw personnifiait	1
+C'était, en	1
+Baley, dès	1
+R. Sammy,	1
+Sammy, celui	1
+Il s'attendait	1
+Il pensait	1
+Mais rien	1
+Daneel ne	1
+Instantanément R.	1
+Daneel se	1
+Par ici	1
+Qu'est-ce qui	1
+Du diable	1
+Moi, je	1
+On vient	1
+Alors je	1
+Oh, là,	1
+Ce, que	1
+Baley jeta	1
+Daneel, mais	1
+Baley fonça	1
+Police !	1
+On lui	1
+Mettez-les en	1
+Cassez-les comme	1
+Quelqu'un rit,	1
+Baley, lui,	1
+Certes, la	1
+Cité représentait	1
+Mais elle	1
+Barrière !...	1
+La généralisation	1
+Après une	1
+Il sauta de	1
+Les enfants apprenaient	1
+C'est à peine	1
+Il ne lui	1
+Mais il n'y	1
+Après tout, cela	1
+Si l'on avait	1
+Et si l'on	1
+Spacetown avait été	1
+New Yorkais s'étaient	1
+Yorkais s'étaient rendues	1
+Mais les Spaciens	1
+Spaciens n'avaient pas	1
+Poliment (ils étaient	1
+Quand donc on	1
+Spacetown, on était	1
+Bien entendu, ces	1
+Baley gardait un	1
+Spaciens attendirent sans	1
+Pendant quelque temps,	1
+Mais, très rapidement,	1
+Puis, au bout	1
+Ils supprimèrent la	1
+New York, qui	1
+York, qui s'engagèrent	1
+Spacetown et à	1
+Enfin, décision plus	1
+Mais maintenant, se	1
+Baley, les événements	1
+Si les Spaciens	1
+Terrien avait réussi	1
+Spacetown pour y	1
+Il se hissa	1
+En effet, aucune	1
+Island et à	1
+Sans doute, il	1
+Les gens deviennent	1
+Et, en toute	1
+Il affectait d'ailleurs,	1
+Julius Enderby, cela	1
+Baley cela se	1
+Il se laissa	1
+Elle était la	1
+Angeles, et sa	1
+Terre, que par	1
+Or, elle n'avait	1
+Bien entendu, il	1
+New York City.	1
+Ce rassemblement primitif	1
+Mais, en ces	1
+Il n'y avait	1
+Terre par milliers,	1
+Ces agglomérations-là ne	1
+Du point de	1
+Or, l'accroissement constant	1
+Terriens à rechercher	1
+Tant que cette	1
+Mais quand elle	1
+Dès lors, il	1
+Mondes Extérieurs (qui,	1
+Extérieurs (qui, mille	1
+Chacune devint une	1
+La cité ainsi	1
+L'énorme complexe des	1
+Puis venaient, tout	1
+Dans la périphérie	1
+Et, au milieu	1
+On n'en pouvait	1
+Cité moderne représentait	1
+Mondes Extérieurs, qui	1
+Extérieurs, qui jouissaient	1
+On ne trouvait	1
+Terrien vivant en	1
+Car, dehors, c'était	1
+Certes, toute cette	1
+Terriens, car elle	1
+Les régions comprises	1
+Le rendement en	1
+Spacetown en vue	1
+Une réaction de	1
+Baley que l'express	1
+Or, il savait	1
+C'était une question	1
+Il en fallait	1
+Quand il eut	1
+Sans transition, il	1
+L'agent, qui était	1
+Baley, et celuici,	1
+Baley s'avança donc	1
+De toute évidence,	1
+Terriens de s'y	1
+Baley se réjouissait	1
+Enderby et les	1
+Spacetown, à savoir	1
+Il n'avait en	1
+Je me présente	1
+Je suis R.	1
+Est-ce que je	1
+Je croyais pourtant	1
+Tout à fait	1
+Je suis un	1
+Ne vous a-t-on	1
+Si, je l'ai	1
+Baley passa machinalement	1
+Excusez-moi, monsieur Olivaw.	1
+Je ne sais	1
+Je suis donc	1
+Elijah Baley, votre	1
+Baley, votre associé.	1
+La main du	1
+Cependant, reprit-il, il	1
+Puis-je vous demander	1
+Dans une association	1
+C'est pourquoi, dans	1
+J'ose croire que	1
+C'est que... répondit	1
+Baley d'un ton	1
+Et cela vous	1
+Cela ne devrait	1
+Il y a	1
+Elijah, comme parmi	1
+C'est que... nos	1
+Mais vous, vous	1
+Vous vous attendiez	1
+Et cependant n'estil	1
+R ; il	1
+C'est bon, dit	1
+Baley, d'un ton	1
+Quand il se	1
+Baley regarda droit	1
+En un si	1
+Daneel était un	1
+Sa faiblesse -	1
+Il n'était pas	1
+Il ne pouvait	1
+Tout cela, il	1
+Or, ce qui	1
+Daneel Olivaw personnifiait	1
+Olivaw personnifiait véritablement	1
+C'était, en fait,	1
+Baley, dès lors,	1
+R. Sammy, celui	1
+Sammy, celui dont	1
+Il s'attendait à	1
+Il pensait trouver	1
+Mais rien de	1
+R. Daneel ne	1
+Baley se risqua	1
+Instantanément R. Daneel	1
+R. Daneel se	1
+Daneel se tourna	1
+Baley, et il	1
+Il était sur	1
+Par ici !	1
+Qu'est-ce qui se	1
+Du diable si	1
+Je suis comme	1
+Moi, je vais	1
+Alors je crois	1
+Oh, là, là	1
+Ce, que j'aimerais	1
+Baley jeta un	1
+Daneel, mais si	1
+Baley fonça dans	1
+On lui fit	1
+Mettez-les en morceaux	1
+Cassez-les comme du	1
+Quelqu'un rit, mais	1
+Baley, lui, n'en	1
+Certes, la Cité	1
+Cité représentait le	1
+Or, il arrivait	1
+Il ne manquait	1
+La généralisation de	1
+Après une vie	1
+Il sauta de tapis	1
+Les enfants apprenaient à	1
+C'est à peine si	1
+Il ne lui fallut	1
+Mais il n'y avait	1
+Après tout, cela s'expliquait.	1
+Si l'on avait affaire	1
+Et si l'on n'en	1
+Spacetown avait été fondée,	1
+New Yorkais s'étaient rendues	1
+Yorkais s'étaient rendues là-bas.	1
+Mais les Spaciens n'avaient	1
+Spaciens n'avaient pas mis	1
+Poliment (ils étaient toujours	1
+Quand donc on avait	1
+Spacetown, on était tenu	1
+Bien entendu, ces mesures	1
+Baley gardait un souvenir	1
+Il y avait participé	1
+Spaciens attendirent sans broncher,	1
+Pendant quelque temps, les	1
+Mais, très rapidement, ils	1
+Puis, au bout d'un	1
+New York, qui s'engagèrent	1
+York, qui s'engagèrent à	1
+Spacetown et à qui	1
+Enfin, décision plus importante	1
+Mais maintenant, se dit	1
+Baley, les événements pouvaient	1
+Si les Spaciens croyaient	1
+Terrien avait réussi à	1
+Spacetown pour y commettre	1
+Il se hissa sur	1
+En effet, aucune personne	1
+Island et à l'ouest	1
+Sans doute, il y	1
+Les gens deviennent de	1
+Et, en toute honnêteté,	1
+Il affectait d'ailleurs, non	1
+Baley cela se résumait	1
+Il se laissa aller	1
+Elle était la plus	1
+Angeles, et sa population	1
+Or, elle n'avait pas	1
+Bien entendu, il y	1
+Ce rassemblement primitif de	1
+Mais, en ces temps-là,	1
+Il n'y avait pas	1
+Terre par milliers, des	1
+Or, l'accroissement constant de	1
+Terriens à rechercher une	1
+Tant que cette population	1
+Mais quand elle atteignit	1
+Dès lors, il fallut	1
+Mondes Extérieurs (qui, mille	1
+Extérieurs (qui, mille ans	1
+Chacune devint une cave	1
+La cité ainsi conçue	1
+L'énorme complexe des organes	1
+Puis venaient, tout autour,	1
+Dans la périphérie se	1
+Et, au milieu de	1
+On n'en pouvait douter	1
+Cité moderne représentait le	1
+Mondes Extérieurs, qui jouissaient	1
+Extérieurs, qui jouissaient maintenant	1
+On ne trouvait pratiquement	1
+Car, dehors, c'était le	1
+Certes, toute cette étendue	1
+Les régions comprises entre	1
+Le rendement en était	1
+Spacetown en vue !	1
+Une réaction de son	1
+Or, il savait que,	1
+C'était une question de	1
+Il en fallait beaucoup	1
+Quand il eut achevé	1
+Sans transition, il se	1
+L'agent, qui était là,	1
+Baley, et celuici, d'un	1
+Baley s'avança donc dans	1
+De toute évidence, ces	1
+Terriens de s'y amasser,	1
+Baley se réjouissait de	1
+Enderby et les autorités	1
+Spacetown, à savoir qu'il	1
+Je me présente donc,	1
+Je suis R. Daneel	1
+Est-ce que je me	1
+Tout à fait exact.	1
+Je suis un robot.	1
+Ne vous a-t-on pas	1
+Si, je l'ai été.	1
+Baley passa machinalement une	1
+Je ne sais pas	1
+Je suis donc Elijah	1
+Elijah Baley, votre associé.	1
+La main du robot	1
+Cependant, reprit-il, il me	1
+Puis-je vous demander d'être	1
+Dans une association comme	1
+C'est pourquoi, dans notre	1
+J'ose croire que cela	1
+C'est que... répondit Baley	1
+Baley d'un ton navré,	1
+Et cela vous contrarie	1
+Cela ne devrait pas,	1
+Il y a des	1
+C'est que... nos propres	1
+Mais vous, vous avez	1
+Vous vous attendiez à	1
+Et cependant n'estil pas	1
+R ; il n'y	1
+C'est bon, dit Baley,	1
+Baley, d'un ton bourru.	1
+Quand il se fut	1
+Baley regarda droit devant	1
+En un si bref	1
+Daneel était un robot	1
+Sa faiblesse - il	1
+Il n'était pas immunisé	1
+Il ne pouvait constamment	1
+Il y avait toujours	1
+Tout cela, il le	1
+Or, ce qui maintenant	1
+Daneel Olivaw personnifiait véritablement	1
+Olivaw personnifiait véritablement ce	1
+C'était, en fait, pour	1
+Baley, dès lors, commença	1
+R. Sammy, celui dont	1
+Sammy, celui dont on	1
+Il s'attendait à trouver	1
+Il pensait trouver un	1
+Mais rien de tout	1
+Baley se risqua à	1
+Instantanément R. Daneel se	1
+R. Daneel se tourna	1
+Daneel se tourna aussi,	1
+Baley, et il fit	1
+Il était sur le	1
+Qu'est-ce qui se passe	1
+Du diable si je	1
+Je suis comme vous	1
+Moi, je vais vous	1
+Alors je crois que	1
+Oh, là, là !	1
+Ce, que j'aimerais leur	1
+Baley jeta un regard	1
+Daneel, mais si celui-ci	1
+Baley fonça dans la	1
+On lui fit place,	1
+Mettez-les en morceaux !	1
+Cassez-les comme du verre,	1
+Quelqu'un rit, mais Baley,	1
+Baley, lui, n'en avait	1
+Certes, la Cité représentait	1
+Cité représentait le summum	1
+Or, il arrivait parfois	1
+Il ne manquait évidemment	1
+Après une vie entière	1

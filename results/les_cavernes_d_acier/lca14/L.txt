@@ -1,0 +1,677 @@
+Baley	22
+Clousarr	19
+Il	16
+Daneel	13
+Je	10
+R	7
+Mais	6
+C'est	6
+Et	6
+A	5
+Vous	5
+Le	4
+Un	4
+Si	4
+Nous	4
+Qui	4
+Elijah	4
+New	3
+Cité	3
+Newark	3
+Bon	3
+Sammy	3
+A cette	3
+Je ne	3
+R. Daneel,	3
+Il y	3
+Trenton	2
+Terre	2
+Oui	2
+Entendu	2
+On	2
+Dès	2
+Est-ce	2
+Cela	2
+D'accord	2
+Médiévalistes	2
+Comment	2
+Ils	2
+Jamais	2
+Ciel	2
+Si je	2
+Clousarr, que	2
+Clousarr, il	2
+Vous êtes	2
+Qui ça	2
+Daneel est	2
+Baley se	2
+Et pourquoi	2
+Si vous	2
+Il a	2
+R. Sammy	2
+Sammy a	2
+Il y a	2
+Qui ça ?	2
+Daneel est un	2
+Sammy a été	2
+Préfecture	1
+Boris	1
+Cette	1
+York	1
+Brunswick	1
+C'était	1
+Epoque	1
+Médiévale	1
+Jersey	1
+Celle-ci	1
+Alleghanis	1
+Sans	1
+Trois	1
+Alors	1
+Groupe	1
+CG	1
+Tu	1
+Avisant	1
+Francis	1
+L'ouvrier	1
+L'odeur	1
+Au	1
+Zymologiste	1
+Quelle	1
+Parfait	1
+Lorsque	1
+New-Yorkais	1
+Saccharomyces	1
+Olei	1
+Benedictae	1
+Avant-hier	1
+Bronx	1
+Avez-vous	1
+J'avais	1
+La	1
+Hier	1
+Williamsburg	1
+Niez-vous	1
+Où	1
+Posez-le	1
+M	1
+Pendant	1
+Empêchez	1
+Voyons	1
+Cet	1
+Ca	1
+Laissez-le	1
+Quant	1
+N'importe	1
+Pour	1
+J'aimerais	1
+Dites-lui	1
+Allons	1
+Dr	1
+Fastolfe	1
+Quelles	1
+Ah	1
+Pas	1
+En	1
+Tous	1
+Spaciens	1
+Regardez	1
+Spacien	1
+Rien	1
+J'ai	1
+Enderby	1
+Quoi	1
+Dieu	1
+De	1
+Du	1
+Qu'est-ce	1
+Ou	1
+Préfecture, et	1
+Boris était	1
+Cette découverte	1
+Le "	1
+New York	1
+York ;	1
+Cité, à	1
+Newark, New	1
+New Brunswick	1
+Brunswick et	1
+New Jersey	1
+Jersey ;	1
+Newark et	1
+Trenton, de	1
+Un cinquième	1
+Celle-ci recevait	1
+Alleghanis ;	1
+Sans elle,	1
+Terre seraient	1
+Baley frissonna.	1
+Trois jours	1
+Il quitta	1
+Newark ;	1
+Alors, donnez-moi	1
+Clousarr à	1
+Entendu !	1
+Je vais	1
+On appelait	1
+Il n'y	1
+Baley que	1
+Groupe CG,	1
+CG, section	1
+Baley ignorait	1
+Un amateur	1
+Dès leur	1
+Cité, en	1
+Tu es	1
+Baley s'était	1
+C'est ainsi	1
+Avisant un	1
+Est-ce que	1
+Francis Clousarr	1
+Clousarr est	1
+L'ouvrier se	1
+L'odeur de	1
+Au cours	1
+Baley avait	1
+Bon !	1
+Daneel, ajouta-t-il,	1
+Et, si	1
+Il suivit	1
+Daneel, puis,	1
+Zymologiste, si	1
+Quelle est	1
+Un chimiste,	1
+Je suis	1
+Parfait, dit	1
+C'est grâce	1
+Il ne	1
+Nous contrôlons	1
+Lorsque, il	1
+Olei Benedictae	1
+Benedictae "	1
+Avant-hier soir,	1
+On vous	1
+Cela s'est	1
+Avez-vous dîné	1
+Clousarr hésita	1
+J'avais mal	1
+La levure	1
+Hier soir,	1
+Williamsburg, il	1
+Niez-vous avoir	1
+Vous ne	1
+Baley regarda	1
+Je crois	1
+Je n'ai	1
+Mais vos	1
+Il n'empêche	1
+Clousarr !	1
+Il s'en	1
+Daneel, qui	1
+Est-ce qu'on	1
+Daneel ?	1
+Oui, dans	1
+Dès qu'on	1
+Entendu, Elijah,	1
+Elijah, fit	1
+Un instant	1
+Posez-le devant	1
+M. Clousarr,	1
+Clousarr, s'il	1
+Daneel, dit	1
+Il s'assit	1
+Pendant ce	1
+Empêchez cette	1
+Voyons, Clousarr,	1
+Clousarr, répliqua	1
+Baley, en	1
+Cet homme	1
+C'est faux	1
+C'est un	1
+Ca va,	1
+Daneel !	1
+Laissez-le !,	1
+R. Daneel	1
+Daneel recula	1
+Quant à	1
+Baley qui	1
+D'accord, mon	1
+Et peut-on	1
+N'importe qui	1
+Nous laisserons	1
+Pour l'instant	1
+J'aimerais que	1
+Et puis	1
+Daneel, voulez-vous	1
+Dites-lui de	1
+Daneel s'exécuta	1
+Qui est-ce	1
+Clousarr ?	1
+Je veux	1
+D'accord, on	1
+Mais, en	1
+Médiévalistes ?	1
+Clousarr, décidé	1
+Allons, mon	1
+Baley, inutile	1
+Nous sommes	1
+Mais pour	1
+Le retour	1
+C'est simple,	1
+C'est facile	1
+Comment la	1
+Terre réussira-t-elle	1
+Dr Fastolfe,	1
+Fastolfe, et	1
+Quelles balivernes	1
+Vous prétendez	1
+Qui serait	1
+Ils disposeraient	1
+Ah, ça	1
+Clousarr, furieux.	1
+Jamais, vous	1
+Jamais !	1
+Pas de	1
+Ciel ?	1
+En quoi	1
+Tous tant	1
+Spaciens, et	1
+Nous avons	1
+Cela nous	1
+Ils ont	1
+A mesure	1
+Baley sentait	1
+Regardez par	1
+Daneel avec	1
+Il est	1
+Spacien, n'est-ce	1
+Il n'a	1
+Rien ne	1
+Mais c'est	1
+Je peux	1
+J'ai eu	1
+Enderby, Elijah,	1
+Comment ?	1
+Il semble,	1
+Quoi ?	1
+Dieu du	1
+Ciel !	1
+De qui	1
+Du garçon	1
+Sammy !	1
+Baley resta	1
+Vous avez	1
+Daneel, d'une	1
+A ces	1
+Clousarr se	1
+Baley, se	1
+Je vous	1
+Il sortit	1
+Clousarr ne	1
+Bon, reprit	1
+Qu'est-ce qui	1
+Et après	1
+Le commissaire	1
+Mais s'il	1
+Ou encore,	1
+Préfecture, et il	1
+Boris était tombé	1
+Cette découverte avait	1
+Le " quartier	1
+New York ;	1
+York ; aucun	1
+Cité, à savoir	1
+Newark, New Brunswick	1
+New Brunswick et	1
+Brunswick et Trenton.	1
+New Jersey ;	1
+Jersey ; on	1
+Newark et à	1
+Trenton, de nombreux	1
+Un cinquième de	1
+Celle-ci recevait quotidiennement,	1
+Alleghanis ; cette	1
+Sans elle, six	1
+Terre seraient morts	1
+A cette seule	1
+Trois jours plus	1
+Il quitta l'autoroute	1
+Newark ; elle	1
+Alors, donnez-moi un	1
+Si je ne	1
+Clousarr à son	1
+On appelait ainsi	1
+Il n'y avait	1
+Baley que l'indicateur	1
+Groupe CG, section	1
+Baley ignorait laquelle.	1
+Un amateur n'aurait	1
+Dès leur plus	1
+Cité, en criant	1
+Tu es froid,	1
+Baley s'était bien	1
+C'est ainsi qu'après	1
+Avisant un ouvrier	1
+Est-ce que Francis	1
+Francis Clousarr est	1
+Clousarr est ici	1
+L'ouvrier se redressa	1
+L'odeur de levure	1
+Au cours de	1
+Baley avait eu	1
+Je ne pense	1
+Clousarr, que l'on	1
+Daneel, ajouta-t-il, voulez-vous	1
+Et, si vous	1
+Il suivit des	1
+R. Daneel, puis,	1
+Daneel, puis, se	1
+Clousarr, il lui	1
+Vous êtes chimiste	1
+Zymologiste, si ça	1
+Quelle est la	1
+Un chimiste, fit	1
+Parfait, dit Baley.	1
+C'est grâce à	1
+Clousarr, que les	1
+Il ne se	1
+Nous contrôlons et	1
+Lorsque, il y	1
+Olei Benedictae "	1
+Benedictae " n'était	1
+Avant-hier soir, il	1
+On vous y	1
+Cela s'est passé	1
+Clousarr hésita un	1
+J'avais mal à	1
+La levure produit	1
+Hier soir, à	1
+Williamsburg, il y	1
+Niez-vous avoir été	1
+Vous ne me	1
+Baley regarda bien	1
+Je crois que	1
+Je n'ai aucun	1
+Mais vos idées	1
+Il n'empêche que	1
+Il s'en fut	1
+R. Daneel, qui	1
+Daneel, qui se	1
+Est-ce qu'on va	1
+Oui, dans un	1
+Dès qu'on vous	1
+Entendu, Elijah, fit	1
+Elijah, fit le	1
+Un instant plus	1
+Posez-le devant M.	1
+M. Clousarr, s'il	1
+Clousarr, s'il vous	1
+Il s'assit sur	1
+Pendant ce temps,	1
+Empêchez cette machine	1
+Voyons, Clousarr, répliqua	1
+Clousarr, répliqua gentiment	1
+Baley, en voilà	1
+Cet homme est	1
+C'est faux !	1
+C'est un immonde	1
+Ca va, Daneel	1
+Laissez-le !, ordonna	1
+R. Daneel recula	1
+Daneel recula aussitôt	1
+Quant à Clousarr,	1
+Clousarr, il soufflait	1
+Baley qui lui	1
+D'accord, mon ami.	1
+Vous êtes très	1
+Et peut-on savoir	1
+N'importe qui pourrait	1
+Nous laisserons le	1
+Pour l'instant c'est	1
+Et puis beaucoup,	1
+Daneel, voulez-vous aller	1
+A cette heure-ci,	1
+Dites-lui de revenir	1
+Daneel s'exécuta aussitôt,	1
+Baley se tourna	1
+Qui est-ce qui	1
+Je veux un	1
+D'accord, on vous	1
+Mais, en attendant,	1
+Clousarr, décidé à	1
+Allons, mon vieux,	1
+Baley, inutile de	1
+Nous sommes parfaitement	1
+Je ne bluffe	1
+Mais pour ma	1
+Le retour à	1
+C'est facile à	1
+Terre réussira-t-elle à	1
+Baley se rendit	1
+Dr Fastolfe, et	1
+Fastolfe, et cependant	1
+Quelles balivernes !	1
+Qui serait assez	1
+Il y en	1
+Ils disposeraient d'ailleurs	1
+Ah, ça non,	1
+Jamais, vous m'entendez	1
+Pas de robots	1
+Et pourquoi donc,	1
+Je ne les	1
+En quoi les	1
+Si vous voulez	1
+Tous tant que	1
+Spaciens, et cela	1
+Nous avons besoin	1
+Cela nous tue	1
+Ils ont l'air	1
+A mesure qu'il	1
+Baley sentait le	1
+Regardez par exemple	1
+Daneel avec lequel	1
+Il est plus	1
+Il a tout	1
+Spacien, n'est-ce pas	1
+Il a plus	1
+Rien ne le	1
+Mais c'est une	1
+Je peux lui	1
+Si je frappe	1
+J'ai eu du	1
+A cette heure-ci	1
+Il semble, répondit	1
+Dieu du Ciel	1
+De qui s'agit-il	1
+Du garçon de	1
+R. Sammy !	1
+Baley resta un	1
+Vous avez parlé	1
+R. Daneel, d'une	1
+Daneel, d'une voix	1
+Si vous le	1
+A ces mots,	1
+Clousarr se mit	1
+Je vous prie	1
+Il sortit ostensiblement	1
+Bon, reprit Baley.	1
+Qu'est-ce qui s'est	1
+Et après ?...	1
+Le commissaire principal	1
+Mais s'il ne	1
+R. Sammy a	1
+Ou encore, acheva-t-il,	1
+Préfecture, et il avait	1
+Boris était tombé sous	1
+Cette découverte avait mis	1
+Le " quartier de	1
+New York ; aucun	1
+York ; aucun plan	1
+Cité, à savoir Newark,	1
+Newark, New Brunswick et	1
+New Brunswick et Trenton.	1
+New Jersey ; on	1
+Jersey ; on y	1
+Trenton, de nombreux immeubles	1
+Un cinquième de la	1
+Celle-ci recevait quotidiennement, en	1
+Alleghanis ; cette cellulose	1
+Terre seraient morts de	1
+A cette seule pensée,	1
+Trois jours plus tôt,	1
+Il quitta l'autoroute et	1
+Newark ; elle était	1
+Alors, donnez-moi un indicateur.	1
+Si je ne trouve	1
+Clousarr à son poste,	1
+On appelait ainsi un	1
+Il n'y avait qu'à	1
+Baley que l'indicateur le	1
+Un amateur n'aurait probablement	1
+Dès leur plus jeune	1
+Cité, en criant :	1
+Tu es froid, tu	1
+Baley s'était bien souvent	1
+C'est ainsi qu'après dix	1
+Avisant un ouvrier qui	1
+Est-ce que Francis Clousarr	1
+Francis Clousarr est ici	1
+Clousarr est ici ?	1
+L'ouvrier se redressa brusquement,	1
+L'odeur de levure était	1
+Au cours de ses	1
+Baley avait eu l'occasion	1
+Je ne pense pas,	1
+Clousarr, que l'on vienne	1
+Daneel, ajouta-t-il, voulez-vous faire	1
+Et, si vous n'y	1
+Il suivit des yeux	1
+R. Daneel, puis, se	1
+Daneel, puis, se tournant	1
+Clousarr, il lui demanda	1
+Vous êtes chimiste ?	1
+Zymologiste, si ça ne	1
+Quelle est la différence	1
+Un chimiste, fit l'autre	1
+C'est grâce à ce	1
+Clousarr, que les usines	1
+Il ne se passe	1
+Nous contrôlons et complétons	1
+Lorsque, il y a	1
+Il y a vingt	1
+Olei Benedictae " n'était	1
+Benedictae " n'était qu'une	1
+Avant-hier soir, il y	1
+On vous y a	1
+Cela s'est passé à	1
+Clousarr hésita un instant,	1
+J'avais mal à l'estomac.	1
+La levure produit parfois	1
+Hier soir, à Williamsburg,	1
+Williamsburg, il y a	1
+Niez-vous avoir été là	1
+Vous ne me dites	1
+Baley regarda bien en	1
+Je crois que vous	1
+Je n'ai aucun moyen	1
+Mais vos idées ne	1
+Il n'empêche que je	1
+Il s'en fut jusqu'à	1
+R. Daneel, qui se	1
+Est-ce qu'on va bientôt	1
+Oui, dans un instant,	1
+Dès qu'on vous l'aura	1
+Entendu, Elijah, fit le	1
+Elijah, fit le robot.	1
+Un instant plus tard,	1
+Posez-le devant M. Clousarr,	1
+M. Clousarr, s'il vous	1
+Clousarr, s'il vous plaît,	1
+Il s'assit sur un	1
+Empêchez cette machine de	1
+Voyons, Clousarr, répliqua gentiment	1
+Clousarr, répliqua gentiment Baley,	1
+Baley, en voilà des	1
+Cet homme est mon	1
+C'est un immonde robot	1
+Ca va, Daneel !	1
+Laissez-le !, ordonna vivement	1
+R. Daneel recula aussitôt	1
+Daneel recula aussitôt et	1
+Quant à Clousarr, il	1
+Clousarr, il soufflait bruyamment,	1
+Baley qui lui dit	1
+Vous êtes très fort	1
+Daneel est un robot	1
+N'importe qui pourrait s'en	1
+Nous laisserons le tribunal	1
+Pour l'instant c'est à	1
+Daneel est un robot.	1
+Et puis beaucoup, beaucoup	1
+Daneel, voulez-vous aller téléphoner	1
+A cette heure-ci, il	1
+Dites-lui de revenir à	1
+Daneel s'exécuta aussitôt, et	1
+Baley se tourna vers	1
+Qui est-ce qui vous	1
+Je veux un avocat,	1
+D'accord, on vous en	1
+Clousarr, décidé à garder	1
+Allons, mon vieux, s'écria	1
+Baley, inutile de jouer	1
+Nous sommes parfaitement au	1
+Je ne bluffe pas.	1
+Le retour à la	1
+C'est facile à dire,	1
+Terre réussira-t-elle à nourrir	1
+Baley se rendit parfaitement	1
+Dr Fastolfe, et cependant	1
+Fastolfe, et cependant les	1
+Il y en aurait	1
+Ils disposeraient d'ailleurs de	1
+Ah, ça non, par	1
+Jamais, vous m'entendez ?	1
+Pas de robots !	1
+Et pourquoi donc, pour	1
+Je ne les aime	1
+En quoi les robots	1
+Si vous voulez mon	1
+Tous tant que nous	1
+Spaciens, et cela nous	1
+Nous avons besoin de	1
+Cela nous tue de	1
+Ils ont l'air de	1
+A mesure qu'il développait	1
+Baley sentait le sang	1
+Regardez par exemple ce	1
+Daneel avec lequel je	1
+Il est plus grand	1
+Il a tout l'air	1
+Spacien, n'est-ce pas ?	1
+Il a plus de	1
+Rien ne le trouble,	1
+Je peux lui faire	1
+Si je frappe un	1
+J'ai eu du mal	1
+A cette heure-ci ?	1
+Il semble, répondit le	1
+Dieu du Ciel !	1
+De qui s'agit-il ?	1
+Du garçon de courses,	1
+Baley resta un moment	1
+Vous avez parlé d'un	1
+R. Daneel, d'une voix	1
+Daneel, d'une voix douce,	1
+Si vous le préférez,	1
+A ces mots, Clousarr	1
+Clousarr se mit à	1
+Je vous prie de	1
+Il sortit ostensiblement son	1
+Qu'est-ce qui s'est passé	1
+Il y a des	1
+Le commissaire principal ne	1
+Mais s'il ne m'a	1
+R. Sammy a été	1
+Sammy a été désactivé	1
+Ou encore, acheva-t-il, tandis	1
+Sammy a été assassiné...	1

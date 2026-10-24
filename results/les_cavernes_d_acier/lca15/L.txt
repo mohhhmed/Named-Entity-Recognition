@@ -1,0 +1,727 @@
+Baley	23
+R	20
+Daneel	17
+Je	17
+Il	16
+Le	12
+Clousarr	10
+Sammy	10
+Mais	8
+Et	7
+Elijah	7
+Enderby	7
+R. Sammy	7
+C'est	6
+Vous	6
+J'ai	6
+A	5
+R. Daneel	5
+Ah	4
+Qu'est-ce	4
+Elijah ?	4
+R. Daneel.	4
+Je ne	4
+Si	3
+Pas	3
+Ils	3
+Eh	3
+Dans	3
+Gerrigel	3
+Où	3
+On	3
+Oui	3
+C'était	3
+Eh bien,	3
+Il est	3
+Quoi	2
+Dites-moi	2
+Que	2
+Ca	2
+Lui	2
+Les	2
+Cela	2
+Car	2
+Spacetown	2
+Quoi qu'il	2
+Daneel !	2
+Mais vous	2
+Clousarr, mais	2
+Vous ne	2
+Il peut	2
+R. Sammy.	2
+Qu'est-ce qui	2
+Vous êtes	2
+Je me	2
+Je n'ai	2
+Je pense	2
+C'était un	2
+Il a	2
+Et pourquoi	2
+Le commissaire	2
+Mais il	2
+Je ne me	2
+Je pense que	2
+Sa	1
+Ce	1
+Francis	1
+Allons	1
+Tous	1
+Même	1
+Première	1
+Loi	1
+Par	1
+L'inspecteur	1
+Elles	1
+Oh	1
+Fastolfe	1
+Terriens	1
+Dieu	1
+Dès	1
+Tiens	1
+Enchanté	1
+Votre	1
+Bizarre	1
+En	1
+Toute	1
+Quelle	1
+Ciel	1
+Hum	1
+Julius	1
+Or	1
+Au	1
+L'une	1
+Un	1
+Autrement	1
+La	1
+Docteur	1
+Pour	1
+Comme	1
+Ainsi	1
+Non	1
+Absolument	1
+Alors	1
+Peut-être	1
+Lequel	1
+Vince	1
+Barrett	1
+Revenons-en	1
+Quand	1
+Nous	1
+Centrale	1
+Tandis	1
+Police	1
+Cette	1
+Quel	1
+Puis	1
+Jessie	1
+Laissez-moi	1
+Tout	1
+Détrompez-vous	1
+Pourquoi	1
+L'assassin	1
+D'une	1
+J'étais	1
+Merci	1
+Laquelle	1
+Terre	1
+Daneel avait	1
+Sa joue	1
+Il regarda	1
+Ce que	1
+Si je	1
+Clousarr répliqua	1
+Allons, montez,	1
+Clousarr !	1
+Et vous	1
+Tous les	1
+Et veillez	1
+Même si	1
+C'est un	1
+Et la	1
+Première Loi,	1
+Loi, qu'est-ce	1
+Clousarr en	1
+Je suis	1
+Daneel est	1
+Baley se	1
+Le vent	1
+Daneel ne	1
+Le robot,	1
+Dites-moi, monsieur	1
+Clousarr, est-ce	1
+Baley ne	1
+Pas seulement	1
+Mais voyons,	1
+R. Daneel,	1
+Daneel, il	1
+Par exemple,	1
+Ah !	1
+L'inspecteur m'en	1
+Il m'a	1
+Si lente	1
+Baley nerveusement.	1
+Je veux	1
+A mon	1
+C'est dommage	1
+Daneel, suivant	1
+A cause	1
+Ah ?	1
+Qu'est-ce qu'elles	1
+Elles ont	1
+Oh, fit	1
+Baley, d'un	1
+Je lui	1
+Fastolfe !	1
+Baley soupira,	1
+J'ai tenté	1
+Terriens pourraient	1
+Dieu seul	1
+Je vois	1
+Dans ce	1
+Clousarr peut	1
+Ca vous	1
+Ca, c'était	1
+Gerrigel !	1
+J'ai l'impression	1
+Lui avez-vous	1
+Dès qu'il	1
+Baley sur	1
+Ah, vous	1
+Où diable	1
+Baley, haussant	1
+Où est	1
+A ce	1
+Tiens ?	1
+Gerrigel ?	1
+Le savant	1
+Enchanté de	1
+Baley, fit-il.	1
+Enderby rajusta	1
+On procède	1
+Bizarre ?	1
+En voilà	1
+Toute absence	1
+C'est quelqu'un	1
+Quelle sale,	1
+Il leva	1
+Ciel à	1
+Hum !	1
+C'est la	1
+Daneel les	1
+Julius !	1
+Lui aussi,	1
+Enderby d'une	1
+J'ai bien	1
+Oui, même	1
+Dites-moi donc,	1
+Sammy n'a	1
+Qu'est-ce que	1
+Dans la	1
+Le poing	1
+Or, ce	1
+Baley fit	1
+Il n'avait	1
+Au cours	1
+L'une des	1
+Oui, fit	1
+Autrement dit,	1
+Pas d'erreur	1
+C'était vraiment	1
+La réponse	1
+Pas l'ombre	1
+Les compteurs	1
+Les pellicules	1
+Il réfléchit	1
+Docteur Gerrigel,	1
+Gerrigel, j'ai	1
+Daneel lui	1
+Il pouvait	1
+Il lui	1
+Dans mon	1
+Pour discuter	1
+Comme vous	1
+Ah, bien	1
+Enderby l'air	1
+Ainsi donc,	1
+Non, mais	1
+Absolument sûr.	1
+Alors, il	1
+Peut-être un	1
+Lequel ?	1
+Le gosse,	1
+Vince Barrett,	1
+Barrett, est	1
+Le saviez-vous	1
+Enderby en	1
+Sammy lui	1
+Sammy parler	1
+Sammy le	1
+Mais où	1
+Cela me	1
+Revenons-en à	1
+Quand vous	1
+Baley hésita	1
+Nous sommes	1
+Où avez-vous	1
+A la	1
+Centrale de	1
+Il faut	1
+Tandis qu'il	1
+Daneel du	1
+Le mobile	1
+Il avala	1
+Police, laquelle	1
+Quel imbécile	1
+Puis il	1
+Daneel ;	1
+Baley réfléchir	1
+Daneel se	1
+Que désirez-vous,	1
+Daneel, lui	1
+Baley sans	1
+J'ai besoin	1
+A quoi	1
+On va	1
+Jessie et	1
+Laissez-moi répondre	1
+Vous me	1
+Je comprends	1
+Mais si	1
+Si l'on	1
+Tout ce	1
+Vous pouvez	1
+Elijah, pourvu	1
+C'est à	1
+Car, enfin,	1
+Sammy ne	1
+Sammy pour	1
+Ils ne	1
+Détrompez-vous bien	1
+Ils vont	1
+Le meurtre	1
+Pourquoi se	1
+C'est bien	1
+Sammy de	1
+Je considère	1
+Car, même	1
+Et comment	1
+Baley eut	1
+D'une façon	1
+Le vaporisateur	1
+On nous	1
+Et l'on	1
+R. Sammy,	1
+Sammy, à	1
+J'étais avec	1
+Merci, dit	1
+Laquelle ?	1
+Spacetown ont	1
+Spacetown et	1
+R. Daneel avait	1
+Daneel avait tenté	1
+Sa joue ne	1
+Il regarda calmement	1
+Ce que vous	1
+Quoi qu'il en	1
+Clousarr répliqua par	1
+Allons, montez, Clousarr	1
+Et vous aussi,	1
+Tous les deux	1
+Et veillez à	1
+Même si vous	1
+C'est un ordre	1
+Et la Première	1
+Première Loi, qu'est-ce	1
+Loi, qu'est-ce que	1
+Clousarr en ricanant.	1
+Je suis convaincu	1
+Daneel est assez	1
+Mais vous mériteriez	1
+Baley se mit	1
+Le vent sifflait	1
+Clousarr, mais la	1
+R. Daneel ne	1
+Daneel ne subit	1
+Le robot, toujours	1
+Dites-moi, monsieur Clousarr,	1
+Clousarr, est-ce que	1
+Baley ne pouvait	1
+Clousarr, mais il	1
+Pas seulement de	1
+Mais voyons, reprit	1
+R. Daneel, il	1
+Daneel, il doit	1
+Par exemple, vos	1
+L'inspecteur m'en a	1
+Il m'a l'air	1
+Si lente que	1
+Vous ne me	1
+Il peut attendre	1
+A mon avis,	1
+C'est dommage !	1
+Daneel, suivant son	1
+Qu'est-ce qu'elles ont	1
+Elles ont beaucoup	1
+Qu'est-ce qui s'est	1
+Oh, fit Baley,	1
+Baley, d'un air	1
+Je lui ai	1
+Je ne vous	1
+Baley soupira, et	1
+Eh bien, voilà	1
+J'ai tenté de	1
+Terriens pourraient sans	1
+Dieu seul sait	1
+Je vois ce	1
+Dans ce cas,	1
+Clousarr peut s'expliquer,	1
+Ca vous intéresse	1
+Eh bien, je	1
+J'ai l'impression qu'il	1
+Lui avez-vous dit,	1
+Dès qu'il aperçut	1
+Baley sur le	1
+Ah, vous voilà	1
+Où diable étiez-vous	1
+Baley, haussant les	1
+Qu'est-ce qui se	1
+Où est l'équipe	1
+A ce moment,	1
+Vous êtes donc	1
+Le savant grisonnant	1
+Enchanté de vous	1
+Enderby rajusta ses	1
+On procède actuellement,	1
+Je me suis	1
+En voilà une	1
+Toute absence est	1
+C'est quelqu'un de	1
+Quelle sale, quelle	1
+Il leva les	1
+Ciel à témoin	1
+C'est la première	1
+Daneel les yeux	1
+Lui aussi, reprit	1
+Enderby d'une voix	1
+J'ai bien dû	1
+Oui, même moi	1
+Dites-moi donc, monsieur	1
+R. Sammy n'a	1
+Sammy n'a pas	1
+Je n'ai d'ailleurs	1
+Qu'est-ce que c'était	1
+Dans la paume	1
+Le poing du	1
+Or, ce qu'il	1
+Baley fit un	1
+Il n'avait besoin	1
+Au cours de	1
+C'était un petit	1
+Il a donc	1
+Oui, fit le	1
+Autrement dit, sa	1
+Pas d'erreur possible,	1
+C'était vraiment un	1
+La réponse d'Enderby	1
+Pas l'ombre d'un	1
+Les compteurs pouvaient	1
+Les pellicules de	1
+Il réfléchit un	1
+Docteur Gerrigel, j'ai	1
+Gerrigel, j'ai le	1
+R. Daneel lui	1
+Daneel lui a	1
+Il pouvait être	1
+Il lui a	1
+Dans mon bureau	1
+Et pourquoi cela	1
+Pour discuter de	1
+Comme vous n'étiez	1
+Ah, bien !	1
+Enderby l'air peu	1
+Ainsi donc, vous	1
+Non, mais une	1
+Vous êtes sûr	1
+Alors, il devait	1
+Peut-être un peu	1
+Le commissaire se	1
+Eh bien, dit-il,	1
+Le gosse, Vince	1
+Vince Barrett, est	1
+Barrett, est venu	1
+Le saviez-vous ?	1
+Mais il est	1
+Et pourquoi donc	1
+Enderby en levant	1
+R. Sammy lui	1
+Sammy lui avait	1
+Vous ne réagiriez	1
+Mais il a	1
+R. Sammy parler	1
+Sammy parler à	1
+Il peut évidemment	1
+R. Sammy le	1
+Sammy le vaporisateur	1
+Cela me parait	1
+Revenons-en à R.	1
+Quand vous lui	1
+Baley hésita légèrement	1
+Nous sommes partis	1
+Où avez-vous été	1
+A la Centrale	1
+Centrale de levure.	1
+Il faut d'ailleurs	1
+Tandis qu'il sortait	1
+R. Daneel du	1
+Daneel du bureau	1
+Le mobile !...	1
+Il avala un	1
+Police, laquelle était	1
+Quel imbécile je	1
+Puis il appela	1
+R. Daneel ;	1
+Daneel ; celui-ci	1
+Baley réfléchir en	1
+Daneel se leva	1
+Que désirez-vous, mon	1
+Daneel, lui répondit	1
+Baley sans le	1
+A quoi faire,	1
+On va nous	1
+Jessie et moi	1
+Laissez-moi répondre à	1
+Vous me comprenez	1
+Je comprends ce	1
+Mais si l'on	1
+Si l'on vous	1
+Tout ce que	1
+Vous pouvez le	1
+Elijah, pourvu que	1
+C'est à moi	1
+Je ne comprends	1
+Car, enfin, l'affaire	1
+R. Sammy ne	1
+Sammy ne vous	1
+R. Sammy pour	1
+Ils ne penseront	1
+Détrompez-vous bien !	1
+Ils vont le	1
+Le meurtre a	1
+C'était un moyen	1
+C'est bien pour	1
+R. Sammy de	1
+Sammy de se	1
+Je considère comme	1
+Car, même si	1
+Et comment tout	1
+Baley eut un	1
+D'une façon très	1
+On nous y	1
+Et l'on peut	1
+R. Sammy, à	1
+Sammy, à l'exception,	1
+J'étais avec vous,	1
+Merci, dit tristement	1
+Mais vous êtes	1
+Le commissaire principal	1
+Il a d'abord	1
+Je n'ai qu'une	1
+Je me demande	1
+Il est évident	1
+Il est non	1
+Spacetown ont décidé	1
+Spacetown et la	1
+R. Daneel avait tenté	1
+Daneel avait tenté d'esquiver	1
+Sa joue ne portait	1
+Il regarda calmement son	1
+Ce que vous venez	1
+Quoi qu'il en soit,	1
+Clousarr répliqua par un	1
+Allons, montez, Clousarr !	1
+Tous les deux sur	1
+Et veillez à ce	1
+Même si vous lui	1
+C'est un ordre !	1
+Et la Première Loi,	1
+Première Loi, qu'est-ce que	1
+Loi, qu'est-ce que vous	1
+Je suis convaincu que	1
+Daneel est assez fort	1
+Baley se mit au	1
+Le vent sifflait dans	1
+Clousarr, mais la chevelure	1
+R. Daneel ne subit	1
+Le robot, toujours impassible,	1
+Dites-moi, monsieur Clousarr, est-ce	1
+Clousarr, est-ce que vous	1
+Baley ne pouvait se	1
+Clousarr, mais il était	1
+Pas seulement de mon	1
+Mais voyons, reprit R.	1
+R. Daneel, il doit	1
+Daneel, il doit sûrement	1
+Par exemple, vos enfants	1
+Il m'a l'air d'être	1
+Si lente que fût	1
+Vous ne me paraissez	1
+Il peut attendre !	1
+A mon avis, murmurat-il,	1
+Daneel, suivant son idée.	1
+Qu'est-ce qu'elles ont eu	1
+Elles ont beaucoup changé	1
+Qu'est-ce qui s'est donc	1
+Oh, fit Baley, d'un	1
+Baley, d'un air détaché,	1
+Je lui ai prêché	1
+Je ne vous comprends	1
+Baley soupira, et entreprit	1
+Eh bien, voilà !	1
+J'ai tenté de lui	1
+Terriens pourraient sans danger	1
+Dieu seul sait pourquoi	1
+Je vois ce que	1
+Dans ce cas, le	1
+Clousarr peut s'expliquer, répliqua	1
+Ca vous intéresse ?	1
+Eh bien, je lui	1
+J'ai l'impression qu'il doit	1
+Lui avez-vous dit, par	1
+Dès qu'il aperçut Baley	1
+Baley sur le seuil	1
+Ah, vous voilà tout	1
+Baley, haussant les épaules,	1
+Qu'est-ce qui se passe	1
+Où est l'équipe de	1
+A ce moment, seulement,	1
+Vous êtes donc ici,	1
+Le savant grisonnant répondit	1
+Enchanté de vous revoir,	1
+Enderby rajusta ses lunettes	1
+On procède actuellement, en	1
+Je me suis cassé	1
+En voilà une idée	1
+Toute absence est suspecte.	1
+C'est quelqu'un de la	1
+Il leva les mains,	1
+Ciel à témoin de	1
+C'est la première fois	1
+Daneel les yeux dans	1
+Lui aussi, reprit Enderby	1
+Enderby d'une voix plus	1
+J'ai bien dû en	1
+Oui, même moi !	1
+Dites-moi donc, monsieur le	1
+R. Sammy n'a pas	1
+Sammy n'a pas pu	1
+Je n'ai d'ailleurs eu	1
+Qu'est-ce que c'était ?	1
+Dans la paume droite	1
+Baley fit un signe	1
+Il n'avait besoin ni	1
+Au cours de ses	1
+Il a donc dû	1
+Oui, fit le savant,	1
+Autrement dit, sa mort	1
+Pas d'erreur possible, monsieur	1
+C'était vraiment un vaporisateur	1
+La réponse d'Enderby fut	1
+Pas l'ombre d'un doute	1
+Les compteurs pouvaient déceler	1
+Les pellicules de photos	1
+Il réfléchit un long	1
+Docteur Gerrigel, j'ai le	1
+Gerrigel, j'ai le regret	1
+R. Daneel lui a	1
+Daneel lui a parlé	1
+Il lui a donné	1
+Dans mon bureau ?	1
+Et pourquoi cela ?	1
+Pour discuter de l'enquête	1
+Comme vous n'étiez pas	1
+Enderby l'air peu convaincu	1
+Ainsi donc, vous ne	1
+Non, mais une heure	1
+Vous êtes sûr que	1
+Alors, il devait être	1
+Peut-être un peu plus	1
+Le commissaire se mordit	1
+Eh bien, dit-il, cela	1
+Le gosse, Vince Barrett,	1
+Vince Barrett, est venu	1
+Barrett, est venu au	1
+Mais il est incapable	1
+Et pourquoi donc ?	1
+Enderby en levant vers	1
+R. Sammy lui avait	1
+Sammy lui avait pris	1
+Vous ne réagiriez pas	1
+Mais il a quitté	1
+R. Sammy parler à	1
+Sammy parler à 14	1
+R. Sammy le vaporisateur	1
+Sammy le vaporisateur avant	1
+Cela me parait inconcevable.	1
+Revenons-en à R. Sammy.	1
+Quand vous lui avez	1
+Baley hésita légèrement avant	1
+Je ne me rappelle	1
+Nous sommes partis peu	1
+Où avez-vous été ?	1
+A la Centrale de	1
+Il faut d'ailleurs que	1
+Tandis qu'il sortait avec	1
+R. Daneel du bureau	1
+Daneel du bureau d'Enderby,	1
+Le mobile !... Le	1
+Il avala un léger	1
+Police, laquelle était rarement	1
+Quel imbécile je suis	1
+Puis il appela R.	1
+R. Daneel ; celui-ci	1
+Daneel ; celui-ci s'était	1
+Baley réfléchir en paix	1
+Daneel se leva et	1
+Que désirez-vous, mon cher	1
+Daneel, lui répondit Baley	1
+Baley sans le regarder.	1
+A quoi faire, Elijah	1
+On va nous interroger,	1
+Jessie et moi :	1
+Laissez-moi répondre à ma	1
+Vous me comprenez ?	1
+Je comprends ce que	1
+Si l'on vous interroge,	1
+Vous pouvez le faire,	1
+Je pense que oui,	1
+Elijah, pourvu que l'on	1
+C'est à moi que	1
+Je ne comprends pas	1
+Car, enfin, l'affaire R.	1
+R. Sammy ne vous	1
+Sammy ne vous concerne	1
+Ils ne penseront pas	1
+Ils vont le penser	1
+C'était un moyen plutôt	1
+C'est bien pour cela	1
+R. Sammy de se	1
+Sammy de se rendre	1
+Je considère comme évident	1
+Car, même si nous	1
+Et comment tout ceci	1
+Baley eut un pâle	1
+D'une façon très précise,	1
+On nous y a	1
+Et l'on peut très	1
+R. Sammy, à l'exception,	1
+Sammy, à l'exception, bien	1
+J'étais avec vous, et	1
+Merci, dit tristement Baley.	1
+Mais vous êtes un	1
+Le commissaire principal est	1
+Il a d'abord sa	1
+Je n'ai qu'une seule	1
+Je me demande :	1
+Il est évident qu'on	1
+Il est non moins	1
+Spacetown ont décidé de	1

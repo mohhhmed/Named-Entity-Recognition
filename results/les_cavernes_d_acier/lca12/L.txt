@@ -1,0 +1,826 @@
+Baley	31
+Il	17
+Je	13
+Et	11
+Mais	11
+Daneel	11
+Vous	8
+R	8
+Norris	8
+Non	7
+Si	6
+C'est	6
+Enderby	6
+Eh	5
+Mon	5
+Première	5
+Loi	5
+La	5
+Le	5
+Tu	5
+Elijah	5
+Jessie	5
+Or	4
+Dr	4
+Allons	4
+Lije	4
+Gerrigel	3
+En	3
+Ce	3
+Dès	3
+Qu'est-ce	3
+Barrett	3
+De	3
+Eh bien,	3
+Mon cher	3
+Il n'est	3
+Première Loi	3
+Il y	3
+Lije !	3
+Il était	3
+R. Daneel	3
+Vous avez	3
+Il n'est pas	3
+Tout	2
+A	2
+Oui	2
+Quand	2
+Alors	2
+Pas	2
+Ainsi	2
+On	2
+Cet	2
+Bon	2
+Que	2
+Vince	2
+Sammy	2
+Ca	2
+Vraiment	2
+Pourquoi	2
+J'ai	2
+Pour	2
+Baley, répliqua	2
+Si je	2
+Dr Gerrigel	2
+R. Daneel,	2
+Et si	2
+C'est une	2
+Ainsi donc,	2
+Il ne	2
+Vince Barrett,	2
+Allons donc	2
+Baley le	2
+Daneel ?	2
+Je n'en	2
+Jessie ;	2
+Mon cher monsieur	2
+Il y avait	2
+Allons donc !	2
+Mon cher monsieur Baley,	2
+Voudriez-vous	1
+Prétendez-vous	1
+Tenez	1
+Voulez-vous	1
+Manuel	1
+Les	1
+Auriez-vous	1
+Ouvrez	1
+Cependant	1
+J'aurais	1
+Du	1
+Rien	1
+Oh	1
+Garde	1
+Dis	1
+Quoi	1
+Aucun	1
+Ecoute	1
+Quel	1
+Dites	1
+Est-ce	1
+Va	1
+Médiévalistes	1
+Phil	1
+Avec	1
+Bah	1
+Ou	1
+L'humanité	1
+Notre	1
+Par	1
+Nous	1
+Mercure	1
+Terre	1
+N'importe	1
+Mange	1
+Car	1
+C'était	1
+Une	1
+Etes-vous	1
+Sarton	1
+Un	1
+Spaciens	1
+Fastolfe	1
+Bien	1
+Julius	1
+Comment	1
+Parce	1
+Ah	1
+Savez-vous	1
+D'accord	1
+Parfois	1
+Ils	1
+New	1
+York	1
+Spacetown	1
+Voici	1
+Hier	1
+Terriens	1
+Normalement	1
+Bentley	1
+Supposez	1
+Gerrigel ?	1
+Et pourquoi	1
+Baley, plein	1
+Première Loi.	1
+Je dois	1
+Baley respira	1
+Voudriez-vous vous	1
+Prétendez-vous pouvoir	1
+Mais oui,	1
+Tenez, monsieur	1
+Baley !	1
+Je vais	1
+Si j'étais	1
+En revanche,	1
+Ce qui	1
+Or, ce	1
+La Première	1
+Loi a	1
+Tout en	1
+A cela,	1
+Voulez-vous toucher	1
+Daneel s'exécuta	1
+En un	1
+Il fit	1
+Manuel, puis	1
+C'est tout	1
+Baley, fronçant	1
+Oui, c'est	1
+Mais voyons,	1
+Vous n'avez	1
+Loi !	1
+Quand ce	1
+Non, bien	1
+Alors, quel	1
+Daneel est	1
+Première Loi,	1
+Loi, répliqua	1
+Le détective	1
+Auriez-vous la	1
+Je n'ai	1
+Baley en	1
+Mais ne	1
+Loi n'auraient	1
+Or, rien	1
+Le savant	1
+En effet,	1
+Pas le	1
+Daneel, dont	1
+Baley, qui	1
+Ouvrez donc	1
+Le policier	1
+Non, il	1
+Baley, vous	1
+Mon rôle	1
+Cependant, si	1
+J'aurais pu	1
+Baley considéra	1
+Je crois	1
+Dès que	1
+Baley donna	1
+Il passa	1
+Du poulet,	1
+Rien que	1
+On en	1
+Baley avec	1
+Mais Norris	1
+Norris tint	1
+Oh, je	1
+Mais je	1
+Garde ça	1
+Dis donc,	1
+Quoi ?	1
+Norris s'efforça	1
+Allons !	1
+Tu sais	1
+Tu ne	1
+Qu'est-ce qui	1
+Tu vas	1
+Baley fronça	1
+Cet entretien	1
+Norris, dont	1
+Baley, ne	1
+Non, non	1
+Aucun avancement	1
+Tu peux	1
+Bon sang,	1
+Ecoute, Lije,	1
+Lije, ne	1
+Que tu	1
+Mais si	1
+Quel gosse	1
+Norris n'eut	1
+Barrett, le	1
+R. Sammy,	1
+Baley ;	1
+Dites, monsieur	1
+Baley, reprit	1
+Ca me	1
+Non, non,	1
+Va te	1
+Barrett s'en	1
+Vraiment, murmura	1
+Norris, on	1
+Médiévalistes ont	1
+De quoi	1
+Phil ?	1
+De préconiser	1
+De s'opposer	1
+Le retour	1
+La vieille	1
+Mais nous	1
+Avec une	1
+Qu'est-ce que	1
+Bah !	1
+Si on	1
+Ou bien	1
+Il faut	1
+Notre plus	1
+Et, crois-moi,	1
+Par exemple,	1
+Nous pouvons	1
+Mercure, des	1
+Terre la	1
+Ce projet,	1
+C'est ce	1
+Baley répliqua	1
+Tu verras	1
+Pourquoi s'en	1
+Baley s'imaginait	1
+N'importe quelle	1
+Norris se	1
+Allons, allons,	1
+Mange ton	1
+Vraiment, tu	1
+Et sur	1
+Norris ne	1
+Mais, au	1
+Barrett, les	1
+Et ce	1
+Dès qu'il	1
+Eh bien	1
+Le commissaire	1
+J'ai dit	1
+R. Sammy	1
+Sammy que	1
+Pourquoi voulez-vous	1
+Pour être	1
+Vous conviendrez	1
+Car je	1
+C'était pourtant	1
+Baley aurait	1
+Il se	1
+Dès qu'ils	1
+Bon !	1
+Qu'est-ce qu'il	1
+Une affreuse	1
+Etes-vous doué	1
+Enderby était	1
+Dr Sarton.	1
+Et c'est	1
+On pouvait	1
+Tout à	1
+Un instant	1
+Quand vous	1
+Enderby ne	1
+Pas d'appareils,	1
+Je suis	1
+Elijah !	1
+Baley se	1
+Spaciens, et	1
+Daneel avait	1
+Enderby avait,	1
+Or, aucun	1
+Mais, maintenant,	1
+Enderby avait	1
+Daneel et	1
+Baley d'une	1
+Que vous	1
+La belle	1
+Bien sûr	1
+Si vous	1
+Julius Enderby	1
+Enderby lui-même	1
+Je regrette,	1
+Daneel, mais	1
+Comment cela	1
+Et puis,	1
+Gerrigel hier	1
+A ce	1
+Alors, pourquoi	1
+Parce que	1
+La nuit	1
+Ah ?	1
+Baley, écarquillant	1
+Et qu'est-ce	1
+Baley consentit	1
+J'ai eu	1
+Savez-vous ce	1
+Et savez-vous	1
+Parfois ces	1
+C'est un	1
+Je l'ai	1
+Je ne	1
+Mais, puisque	1
+Pour y	1
+Ils ont	1
+Jessie est	1
+Or, elle	1
+New York	1
+York :	1
+Je crois,	1
+Je sais	1
+Et pourtant,	1
+Ca ne	1
+Je vous	1
+Voici ce	1
+Hier soir,	1
+Terriens n'avaient	1
+Cet usage,	1
+Mais si,	1
+Baley qui	1
+Vous voyez	1
+R. Daneel.	1
+Normalement, si	1
+Jessie avait	1
+Si donc	1
+Bentley, c'est	1
+Supposez que	1
+Eh bien, docteur	1
+Baley, répliqua l'autre	1
+Et pourquoi donc	1
+Baley, plein d'appréhension,	1
+Je dois dire	1
+Baley respira profondément,	1
+Voudriez-vous vous expliquer	1
+Prétendez-vous pouvoir l'examiner	1
+Mais oui, bien	1
+Tenez, monsieur Baley	1
+Si j'étais médecin,	1
+En revanche, pour	1
+Ce qui revient	1
+Or, ce qui	1
+La Première Loi	1
+Première Loi a	1
+Loi a un	1
+Tout en s'expliquant	1
+A cela, le	1
+Voulez-vous toucher la	1
+Daneel s'exécuta sur-le-champ	1
+En un quart	1
+Il fit un	1
+Manuel, puis replia	1
+C'est tout ?	1
+Baley, fronçant les	1
+Oui, c'est tout.	1
+Mais voyons, c'est	1
+Vous n'avez pas	1
+Première Loi !	1
+Baley, répliqua le	1
+Quand ce même	1
+Non, bien sûr,	1
+Alors, quel est	1
+Daneel est parfaitement	1
+Première Loi, répliqua	1
+Loi, répliqua l'expert,	1
+Le détective n'aurait	1
+Auriez-vous la prétention	1
+Je n'ai aucunement	1
+Baley en étendant	1
+Mais ne pouvez-vous	1
+Première Loi n'auraient	1
+Loi n'auraient pas	1
+Or, rien de	1
+Le savant réfléchit	1
+En effet, il	1
+Pas le moins	1
+R. Daneel, dont	1
+Baley, qui tenait	1
+Ouvrez donc le	1
+Le policier hésita	1
+Non, il est	1
+Et si vous	1
+C'est une arme	1
+Ainsi donc, répliqua	1
+Baley, vous avez	1
+Mon rôle de	1
+Cependant, si j'avais	1
+J'aurais pu vous	1
+Baley considéra longuement	1
+Je crois que	1
+Dès que le	1
+Baley donna l'ordre	1
+Il passa la	1
+Du poulet, mon	1
+Rien que ça	1
+On en arrive	1
+Eh bien, mange-le	1
+Baley avec indifférence.	1
+Mais Norris tint	1
+Norris tint à	1
+Oh, je te	1
+Mais je vais	1
+Garde ça pour	1
+Dis donc, qu'est-ce	1
+Norris s'efforça de	1
+Tu sais bien	1
+Tu ne le	1
+Tu vas avoir	1
+Baley fronça les	1
+Cet entretien le	1
+Norris, dont l'ancienneté	1
+Non, non !	1
+Aucun avancement en	1
+Tu peux me	1
+Il ne se	1
+Et si c'est	1
+Bon sang, prends-le	1
+Ecoute, Lije, ne	1
+Lije, ne me	1
+Mais si tu	1
+Quel gosse ?	1
+Norris n'eut pas	1
+Vince Barrett, le	1
+Baley ; il	1
+Dites, monsieur Baley,	1
+Baley, reprit le	1
+Ca me fait	1
+Non, non, petit	1
+Va te promener	1
+Barrett s'en alla,	1
+Vraiment, murmura Norris,	1
+Norris, on dirait	1
+Médiévalistes ont de	1
+De quoi faire,	1
+De préconiser le	1
+De s'opposer à	1
+Le retour à	1
+La vieille planète	1
+Mais nous n'avons	1
+Avec une population	1
+Qu'est-ce que tu	1
+Si on manque	1
+Il ne faut	1
+Il faut garder	1
+Notre plus grande	1
+Et, crois-moi, ces	1
+Il était plein	1
+Par exemple, nous	1
+Nous pouvons construire,	1
+Mercure, des centrales	1
+Terre la force	1
+Ce projet, Baley	1
+Baley le connaissait	1
+C'est ce que	1
+Baley répliqua à	1
+Tu verras que,	1
+Pourquoi s'en faire	1
+Baley s'imaginait très	1
+N'importe quelle planète	1
+Norris se leva,	1
+Allons, allons, Lije	1
+Mange ton poulet	1
+Vraiment, tu as	1
+Et sur cette	1
+Baley le regarda	1
+Norris ne manquerait	1
+Mais, au moins,	1
+Vince Barrett, les	1
+Barrett, les robots	1
+Et ce fut	1
+Dès qu'il eut	1
+Eh bien ?	1
+Le commissaire principal	1
+J'ai dit à	1
+R. Sammy que	1
+Sammy que nous	1
+Pourquoi voulez-vous que	1
+Pour être plus	1
+Car je ne	1
+C'était pourtant bien	1
+Baley aurait aimé	1
+Il se leva	1
+Dès qu'ils s'y	1
+Qu'est-ce qu'il y	1
+Mon cher associé,	1
+Il y a	1
+Une affreuse pensée	1
+Etes-vous doué de	1
+Enderby était incapable	1
+Et c'est sur	1
+On pouvait l'éliminer	1
+Tout à coup,	1
+Un instant !	1
+Quand vous l'avez	1
+Enderby ne s'en	1
+Il était inutile	1
+Ainsi donc, vous	1
+Pas d'appareils, pas	1
+Je suis une	1
+Baley se mordit	1
+Spaciens, et de	1
+R. Daneel avait	1
+Daneel avait affirmé	1
+Or, aucun être	1
+Mais, maintenant, cette	1
+Enderby avait été	1
+R. Daneel et	1
+Eh bien, dit	1
+Baley d'une voix	1
+Que vous êtes	1
+La belle découverte,	1
+Bien sûr que	1
+Julius Enderby lui-même	1
+Enderby lui-même d'assassiner	1
+Je regrette, répliqua	1
+R. Daneel, mais	1
+Daneel, mais je	1
+Comment cela ?	1
+Vous avez trop	1
+Vous avez organisé	1
+Dr Gerrigel hier	1
+Gerrigel hier soir,	1
+A ce moment-là,	1
+Alors, pourquoi avez-vous	1
+Parce que je	1
+La nuit dernière,	1
+Baley, écarquillant les	1
+Et qu'est-ce que	1
+Vous avez simplement	1
+Baley consentit à	1
+J'ai eu un	1
+Savez-vous ce que	1
+Je n'en ai	1
+Et savez-vous ce	1
+Je n'en sais	1
+C'est une bonne	1
+Parfois ces illusions	1
+C'est un rêve	1
+Je l'ai donc	1
+Je ne demande	1
+Mais, puisque nous	1
+Pour y parvenir,	1
+Ils ont très	1
+Jessie est ma	1
+Or, elle ressemble	1
+New York :	1
+York : elle	1
+Je crois, répondit	1
+Je sais bien	1
+Et pourtant, j'aimerais	1
+Ca ne m'intéresse	1
+Je vous prie	1
+Si je me	1
+Voici ce que	1
+Hier soir, vous	1
+Jessie ; je	1
+Terriens n'avaient pas	1
+Cet usage, s'il	1
+Mais si, bien	1
+Baley qui aussitôt	1
+Vous voyez ce	1
+Normalement, si Jessie	1
+Jessie avait eu	1
+Si donc elle	1
+Bentley, c'est qu'elle	1
+Supposez que le	1
+Jessie ; dans	1
+Eh bien, docteur Gerrigel	1
+Baley, répliqua l'autre en	1
+Et pourquoi donc ?	1
+Baley, plein d'appréhension, se	1
+Il n'est pas difficile	1
+Je dois dire que	1
+Baley respira profondément, avant	1
+Voudriez-vous vous expliquer plus	1
+Prétendez-vous pouvoir l'examiner ici	1
+Mais oui, bien sûr	1
+Tenez, monsieur Baley !	1
+Si j'étais médecin, et	1
+En revanche, pour voir	1
+Or, ce qui est	1
+La Première Loi a	1
+Première Loi a un	1
+Loi a un caractère	1
+Tout en s'expliquant ainsi,	1
+A cela, le savant	1
+Voulez-vous toucher la dernière	1
+Daneel s'exécuta sur-le-champ et	1
+En un quart d'heure,	1
+Il fit un dernier	1
+Manuel, puis replia le	1
+Baley, fronçant les sourcils.	1
+Mais voyons, c'est ridicule	1
+Vous n'avez pas posé	1
+Baley, répliqua le savant,	1
+Quand ce même médecin	1
+Non, bien sûr, fit	1
+Alors, quel est votre	1
+Daneel est parfaitement conforme	1
+Première Loi, répliqua l'expert,	1
+Loi, répliqua l'expert, en	1
+Il n'est pas possible	1
+Le détective n'aurait pas	1
+Auriez-vous la prétention de	1
+Je n'ai aucunement l'intention	1
+Baley en étendant la	1
+Mais ne pouvez-vous pas	1
+Première Loi n'auraient pas	1
+Loi n'auraient pas dû,	1
+Or, rien de tel	1
+Le savant réfléchit un	1
+En effet, il y	1
+Pas le moins du	1
+Baley, qui tenait encore	1
+Ouvrez donc le barillet	1
+Le policier hésita un	1
+Il n'est pas chargé	1
+Non, il est vide	1
+Et si vous voulez	1
+Ainsi donc, répliqua Baley,	1
+Baley, vous avez menacé	1
+Mon rôle de détective	1
+J'aurais pu vous expliquer	1
+Baley considéra longuement l'arme	1
+Je crois que je	1
+Dès que le savant	1
+Baley donna l'ordre qu'on	1
+Il passa la main	1
+Du poulet, mon cher	1
+Rien que ça !	1
+On en arrive à	1
+Eh bien, mange-le !	1
+Mais Norris tint à	1
+Norris tint à sauver	1
+Oh, je te remercie	1
+Mais je vais déjeuner	1
+Garde ça pour toi,	1
+Dis donc, qu'est-ce qui	1
+Norris s'efforça de ne	1
+Tu sais bien ce	1
+Tu vas avoir de	1
+Baley fronça les sourcils.	1
+Cet entretien le ramenait	1
+Il y avait au	1
+Norris, dont l'ancienneté correspondait	1
+Tu peux me croire	1
+Il ne se passe	1
+Et si c'est du	1
+Bon sang, prends-le !	1
+Ecoute, Lije, ne me	1
+Lije, ne me comprend	1
+Mais si tu as	1
+Norris n'eut pas besoin	1
+Baley ; il tournait	1
+Dites, monsieur Baley, reprit	1
+Baley, reprit le garçon	1
+Ca me fait du	1
+Non, non, petit !	1
+Va te promener !	1
+Barrett s'en alla, suivi	1
+Vraiment, murmura Norris, on	1
+Norris, on dirait que	1
+Médiévalistes ont de plus	1
+De quoi faire, Phil	1
+De préconiser le retour	1
+De s'opposer à l'utilisation	1
+Le retour à la	1
+La vieille planète a	1
+Mais nous n'avons pas	1
+Avec une population de	1
+Qu'est-ce que tu vois	1
+Si on manque d'uranium,	1
+Il faut garder la	1
+Il était plein de	1
+Par exemple, nous pouvons	1
+Nous pouvons construire, dans	1
+Mercure, des centrales d'énergie	1
+Terre la force emmagasinée	1
+Ce projet, Baley le	1
+Baley le connaissait bien.	1
+Il y avait plus	1
+C'est ce que Baley	1
+Baley répliqua à son	1
+Tu verras que, le	1
+Pourquoi s'en faire ?	1
+Baley s'imaginait très bien	1
+N'importe quelle planète actuellement	1
+Norris se leva, et	1
+Allons, allons, Lije !	1
+Mange ton poulet et	1
+Vraiment, tu as dû	1
+Et sur cette boutade,	1
+Baley le regarda s'en	1
+Norris ne manquerait pas	1
+Mais, au moins, cette	1
+Vince Barrett, les robots	1
+Barrett, les robots et	1
+Et ce fut en	1
+Dès qu'il eut achevé	1
+Le commissaire principal n'est	1
+J'ai dit à R.	1
+R. Sammy que nous	1
+Pourquoi voulez-vous que nous	1
+Pour être plus au	1
+Car je ne pense	1
+C'était pourtant bien ce	1
+Baley aurait aimé faire,	1
+Il se leva donc	1
+Dès qu'ils s'y furent	1
+Qu'est-ce qu'il y a,	1
+Mon cher associé, répliqua	1
+Il y a dans	1
+Une affreuse pensée vint	1
+Etes-vous doué de télépathie	1
+Enderby était incapable de	1
+Et c'est sur votre	1
+On pouvait l'éliminer des	1
+Tout à coup, une	1
+Enderby ne s'en est	1
+Il était inutile de	1
+Ainsi donc, vous vous	1
+Pas d'appareils, pas d'électrodes,	1
+Je suis une machine	1
+Baley se mordit les	1
+Spaciens, et de les	1
+R. Daneel avait affirmé	1
+Daneel avait affirmé que	1
+Or, aucun être humain	1
+Mais, maintenant, cette dernière	1
+Enderby avait été effectivement	1
+Eh bien, dit Baley	1
+Baley d'une voix dure,	1
+Que vous êtes troublé.	1
+La belle découverte, en	1
+Bien sûr que je	1
+Julius Enderby lui-même d'assassiner	1
+Enderby lui-même d'assassiner quelqu'un.	1
+Je regrette, répliqua lentement	1
+R. Daneel, mais je	1
+Daneel, mais je ne	1
+Vous avez trop brusquement	1
+Vous avez organisé le	1
+Dr Gerrigel hier soir,	1
+Gerrigel hier soir, avant	1
+Alors, pourquoi avez-vous convoqué	1
+Parce que je vous	1
+La nuit dernière, vous	1
+Baley, écarquillant les yeux.	1
+Et qu'est-ce que j'ai	1
+Vous avez simplement répété	1
+Baley consentit à se	1
+J'ai eu un cauchemar.	1
+Savez-vous ce que c'est	1
+Je n'en ai naturellement	1
+Et savez-vous ce que	1
+Je n'en sais toujours	1
+C'est une bonne définition	1
+Parfois ces illusions peuvent	1
+Je l'ai donc appelée	1
+Je ne demande qu'à	1
+Pour y parvenir, ils	1
+Ils ont très facilement	1
+Jessie est ma femme,	1
+Or, elle ressemble à	1
+New York : elle	1
+York : elle n'aime	1
+Je crois, répondit tranquillement	1
+Je sais bien que	1
+Et pourtant, j'aimerais attirer	1
+Ca ne m'intéresse pas	1
+Je vous prie cependant	1
+Si je me trompe,	1
+Voici ce que j'ai	1
+Hier soir, vous êtes	1
+Jessie ; je vous	1
+Terriens n'avaient pas l'habitude	1
+Cet usage, s'il est	1
+Mais si, bien sûr	1
+Baley qui aussitôt s'arrêta	1
+Vous voyez ce que	1
+Normalement, si Jessie avait	1
+Jessie avait eu peur	1
+Si donc elle a	1
+Bentley, c'est qu'elle était	1
+Supposez que le complot	1
+Jessie ; dans ce	1

@@ -1,0 +1,972 @@
+Seldon	29
+Dors	24
+Hummin	23
+Il	16
+Vous	15
+Je	15
+Mais	11
+Et	10
+Le	9
+Hari	7
+Non	7
+Mycogène	6
+Si	6
+Leggen	6
+Pour	6
+Trantor	5
+Couverture	5
+Eh	5
+Pourquoi	5
+C'est	5
+Elle	5
+E	5
+G	5
+Les	5
+Je vous	5
+Ce	4
+Comme	4
+J'ai	4
+Oui	4
+Après	4
+Nous	4
+Kan	4
+En	4
+Eh bien,	4
+Demerzel	3
+A	3
+Randa	3
+Alors	3
+Empire	3
+Bien	3
+Par	3
+Ils	3
+Mycogéniens	3
+Vous n'avez	3
+Seldon était	3
+Et vous	3
+Je ne	3
+Quand	2
+Cela	2
+Au	2
+Du	2
+Pas	2
+Streeling	2
+Tout	2
+Parfaitement	2
+Parce	2
+A-t-il	2
+Maire	2
+Tous	2
+Comment	2
+Université	2
+La	2
+Hélicon	2
+Il se	2
+Mais à	2
+Vous êtes	2
+A quoi	2
+Streeling en	2
+Vous ne	2
+Je n'en	2
+Non, je	2
+Il a	2
+Randa est	2
+Nous devrions	2
+Pour qui	2
+Hummin leva	2
+Maire de	2
+Le fait	2
+Il la	2
+Les deux	2
+Je vous en	2
+Seldon était abasourdi.	2
+Maire de Kan	2
+Je vous ai	2
+Les deux ailes	2
+MYCOGÈNE	1
+Secteur	1
+Enfouie	1
+Cultivant	1
+Encyclopaedia	1
+Galactica	1
+Un	1
+Prenez	1
+D'ailleurs	1
+Eto	1
+Peu	1
+De	1
+Parlons	1
+Sitôt	1
+D'un	1
+Était-il	1
+Vaguement	1
+J'étais	1
+Quoi	1
+Là	1
+Y	1
+Quelque	1
+Son	1
+S'est-il	1
+Primo	1
+J'avais	1
+Est-il	1
+N'est-ce	1
+Considérons	1
+Redites-moi	1
+Hestelonia	1
+Ziggoreth	1
+Damiano	1
+Nord	1
+Nul	1
+Cléon	1
+Ni	1
+Toutefois	1
+Dans	1
+Peut-être	1
+Appelez	1
+Certainement	1
+Durant	1
+Vrai	1
+Faites-vous	1
+Des	1
+Franchement	1
+Excusez-moi	1
+Sans	1
+Puis	1
+Ainsi	1
+On	1
+Jusque-là	1
+Considérant	1
+Ère	1
+Galactique	1
+Que	1
+Certes	1
+J'aurais	1
+Qu'est-ce	1
+Allez-vous	1
+Malgré	1
+L'important	1
+Avez-vous	1
+Pouvez-vous	1
+Partout	1
+Toujours	1
+Venabili	1
+Ceux-ci	1
+Trantoriens	1
+Deux	1
+Oh	1
+Cinna	1
+Guère	1
+Voilà	1
+Galaxie	1
+Ça	1
+Secteur de	1
+Trantor... Enfouie	1
+Mycogène n'eut	1
+Cultivant l'isolationnisme	1
+Encyclopaedia Galactica	1
+Quand Seldon	1
+Seldon s'éveilla,	1
+Un instant,	1
+Hummin ?	1
+Ce dernier	1
+Vous vous	1
+Cela n'a	1
+Comme vous	1
+Dors qui	1
+Je suis	1
+Au fait,	1
+Du pouce,	1
+Prenez votre	1
+Et mangez	1
+Hummin ne	1
+Dors non	1
+D'ailleurs, ils	1
+Seldon les	1
+Le silence	1
+Pas par	1
+Quand vous	1
+Eto Demerzel	1
+J'ai parfois	1
+Hummin, sans	1
+Si c'était	1
+Peu importe.	1
+De toute	1
+Parlons plutôt	1
+Comme je	1
+Hummin, vous	1
+Sitôt que	1
+Couverture, qu'on	1
+D'un autre	1
+Dors, Leggen...	1
+Était-il ici,	1
+J'étais mort	1
+Tout se	1
+Leggen a	1
+Parfaitement ordinaire.	1
+Parfaitement inoffensif.	1
+Quoi ?	1
+Hummin intervint.	1
+Là est	1
+Pourquoi n'en	1
+Y avait-il	1
+Quelque chose	1
+Seldon réfléchit	1
+Son comportement,	1
+Il donnait	1
+Couverture, section	1
+Hummin, qui	1
+C'est une	1
+Après tout,	1
+Parce qu'on	1
+Le chef	1
+Leggen a-t-il	1
+Seldon a	1
+Je veux	1
+S'est-il comporté	1
+Seldon n'aurait	1
+Comme s'il	1
+Après mûre	1
+Dors répondit	1
+Il était	1
+Hari gisant	1
+Mais voilà	1
+Seldon, qui,	1
+Hummin reporta	1
+Pourquoi ditesvous	1
+Primo, comme	1
+J'avais, quant	1
+Couverture, il	1
+Est-il raisonnable	1
+A-t-il discuté	1
+A-t-il fait	1
+Non, dit	1
+Pas du	1
+Le problème,	1
+J'ai cru	1
+Pour votre	1
+Il s'intéressait	1
+Hari, et	1
+N'est-ce pas	1
+Hummin intervint	1
+Considérons un	1
+Il s'est	1
+Si Randa	1
+Si c'est	1
+Il l'est,	1
+Alors, il	1
+Nous pouvons	1
+Cela n'en	1
+Pour quoi	1
+Demerzel ?	1
+Redites-moi quels	1
+Leggen comme	1
+Hestelonia, Kan,	1
+Kan, Ziggoreth	1
+Ziggoreth et	1
+Damiano Nord.	1
+Non, absolument	1
+J'ai simplement	1
+Seldon), vous	1
+Seldon faillit	1
+Nul doute	1
+Hummin sût	1
+Au lieu	1
+J'ai bien	1
+Bien entendu,	1
+Kan au	1
+Cléon dans	1
+Seldon rompit	1
+Mais nous	1
+Kan qui	1
+Non, certes.	1
+Ni même	1
+Le vertijet	1
+Toutefois, à	1
+Trantor (ou	1
+Dans ce	1
+Dors, qu'allons-nous	1
+C'est effectivement	1
+Hummin rumina	1
+Peut-être était-ce	1
+Pour un	1
+Je pense	1
+Mais ?	1
+Mais je	1
+Appelez un	1
+Seldon, et	1
+Certainement pas,	1
+Si nous	1
+Non, il	1
+Tous trois	1
+Seldon bien	1
+Durant tout	1
+Hari et	1
+Du moins	1
+Seldon avec	1
+Par conséquent,	1
+Faites-vous des	1
+Seldon ne	1
+Après un	1
+Des progrès	1
+En moins	1
+Hummin, il	1
+Franchement, non.	1
+Excusez-moi, intervint	1
+Comment pouvez-vous	1
+Mais comment	1
+Seldon la	1
+Oui, dit-elle	1
+Hummin, que	1
+Sans recourir	1
+Eh bien...	1
+Il réfléchit	1
+Puis il	1
+Si vous	1
+Ainsi a-t-on	1
+En d'autres	1
+On a	1
+Il faudrait	1
+Jusque-là, je	1
+Dors, non	1
+Alors, nous	1
+Elle peut	1
+Et j'ai	1
+En ce	1
+Hummin, puisque	1
+Pourquoi est-ce	1
+Tout ce	1
+Oui, il	1
+Mais alors,	1
+Dors avec	1
+Considérant que	1
+Galactique, remarqua	1
+Vous seriez	1
+Nous ne	1
+Le visage	1
+Il y	1
+Bien sûr.	1
+Et des	1
+E.G., comme	1
+En théorie,	1
+Hari, c'est	1
+E.G., mais	1
+Oui, mais	1
+Dors, s'applique	1
+Les archives	1
+Dors sur	1
+Les banques	1
+Mais, dans	1
+Et le	1
+Certes, il	1
+Mycogène... "	1
+Mais oui,	1
+J'aurais dû	1
+Le secteur	1
+Mycogène ",	1
+Hari, le	1
+Qu'est-ce que	1
+Mycogène ?	1
+Et où	1
+Hari, je	1
+Vous partez	1
+Dors l'avait	1
+Ils devaient	1
+Allez-vous encore	1
+Elle haussa	1
+Le lit	1
+Non, certainement	1
+Ce n'est	1
+Bien qu'ils	1
+Trantor ne	1
+Seldon fut	1
+Dors, ici	1
+Malgré tout,	1
+Pourquoi aurais-je	1
+C'est un	1
+L'important est	1
+Mycogéniens s'accrochent	1
+Il est	1
+C'est notre	1
+Avez-vous déjà	1
+Pouvez-vous, dans	1
+A vrai	1
+Partout ailleurs,	1
+Mycogéniens comme	1
+Ils ne	1
+Toujours est-il	1
+Les Mycogéniens	1
+Mycogéniens vivent	1
+Et, sans	1
+Seldon en	1
+Hari Seldon	1
+Seldon et	1
+Dors Venabili	1
+Venabili quittèrent	1
+Seldon s'avisa	1
+Dors allait	1
+Trantor mieux	1
+Elle était	1
+Hummin (proche	1
+La question	1
+Tous deux	1
+Ce type	1
+Ils quittèrent	1
+Dors étudiait	1
+Ceux-ci étaient	1
+Seldon sentit	1
+La plupart	1
+Trantoriens de	1
+Par ici,	1
+Par où	1
+Comment le	1
+Vous voyez,	1
+Deux ailes	1
+Il avait	1
+Pourquoi ne	1
+Parce que	1
+Cinna ou	1
+Hélicon ?	1
+Hélicon est	1
+Vous voyez	1
+Voilà où	1
+Vous pourriez	1
+Galaxie, d'un	1
+Ça n'aidera	1
+Trantor et	1
+Vous pouvez	1
+C'est ce	1
+Dors, allons-nous	1
+Elle s'arrêta	1
+Secteur de l'antique	1
+Mycogène n'eut que	1
+Cultivant l'isolationnisme et	1
+Quand Seldon s'éveilla,	1
+Seldon s'éveilla, ce	1
+Un instant, il	1
+Ce dernier sourit	1
+Vous vous souvenez	1
+Cela n'a duré	1
+Vous n'avez pas	1
+Comme vous le	1
+Dors qui se	1
+Je suis bien	1
+Au fait, vous	1
+Du pouce, il	1
+Prenez votre temps.	1
+Et mangez un	1
+Hummin ne prit	1
+D'ailleurs, ils n'ouvrirent	1
+Seldon les examina,	1
+Le silence du	1
+Pas par nature.	1
+Mais à vous	1
+Vous êtes un	1
+J'ai parfois l'impression	1
+Hummin, sans ciller.	1
+Si c'était le	1
+De toute manière,	1
+Comme je vous	1
+Hummin, vous m'avez	1
+Sitôt que j'ai	1
+Streeling en montant	1
+D'un autre côté,	1
+Était-il ici, hier	1
+Vous ne vous	1
+J'étais mort de	1
+Tout se brouille	1
+Eh bien, quand	1
+Leggen a dit	1
+Je n'en crois	1
+Là est la	1
+Y avait-il quelque	1
+Quelque chose de	1
+Seldon réfléchit à	1
+Son comportement, dit-il	1
+Il donnait l'impression	1
+Couverture, section par	1
+Hummin, qui avait	1
+C'est une accusation	1
+Après tout, il	1
+Parce qu'on avait	1
+Le chef sismologue	1
+Eh bien, Leggen	1
+Leggen a-t-il accusé	1
+Seldon a été	1
+Je veux dire,	1
+S'est-il comporté comme	1
+Seldon n'aurait pas	1
+Comme s'il se	1
+Après mûre réflexion,	1
+Dors répondit :	1
+Hari gisant là	1
+Non, je suppose	1
+Mais voilà que	1
+Seldon, qui, jusque-là,	1
+Hummin reporta son	1
+Pourquoi ditesvous ça	1
+Primo, comme vous	1
+Il a fallu,	1
+J'avais, quant à	1
+Couverture, il n'aurait	1
+Est-il raisonnable de	1
+A-t-il fait une	1
+Non, dit Seldon.	1
+Pas du tout.	1
+Il a bien	1
+Le problème, c'est	1
+Pour votre propre	1
+Il s'intéressait à	1
+Hari, et il	1
+N'est-ce pas possible	1
+Hummin intervint calmement	1
+Considérons un autre	1
+Il s'est écoulé	1
+Si Randa est	1
+Randa est innocent	1
+Si c'est un	1
+Il l'est, confirma	1
+Alors, il est	1
+Nous pouvons aussi	1
+Randa est bel	1
+Cela n'en fait	1
+Nous devrions nous	1
+Pour quoi travaille-t-il	1
+Pour qui travailler,	1
+Pour qui d'autre	1
+Hummin leva la	1
+Vous êtes loin	1
+Il se tourna	1
+Redites-moi quels étaient	1
+Leggen comme base	1
+Hestelonia, Kan, Ziggoreth	1
+Kan, Ziggoreth et	1
+Ziggoreth et Damiano	1
+Et vous n'avez	1
+Non, absolument pas.	1
+J'ai simplement demandé	1
+Et vous (Hummin	1
+Seldon), vous avez	1
+Seldon faillit rétorquer	1
+Nul doute que	1
+Hummin sût déjà	1
+Au lieu de	1
+J'ai bien peur	1
+Bien entendu, une	1
+Cléon dans la	1
+Seldon rompit le	1
+Mais nous ne	1
+Kan qui est	1
+Ni même si	1
+Le vertijet pourrait	1
+Toutefois, à mesure	1
+Dans ce cas,	1
+Dors, qu'allons-nous faire	1
+C'est effectivement la	1
+Peut-être était-ce une	1
+Pour un professeur,	1
+Streeling en est	1
+Je pense qu'il	1
+Mais je ne	1
+Appelez un index	1
+Seldon, et choisissez	1
+Certainement pas, dit	1
+Si nous faisons	1
+Non, il faut	1
+Tous trois restèrent	1
+Seldon bien après	1
+Durant tout ce	1
+Hari et Dors	1
+Du moins jusqu'à	1
+Seldon avec un	1
+Par conséquent, je	1
+Faites-vous des progrès	1
+Seldon ne savait	1
+Des progrès ?	1
+En moins de	1
+Je ne parle	1
+Vous n'avez cessé	1
+Je vous demande	1
+Excusez-moi, intervint Dors.	1
+Je ne suis	1
+Comment pouvez-vous savoir	1
+Mais comment pouvez-vous	1
+Seldon la considéra	1
+Oui, dit-elle en	1
+Le fait est,	1
+Hummin, que je	1
+Sans recourir aux	1
+Eh bien... "	1
+Il réfléchit quelques	1
+Puis il reprit	1
+Si vous voulez	1
+Ainsi a-t-on établi	1
+En d'autres termes,	1
+On a également	1
+Il faudrait en	1
+Jusque-là, je vous	1
+Dors, non sans	1
+Alors, nous savons	1
+Mais à quel	1
+Eh bien, ce	1
+Elle peut effectivement	1
+Et j'ai poursuivi	1
+En ce cas,	1
+Hummin, puisque vous	1
+Pourquoi est-ce irréalisable	1
+Tout ce que	1
+Et vous pensez	1
+Oui, il me	1
+Mais alors, intervint	1
+Dors avec un	1
+Considérant que vous	1
+Galactique, remarqua Hummin,	1
+Je ne le	1
+Nous ne connaissons	1
+Le visage de	1
+Seldon était l'image	1
+Il y avait	1
+Et des unités	1
+Nous devrions posséder	1
+E.G., comme nous	1
+En théorie, oui,	1
+Eh bien, vous	1
+Hari, c'est précisément	1
+E.G., mais il	1
+Oui, mais ce	1
+Je n'en vois	1
+Les archives n'ont	1
+Dors sur la	1
+Les banques de	1
+Mais, dans le	1
+Et le moins	1
+Certes, il reste	1
+Mycogène... " fit	1
+Hummin leva brusquement	1
+Mais oui, et	1
+J'aurais dû y	1
+Le secteur de	1
+Mycogène ", répéta	1
+Hari, le regard	1
+Qu'est-ce que le	1
+Hari, je vous	1
+Vous partez ce	1
+Dors l'avait exhorté	1
+Ils devaient partir	1
+Allez-vous encore dormir	1
+Elle haussa les	1
+Le lit n'est	1
+Il la lorgna	1
+Non, certainement pas.	1
+Ce n'est pas	1
+Le fait est	1
+Bien qu'ils eussent	1
+Trantor ne fût	1
+Seldon fut pris	1
+Dors, ici à	1
+Malgré tout, je	1
+Pourquoi aurais-je intérêt	1
+C'est un petit	1
+L'important est que	1
+Mycogéniens s'accrochent fermement	1
+Il est possible	1
+C'est notre discussion	1
+Avez-vous déjà vu	1
+Non, je ne	1
+Pouvez-vous, dans ce	1
+A vrai dire,	1
+Partout ailleurs, on	1
+Mycogéniens comme une	1
+Ils ne se	1
+Toujours est-il que	1
+Les Mycogéniens vivent	1
+Mycogéniens vivent très	1
+Et, sans trop	1
+Seldon en fin	1
+Hari Seldon et	1
+Seldon et Dors	1
+Dors Venabili quittèrent	1
+Venabili quittèrent le	1
+Seldon s'avisa que	1
+Dors allait être	1
+Trantor mieux que	1
+Elle était manifestement	1
+Hummin (proche à	1
+Tous deux étaient	1
+Ce type de	1
+Ils quittèrent le	1
+Dors étudiait les	1
+Ceux-ci étaient discrets	1
+Seldon sentit le	1
+La plupart affichaient	1
+Trantoriens de souche	1
+Par ici, fit	1
+Par où ?	1
+Comment le savez-vous	1
+Vous voyez, là	1
+Deux ailes ?	1
+Il avait pensé	1
+Pourquoi ne pas	1
+Parce que les	1
+Cinna ou un	1
+Vous ne les	1
+Hélicon est une	1
+Vous voyez ?	1
+Voilà où pourraient	1
+Vous pourriez montrer	1
+Ça n'aidera pas.	1
+Il la suivait	1
+Trantor et s'ils	1
+Vous pouvez avoir	1
+C'est ce qu'on	1
+Elle s'arrêta pour	1
+Secteur de l'antique Trantor...	1
+Mycogène n'eut que peu	1
+Quand Seldon s'éveilla, ce	1
+Seldon s'éveilla, ce fut	1
+Un instant, il fronça	1
+Ce dernier sourit imperceptiblement.	1
+Cela n'a duré qu'une	1
+Vous n'avez pas été	1
+Comme vous le voyez,	1
+Dors qui se tenait	1
+Je suis bien content	1
+Du pouce, il désignait	1
+Je vous en prie.	1
+Hummin ne prit pas	1
+D'ailleurs, ils n'ouvrirent pas	1
+Seldon les examina, pensif,	1
+Le silence du moment	1
+Mais à vous écouter	1
+Vous êtes un individu	1
+J'ai parfois l'impression qu'il	1
+Si c'était le cas,	1
+De toute manière, vous	1
+Comme je vous l'ai	1
+Hummin, vous m'avez pénétré	1
+Sitôt que j'ai vu	1
+Streeling en montant sur	1
+D'un autre côté, intervint	1
+Était-il ici, hier soir	1
+Vous ne vous souvenez	1
+J'étais mort de fatigue.	1
+Tout se brouille dans	1
+Eh bien, quand il	1
+Leggen a dit que	1
+Je n'en crois rien.	1
+Là est la question	1
+Y avait-il quelque chose	1
+Quelque chose de précis,	1
+Seldon réfléchit à la	1
+Son comportement, dit-il enfin.	1
+Couverture, section par section,	1
+Hummin, qui avait écouté	1
+C'est une accusation intéressante,	1
+Après tout, il a	1
+Parce qu'on avait détecté	1
+Le chef sismologue en	1
+Eh bien, Leggen a-t-il	1
+Leggen a-t-il accusé le	1
+Je veux dire, en	1
+S'est-il comporté comme si	1
+Seldon n'aurait pas dû	1
+Comme s'il se demandait	1
+Après mûre réflexion, Dors	1
+Dors répondit : "	1
+Hari gisant là dans	1
+Non, je suppose que	1
+Mais voilà que Seldon,	1
+Seldon, qui, jusque-là, les	1
+Hummin reporta son attention	1
+Pourquoi ditesvous ça ?	1
+Primo, comme vous l'avez	1
+Il a fallu, pour	1
+J'avais, quant à moi,	1
+Couverture, il n'aurait pas	1
+Est-il raisonnable de supposer	1
+A-t-il fait une tentative	1
+Il a bien évoqué	1
+Pour votre propre bien,	1
+Il s'intéressait à vous,	1
+Hari, et il doit	1
+N'est-ce pas possible ?	1
+Hummin intervint calmement :	1
+Il s'est écoulé un	1
+Si Randa est innocent	1
+Si c'est un individu	1
+Il l'est, confirma Dors.	1
+Alors, il est fort	1
+Nous pouvons aussi supposer	1
+Randa est bel et	1
+Cela n'en fait pas	1
+Nous devrions nous demander	1
+Pour quoi travaille-t-il ?	1
+Pour qui travailler, sinon	1
+Pour qui d'autre que	1
+Hummin leva la main.	1
+Vous êtes loin de	1
+Redites-moi quels étaient les	1
+Leggen comme base éventuelle	1
+Hestelonia, Kan, Ziggoreth et	1
+Kan, Ziggoreth et Damiano	1
+Ziggoreth et Damiano Nord.	1
+Et vous n'avez pas	1
+J'ai simplement demandé s'il	1
+Et vous (Hummin s'était	1
+Seldon faillit rétorquer que	1
+Hummin sût déjà tout	1
+Au lieu de quoi	1
+J'ai bien peur que	1
+Bien entendu, une fois	1
+Maire de Kan au	1
+Cléon dans la tombe.	1
+Seldon rompit le lourd	1
+Mais nous ne sommes	1
+Maire de Kan qui	1
+Kan qui est à	1
+Ni même si vous	1
+Le vertijet pourrait très	1
+Toutefois, à mesure que	1
+Dans ce cas, demanda	1
+Dors, qu'allons-nous faire ?	1
+C'est effectivement la question.	1
+Peut-être était-ce une erreur	1
+Pour un professeur, le	1
+Streeling en est une	1
+Mais je ne sais	1
+Appelez un index géographique	1
+Seldon, et choisissez un	1
+Certainement pas, dit Hummin.	1
+Si nous faisons cela,	1
+Non, il faut faire	1
+Tous trois restèrent dans	1
+Durant tout ce temps,	1
+Du moins jusqu'à présent,	1
+Par conséquent, je ferais	1
+Faites-vous des progrès ?	1
+Seldon ne savait pas	1
+En moins de deux	1
+Je ne parle pas	1
+Vous n'avez cessé de	1
+Je vous demande seulement	1
+Je ne suis pas	1
+Comment pouvez-vous savoir qu'une	1
+Je vous ai entendu	1
+Mais comment pouvez-vous affirmer	1
+Seldon la considéra avec	1
+Oui, dit-elle en hochant	1
+Le fait est, ajouta	1
+Hummin, que je le	1
+Sans recourir aux mathématiques	1
+Je vous en prie,	1
+Eh bien... " Il	1
+Il réfléchit quelques instants	1
+Puis il reprit :	1
+Ainsi a-t-on établi depuis	1
+En d'autres termes, vous	1
+On a également démontré	1
+Il faudrait en conséquence	1
+Jusque-là, je vous suis,	1
+Dors, non sans surprise.	1
+Alors, nous savons que	1
+Mais à quel niveau	1
+Eh bien, ce que	1
+Elle peut effectivement être	1
+Et j'ai poursuivi en	1
+En ce cas, dit	1
+Hummin, puisque vous pouvez	1
+Pourquoi est-ce irréalisable ?	1
+Tout ce que j'ai	1
+Et vous pensez que	1
+Oui, il me semble	1
+Mais alors, intervint Dors	1
+Dors avec un soudain	1
+Considérant que vous connaissez	1
+Je ne le pense	1
+Nous ne connaissons pas	1
+Le visage de Seldon	1
+Seldon était l'image du	1
+Il y avait déjà	1
+Et des unités de	1
+Nous devrions posséder toutes	1
+E.G., comme nous possédons	1
+En théorie, oui, mais	1
+Eh bien, vous savez,	1
+Hari, c'est précisément ce	1
+E.G., mais il est	1
+Oui, mais ce que	1
+Je n'en vois pas	1
+Les archives n'ont pas	1
+Dors sur la défensive.	1
+Les banques de mémoire	1
+Mais, dans le même	1
+Et le moins l'emportant	1
+Certes, il reste le	1
+Mycogène... " fit Dors,	1
+Hummin leva brusquement la	1
+Mais oui, et ce	1
+J'aurais dû y penser	1
+Le secteur de Mycogène	1
+Mycogène ", répéta Hari,	1
+Hari, le regard allant	1
+Qu'est-ce que le secteur	1
+Hari, je vous en	1
+Vous partez ce soir.	1
+Dors l'avait exhorté à	1
+Allez-vous encore dormir par	1
+Elle haussa les épaules.	1
+Le lit n'est que	1
+Il la lorgna avidement	1
+Ce n'est pas moi	1
+Le fait est qu'aucun	1
+Trantor ne fût qu'un	1
+Seldon fut pris d'un	1
+Je vous ai causé	1
+Dors, ici à l'Université.	1
+Malgré tout, je suis	1
+Pourquoi aurais-je intérêt à	1
+C'est un petit secteur	1
+L'important est que les	1
+Mycogéniens s'accrochent fermement à	1
+Il est possible qu'ils	1
+C'est notre discussion sur	1
+Avez-vous déjà vu leurs	1
+Non, je ne connais	1
+Pouvez-vous, dans ce cas,	1
+A vrai dire, je	1
+Mycogéniens comme une joyeuse	1
+Toujours est-il que nous	1
+Les Mycogéniens vivent très	1
+Mycogéniens vivent très repliés	1
+Et, sans trop savoir	1
+Hari Seldon et Dors	1
+Seldon et Dors Venabili	1
+Dors Venabili quittèrent le	1
+Venabili quittèrent le campus	1
+Seldon s'avisa que Dors	1
+Trantor mieux que lui	1
+Hummin (proche à quel	1
+Tous deux étaient drapés	1
+Ce type de vêtement	1
+Ils quittèrent le réseau	1
+Dors étudiait les panneaux	1
+Ceux-ci étaient discrets et	1
+La plupart affichaient des	1
+Trantoriens de souche mais	1
+Par ici, fit Dors.	1
+Comment le savez-vous ?	1
+Vous voyez, là ?	1
+Les deux ailes avec	1
+Il avait pensé à	1
+Pourquoi ne pas utiliser	1
+Parce que les mots	1
+Les deux ailes et	1
+Vous ne les utilisez	1
+Hélicon est une planète	1
+Voilà où pourraient intervenir	1
+Vous pourriez montrer que,	1
+Il la suivait le	1
+Trantor et s'ils se	1
+Vous pouvez avoir un	1
+C'est ce qu'on veut	1
+Elle s'arrêta pour le	1

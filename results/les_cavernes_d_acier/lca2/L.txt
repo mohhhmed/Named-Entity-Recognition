@@ -1,0 +1,395 @@
+Je	14
+Il	13
+Baley	9
+Daneel	9
+R	8
+Mais	8
+R. Daneel	6
+Ce	5
+Et	5
+Allons	4
+Je suis	4
+Je ne	4
+Le	3
+Alors	3
+Non	3
+Vous	3
+C'est	3
+Eh	3
+Les	3
+Eh bien,	3
+La	2
+Ils	2
+Au	2
+Arrêtez-les	2
+Elle	2
+Quant	2
+Terriens	2
+Ce sont	2
+Vous vous	2
+Mais je	2
+Allons !	2
+Il va	2
+Quant à	2
+Je suis venue	2
+Ce sont des	2
+A	1
+Messieurs	1
+Ville	1
+Trois	1
+Six	1
+Bon	1
+Une	1
+Pourquoi	1
+N'ai-je	1
+Ah	1
+Qu'est-ce	1
+RO-Bots	1
+Lije	1
+Boris	1
+D'une	1
+Ces	1
+Bien	1
+Toutes	1
+Ca	1
+Ceci	1
+En	1
+Puis	1
+Néanmoins	1
+Son	1
+Sans	1
+Moi	1
+Oh	1
+Quand	1
+Cette	1
+Un	1
+Robot	1
+Elijah	1
+Que	1
+J'aurais	1
+Mon	1
+Parmi	1
+Mondes	1
+Extérieurs	1
+Votre	1
+Dans	1
+J'étais	1
+Baley ouvrit	1
+A sa	1
+Daneel était	1
+Baley dut	1
+Le bottier	1
+Messieurs, c'est	1
+Ville qui	1
+Trois robots	1
+Six personnes	1
+Bon !	1
+Baley, sèchement.	1
+Alors, qu'est-ce	1
+Une des	1
+Pourquoi ne	1
+N'ai-je donc	1
+La façon	1
+Il n'y	1
+Ah, ah	1
+Non mais,	1
+Il les	1
+Qu'est-ce que	1
+Vous êtes	1
+Ce ne	1
+C'est pour	1
+Ils travaillent	1
+Il n'avait	1
+Lije avait	1
+Le jeune	1
+Baley et	1
+Alors, la	1
+Et voilà	1
+D'une voix	1
+Allons, madame,	1
+Ces employés	1
+Bien sûr,	1
+Et il	1
+Et d'ailleurs,	1
+Ils ne	1
+Il faut	1
+Baley, qui	1
+Toutes ces	1
+Allons, maintenant,	1
+Ca, c'est	1
+Mais il	1
+Au nom	1
+R. Daneel,	1
+C'est bien,	1
+Je vous	1
+Ceci dit,	1
+Baley avait	1
+Il avait	1
+Les hommes	1
+En un	1
+Puis, quand	1
+Les robots	1
+Néanmoins, quand	1
+La femme	1
+Son chapeau	1
+Arrêtez-les, inspecteur	1
+Arrêtez-les !	1
+Ce fut	1
+Daneel parla.	1
+Sans effort	1
+Moi, je	1
+Oh !	1
+Elle fit	1
+Elle s'effondra	1
+Les derniers	1
+Daneel sauta	1
+Je vais	1
+Je tirerai	1
+Quand j'aurai	1
+Non, non	1
+Je n'avais	1
+Cette femme,	1
+Daneel, va	1
+Il fit	1
+Baley, fermant	1
+Ce n'est	1
+Non, vraiment,	1
+Mais voilà	1
+Mais cela	1
+Il aurait	1
+Au lieu	1
+Mais quand	1
+Un Robot	1
+Il ne	1
+Alors, il	1
+Le directeur	1
+Elijah, et	1
+Mais, comme	1
+Que vous	1
+J'aurais pu,	1
+Daneel réfléchit	1
+Mon cher	1
+Parmi les	1
+Terriens, qui	1
+Mondes Extérieurs,	1
+Extérieurs, les	1
+C'est sans	1
+Votre propre	1
+Il n'empêche,	1
+Baley, rouge	1
+J'étais sûr	1
+Mais c'est	1
+Et vous	1
+Baley se	1
+Daneel eut	1
+Baley ouvrit la	1
+A sa vive	1
+R. Daneel était	1
+Baley dut convenir	1
+Le bottier vint	1
+Messieurs, c'est la	1
+Ville qui m'a	1
+Trois robots se	1
+Six personnes étaient	1
+Alors, qu'est-ce qui	1
+Une des femmes	1
+La façon extravagante	1
+Je ne demande	1
+Il n'y a	1
+Ah, ah !	1
+Non mais, écoutez-le	1
+Il les appelle	1
+Qu'est-ce que vous	1
+Vous êtes fou,	1
+C'est pour ça	1
+Ils travaillent pour	1
+Il n'avait aucun	1
+Lije avait sept	1
+Le jeune Baley	1
+Baley et ses	1
+Alors, la vie	1
+Et voilà qu'il	1
+D'une voix qu'il	1
+Allons, madame, ne	1
+Ces employés ne	1
+Bien sûr, qu'ils	1
+Et il n'y	1
+Vous vous figurez	1
+Et d'ailleurs, j'ai	1
+Il faut que	1
+Eh bien, répliqua	1
+Baley, qui commençait	1
+Toutes ces discussions	1
+Allons, maintenant, venez	1
+Ca, c'est le	1
+Mais il est	1
+Au nom de	1
+C'est bien, rétorqua	1
+Mais je vous	1
+Je vous prie	1
+Ceci dit, il	1
+Baley avait entendu	1
+Il avait vu	1
+Les hommes tiraient	1
+En un rien	1
+Puis, quand l'esprit	1
+Les robots employés	1
+Néanmoins, quand la	1
+Son chapeau bascula	1
+Arrêtez-les, inspecteur !	1
+Ce fut alors	1
+R. Daneel parla.	1
+Sans effort apparent,	1
+Il va nous	1
+Moi, je n'ai	1
+Elle fit demi-tour,	1
+Elle s'effondra à	1
+Les derniers rangs	1
+R. Daneel sauta	1
+Je vais de	1
+Je tirerai sur	1
+Quand j'aurai atteint	1
+Quant à cette	1
+Non, non !	1
+Je n'avais aucune	1
+Je ne veux	1
+Cette femme, reprit	1
+Daneel, va rester	1
+Il fit un	1
+Baley, fermant les	1
+Ce n'est pas	1
+Non, vraiment, je	1
+Il va y	1
+Mais voilà ce	1
+Mais cela ne	1
+Il aurait fort	1
+Au lieu de	1
+Mais quand il	1
+Il ne perçut	1
+Alors, il ouvrit	1
+Le directeur du	1
+Je ne m'en	1
+Je suis incapable	1
+Mais, comme vous	1
+Que vous n'ayez	1
+Eh bien, ne	1
+J'aurais pu, tout	1
+Mais je ne	1
+R. Daneel réfléchit	1
+Daneel réfléchit un	1
+Mon cher associé,	1
+Parmi les caractéristiques	1
+Mondes Extérieurs, les	1
+Extérieurs, les Terriens	1
+C'est sans doute	1
+Il n'empêche, réplique	1
+Baley, rouge de	1
+J'étais sûr que	1
+Eh bien, en	1
+Mais c'est l'évidence	1
+Et vous n'avez	1
+Baley se sentit,	1
+Daneel eut l'air	1
+Baley ouvrit la porte	1
+A sa vive surprise,	1
+Baley dut convenir que	1
+Le bottier vint à	1
+Messieurs, c'est la Ville	1
+Ville qui m'a imposé	1
+Trois robots se tenaient,	1
+Six personnes étaient réunies	1
+Alors, qu'est-ce qui ne	1
+Une des femmes lui	1
+Je suis venue ici	1
+La façon extravagante dont	1
+Je ne demande pas	1
+Il n'y a rien	1
+Ce sont des employés	1
+Non mais, écoutez-le donc	1
+Il les appelle ses	1
+Qu'est-ce que vous en	1
+Vous êtes fou, ma	1
+Ce sont des RO-Bots,	1
+C'est pour ça que	1
+Ils travaillent pour rien,	1
+Il n'avait aucun souvenir	1
+Lije avait sept ans	1
+Le jeune Baley et	1
+Baley et ses deux	1
+Alors, la vie avait	1
+Et voilà qu'il se	1
+D'une voix qu'il s'efforça	1
+Allons, madame, ne faites	1
+Ces employés ne vous	1
+Bien sûr, qu'ils ne	1
+Et il n'y a	1
+Vous vous figurez peut-être	1
+Je suis venue ici,	1
+Et d'ailleurs, j'ai deux	1
+Il faut que je	1
+Eh bien, répliqua Baley,	1
+Baley, qui commençait à	1
+Toutes ces discussions ne	1
+Allons, maintenant, venez !	1
+Ca, c'est le bouquet	1
+Mais il est peut-être	1
+Au nom de la	1
+C'est bien, rétorqua l'homme,	1
+Je vous prie de	1
+Ceci dit, il ouvrit,	1
+Baley avait entendu parler	1
+Il avait vu des	1
+Les hommes tiraient sur	1
+En un rien de	1
+Puis, quand l'esprit de	1
+Les robots employés dans	1
+Néanmoins, quand la foule	1
+Son chapeau bascula sur	1
+Ce fut alors que	1
+Sans effort apparent, il	1
+Il va nous tuer	1
+Moi, je n'ai rien	1
+Elle fit demi-tour, mais	1
+Elle s'effondra à genoux.	1
+Les derniers rangs de	1
+Je vais de ce	1
+Je tirerai sur quiconque	1
+Quand j'aurai atteint la	1
+Quant à cette femme...	1
+Je ne veux même	1
+Cette femme, reprit sans	1
+Daneel, va rester ici,	1
+Il fit un pas	1
+Baley, fermant les yeux,	1
+Ce n'est pas ma	1
+Non, vraiment, je n'y	1
+Il va y avoir	1
+Mais voilà ce que	1
+Mais cela ne lui	1
+Il aurait fort bien	1
+Au lieu de cela,	1
+Mais quand il en	1
+Il ne perçut aucun	1
+Alors, il ouvrit les	1
+Le directeur du magasin,	1
+Je ne m'en serais	1
+Je suis incapable de	1
+Mais, comme vous l'avez	1
+Que vous n'ayez pas	1
+Eh bien, ne courez	1
+J'aurais pu, tout aussi	1
+Mais je ne suis	1
+R. Daneel réfléchit un	1
+Daneel réfléchit un long	1
+Mon cher associé, répliqua-t-il,	1
+Parmi les caractéristiques principales	1
+Mondes Extérieurs, les Terriens	1
+C'est sans doute une	1
+Il n'empêche, réplique Baley,	1
+Baley, rouge de colère,	1
+J'étais sûr que cela	1
+Eh bien, en tout	1
+Mais c'est l'évidence même	1
+Et vous n'avez rien,	1
+Baley se sentit, malgré	1
+Daneel eut l'air de	1

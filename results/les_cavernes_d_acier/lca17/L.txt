@@ -1,0 +1,984 @@
+Daneel	28
+Je	22
+Dr	19
+Il	17
+R	17
+Sarton	17
+Enderby	15
+Vous	15
+Baley	14
+Et	10
+Spacetown	10
+Sammy	9
+Dr Sarton	8
+Le	7
+C'est	6
+Ce	6
+Clousarr	5
+Eh	5
+Eh bien,	5
+R. Sammy	5
+Pas	4
+Mais	4
+En	4
+J'ai	4
+Elijah	4
+Si	4
+Terre	4
+Spaciens	4
+Il a	4
+Dr Sarton,	4
+Que	3
+Lije	3
+Ne	3
+Non	3
+Jessie	3
+Quand	3
+Alors	3
+Pour	3
+La	3
+Or	3
+Médiévalistes	3
+New	3
+York	3
+Terrien	3
+C	3
+Fe	3
+Sarton !	3
+R. Daneel	3
+Daneel !	3
+New York	3
+R. Daneel,	3
+Il ne	3
+Je ne	3
+Bon	2
+Williamsburg	2
+Est-ce	2
+Où	2
+Trop	2
+Nous	2
+Son	2
+Dès	2
+Cité	2
+Sur	2
+Car	2
+Mon	2
+Gerrigel	2
+Terriens	2
+Par	2
+Oui	2
+Mondes	2
+Extérieurs	2
+Un	2
+Fastolfe	2
+Baley fit	2
+R. Sammy.	2
+Clousarr a	2
+Dr Sarton.	2
+Je me	2
+Le commissaire	2
+Baley, vous	2
+C'est vous	2
+Je vous	2
+Je suis	2
+Mais je	2
+Mon cher	2
+Daneel, et	2
+Dr Gerrigel,	2
+Médiévalistes ont	2
+Daneel, par	2
+Vous êtes	2
+R. Sammy,	2
+Sammy, qui	2
+Daneel, mais	2
+Elijah !	2
+R. Daneel.	2
+Sarton, mais	2
+C'est ce	2
+Si vous	2
+Dr Sarton !	2
+Mon cher associé,	2
+R. Sammy, qui	2
+Dr Sarton, mais	2
+Sarton, mais il	2
+Dr Sarton, mais il	2
+Etait-il	1
+S'il	1
+Attendez	1
+Parfait	1
+A	1
+Comme	1
+Ah	1
+Elle	1
+De	1
+Voilà	1
+Jézabel	1
+Y	1
+Rendez-moi	1
+B	1
+N'essayez	1
+Julius	1
+Ca	1
+Vingt	1
+Ses	1
+Quel	1
+Ciel	1
+Spacien	1
+Voyons	1
+Ecoutez-moi	1
+Pourquoi	1
+Robotique	1
+Auriez-vous	1
+Allons	1
+L'incident	1
+Votre	1
+J'affirme	1
+Rien	1
+N'estce	1
+Comment	1
+Toilettes	1
+Cette	1
+Bentley	1
+Moi	1
+N'est-ce	1
+J'imagine	1
+Les	1
+Première	1
+Loi	1
+Médiévaliste	1
+Ai-je	1
+Puis	1
+Au	1
+Toujours	1
+On	1
+Quant	1
+L'image	1
+J'en	1
+Retour	1
+Dieu	1
+Ils	1
+Médiévalisme	1
+Comprenez-vous	1
+Aideznous	1
+Bien	1
+Ainsi	1
+Expliquez-leur	1
+Allez	1
+Enderby réfléchit	1
+Clousarr ?	1
+Etait-il dans	1
+Bon, nous	1
+S'il y	1
+Que puis-je	1
+Lije ?	1
+Attendez, maintenant.	1
+Ne me	1
+Ne voyezvous	1
+Clousarr vous	1
+Williamsburg, ou	1
+C'est presque	1
+Parfait !	1
+Il savait	1
+Il aura	1
+A ce	1
+Lije, que	1
+Je veux	1
+Pas pour	1
+Comme vous	1
+Enderby en	1
+Où en	1
+Ah, oui	1
+Clousarr se	1
+Il tambourina	1
+Non, Lije	1
+Lije !	1
+Elle ne	1
+Et pourquoi	1
+Trop tirée	1
+Trop de	1
+De plus,	1
+Nous avons	1
+Ce que	1
+Baley, c'est	1
+Voilà vingt	1
+Jessie, et	1
+Vous perdez	1
+Vous croyez	1
+Où étiez-vous	1
+Est-ce que	1
+Je vais-même	1
+Williamsburg !	1
+Son front	1
+Que diable	1
+Y étiez-vous,	1
+Rendez-moi votre	1
+Pas encore	1
+Vous m'entendrez	1
+Il n'en	1
+Et ce	1
+Son indignation	1
+Dès qu'il	1
+B... Baley,	1
+Baley, je...	1
+Non !	1
+Pas encore,	1
+N'essayez pas	1
+Julius Enderby,	1
+Enderby, les	1
+Baley tenait	1
+Ca vous	1
+Baley !	1
+Vingt ans	1
+Cité !	1
+Et maintenant,	1
+Spacetown accepte	1
+Le mobile	1
+Enderby, à	1
+Ses lunettes	1
+Quel aurait	1
+Vous m'avez	1
+En plus	1
+Sammy en	1
+Sur quoi,	1
+Ciel ?	1
+Sur la	1
+Spacien a	1
+Car, monsieur	1
+Spacetown, avez	1
+Daneel jugea	1
+Voyons, vous	1
+Il en	1
+Alors, écoutez-moi,	1
+Ecoutez-moi bien	1
+C'est moi	1
+Enderby a	1
+Pourquoi l'a-t-il	1
+Pour plusieurs	1
+La première,	1
+En second	1
+Jessie avait	1
+Dès le	1
+Daneel, comptant	1
+Or, il	1
+Gerrigel, le	1
+Robotique que	1
+Auriez-vous l'audace	1
+Et voudriez-vous	1
+Allons, monsieur	1
+Ce qui,	1
+L'incident du	1
+Daneel -	1
+Spacetown -	1
+Ce but	1
+York les	1
+Or, si,	1
+J'ai, à	1
+Daneel luimême	1
+Le seul,	1
+Terrien qui	1
+Je proteste	1
+Enderby, retrouvant	1
+Il pouvait	1
+Votre femme	1
+Ne nous	1
+J'affirme, moi,	1
+Et maintenant	1
+Rien ne	1
+Vous faites	1
+Gerrigel, mais	1
+Et cela	1
+N'estce pas	1
+Enderby secoua	1
+Quand tout	1
+Mais il	1
+Comment le	1
+Sarton a-t-il	1
+Baley, contenant	1
+Par l'association	1
+C/Fe, mille	1
+Oui :	1
+C/Fe !	1
+C/Fe que	1
+Daneel, de	1
+Terrien peut	1
+Alors, il	1
+Pour un	1
+Sammy une	1
+Il s'est	1
+Spacetown par	1
+Toilettes ;	1
+Sammy lui	1
+Sarton ;	1
+York en	1
+Cette thèse-là	1
+Spacetown et	1
+York a	1
+Je regrette	1
+Ce qui	1
+Baley, tout	1
+Cité, et	1
+Baley, partagé	1
+Le film	1
+Sarton, et,	1
+Enderby le	1
+Baley reprenait	1
+Je sais	1
+Je n'avais	1
+Oui, monsieur	1
+J'ai tout	1
+Mondes Extérieurs,	1
+Extérieurs, sans	1
+Que voulez-vous	1
+La première	1
+Moi, j'ai	1
+En réalité,	1
+Spacetown avec	1
+Or, le	1
+Sarton, et	1
+Terriens soient	1
+Alors il	1
+Vous étiez	1
+Médiévalistes, il	1
+Extérieurs, l'opinion	1
+Le Dr	1
+Sarton avait	1
+Spaciens à	1
+Daneel, lui	1
+J'imagine qu'il	1
+Sammy ;	1
+Sammy aurait	1
+Les impératifs	1
+Première Loi	1
+Loi l'auraient	1
+Terrien à	1
+Je voudrais	1
+Il pensait	1
+Sarton dormirait,	1
+Daneel, vous	1
+Je pose	1
+Ai-je tort	1
+Pas du	1
+Bon, alors,	1
+Puis il	1
+Spacetown encore	1
+Il lui	1
+Au besoin,	1
+Toujours est-il	1
+Vous avez	1
+On a	1
+Sarton qui	1
+Pour son	1
+Daneel à	1
+Quant à	1
+Baley manipula	1
+Daneel demeurait	1
+L'image de	1
+Ce scintillement	1
+Par deux	1
+Nous n'y	1
+Car ce	1
+Vous pouvez	1
+Enderby porte	1
+Et ne	1
+Ce disant,	1
+Un peu	1
+Je crois	1
+Sarton plus	1
+J'en suis	1
+Et je	1
+Vous devez	1
+Vous voyez	1
+Retour à	1
+Je... je	1
+Spaciens se	1
+Dieu le	1
+Dr Fastolfe.	1
+Ils désirent	1
+Terre et	1
+Si le	1
+Sarton a	1
+Médiévalisme vers	1
+Spaciens considéreront	1
+Comprenez-vous maintenant	1
+Elijah a	1
+Aideznous, monsieur	1
+Dr Fastolfe	1
+Fastolfe et	1
+Bien entendu,	1
+Je pense	1
+Ainsi, je	1
+Non, si	1
+Je vais	1
+Expliquez-leur que	1
+Daneel !...	1
+Un accident	1
+J'ai fait	1
+Vous vous	1
+Il hésita	1
+Allez, et	1
+Baley, soudain	1
+Daneel vers	1
+Enderby réfléchit un	1
+Etait-il dans ce	1
+Baley fit un	1
+Bon, nous l'interrogerons.	1
+S'il y a	1
+Que puis-je faire	1
+Ne me bousculez	1
+Ne voyezvous pas	1
+Eh bien, si	1
+Clousarr vous a	1
+Williamsburg, ou bien	1
+C'est presque cela.	1
+Il savait que	1
+Il aura pensé	1
+A ce propos,	1
+Lije, que diriez-vous	1
+Pas pour tout	1
+Comme vous voudrez	1
+Enderby en haussant	1
+Où en étais-je	1
+Ah, oui !	1
+Eh bien, Clousarr	1
+Clousarr se sera	1
+Il tambourina légèrement	1
+Non, Lije !	1
+Elle ne vaut	1
+Et pourquoi donc	1
+Trop tirée par	1
+Trop de complices	1
+Clousarr a un	1
+Nous avons vérifié	1
+Ce que je	1
+Baley, c'est si,	1
+Clousarr a fait	1
+Je me demande	1
+Voilà vingt ans	1
+Jessie, et vous	1
+Vous perdez la	1
+Vous croyez ?	1
+Où étiez-vous donc	1
+Est-ce que vous	1
+Je vais-même répondre	1
+Le commissaire principal	1
+Son front était	1
+Que diable êtes-vous	1
+Y étiez-vous, oui	1
+Baley, vous êtes	1
+Rendez-moi votre insigne	1
+Pas encore !	1
+Vous m'entendrez d'abord,	1
+Il n'en est	1
+C'est vous le	1
+Et ce qui	1
+Son indignation était	1
+Dès qu'il l'eut	1
+B... Baley, je...	1
+Baley, je... je	1
+Je vous préviens	1
+N'essayez pas de	1
+Je suis décidé	1
+Julius Enderby, les	1
+Enderby, les yeux	1
+Baley tenait son	1
+Ca vous coûtera	1
+Vingt ans dans	1
+Et maintenant, ajouta-t-il	1
+Spacetown accepte cela	1
+Le mobile !...	1
+Enderby, à bout	1
+Ses lunettes étaient	1
+Quel aurait été	1
+Vous m'avez fourré	1
+En plus de	1
+R. Sammy en	1
+Sammy en savait	1
+Sur quoi, au	1
+Sur la façon	1
+Spacien a été	1
+Car, monsieur le	1
+Spacetown, avez tué	1
+R. Daneel jugea	1
+Daneel jugea nécessaire	1
+Voyons, vous savez	1
+Alors, écoutez-moi, Daneel	1
+Ecoutez-moi bien !	1
+Enderby a supplié	1
+Pourquoi l'a-t-il fait	1
+Pour plusieurs raisons.	1
+La première, c'est	1
+Je suis connu	1
+Daneel, et il	1
+Jessie avait adhéré	1
+Dès le début	1
+Daneel, comptant bien	1
+Or, il s'agissait	1
+Dr Gerrigel, le	1
+Gerrigel, le plus	1
+Robotique que nous	1
+Et voudriez-vous me	1
+Allons, monsieur le	1
+Ce qui, en	1
+Médiévalistes ont su	1
+L'incident du magasin	1
+Daneel - et	1
+Spacetown - l'importance	1
+Ce but que	1
+New York les	1
+York les soupçons	1
+Or, si, dès	1
+Médiévalistes ont été	1
+R. Daneel, par	1
+Daneel, par qui	1
+J'ai, à un	1
+Daneel luimême ;	1
+Le seul, l'unique	1
+Je proteste !	1
+Enderby, retrouvant une	1
+Il pouvait y	1
+Votre femme a	1
+Baley fit une	1
+Ne nous égarons	1
+J'affirme, moi, que	1
+Et maintenant que	1
+Vous faites complètement	1
+Il ne savait	1
+Dr Gerrigel, mais	1
+Gerrigel, mais il	1
+Et cela l'a	1
+N'estce pas exact,	1
+Enderby secoua la	1
+Quand tout ceci	1
+Mais il ne	1
+Comment le Dr	1
+Dr Sarton a-t-il	1
+Sarton a-t-il été	1
+Baley, contenant mal	1
+Eh bien, je	1
+Par l'association C/Fe,	1
+C/Fe, mille tonnerres	1
+Oui : C/Fe	1
+Je me sers	1
+C/Fe que vous	1
+Daneel, de voir	1
+Terrien peut s'être	1
+Alors, il me	1
+Pour un robot,	1
+Le commissaire a	1
+R. Sammy une	1
+Sammy une arme,	1
+Spacetown par l'express,	1
+Toilettes ; R.	1
+R. Sammy lui	1
+Dr Sarton ;	1
+Sarton ; puis	1
+Sammy, qui l'a	1
+New York en	1
+York en revenant	1
+Sammy, qui en	1
+Spacetown et la	1
+New York a	1
+York a pu,	1
+Je regrette pour	1
+R. Daneel, mais	1
+Daneel, mais je	1
+Je vous ai	1
+Ce qui frappa	1
+Baley, tout d'abord,	1
+Cité, et Baley,	1
+Baley, partagé entre	1
+Le film montrait	1
+Dr Sarton, et,	1
+Sarton, et, au	1
+Baley reprenait son	1
+Je sais que	1
+Je n'avais pas	1
+Mais je ne	1
+Oui, monsieur le	1
+J'ai tout d'un	1
+Mondes Extérieurs, sans	1
+Extérieurs, sans quoi	1
+Que voulez-vous dire	1
+La première fois	1
+Moi, j'ai aussitôt	1
+En réalité, si	1
+Spacetown avec l'intention	1
+Je ne vois	1
+Or, le commissaire	1
+Il a travaillé	1
+Dr Sarton, et	1
+Sarton, et il	1
+Il a eu	1
+Terriens soient un	1
+Alors il a	1
+Vous étiez le	1
+Médiévalistes, il décourageait	1
+Il ne connaissait	1
+Extérieurs, l'opinion publique	1
+Le Dr Sarton	1
+Dr Sarton avait	1
+Sarton avait dû	1
+Spaciens à quitter	1
+Je ne prétends	1
+Daneel, lui ait	1
+J'imagine qu'il en	1
+R. Sammy ;	1
+Sammy ; mais	1
+R. Sammy aurait	1
+Sammy aurait risqué	1
+Les impératifs de	1
+Première Loi l'auraient	1
+Loi l'auraient empêché	1
+Terrien à avoir	1
+Je voudrais donc	1
+Je ne fais	1
+Il a pris	1
+Il pensait que	1
+Dr Sarton dormirait,	1
+Sarton dormirait, mais	1
+Daneel, vous seriez	1
+Je pose en	1
+Ai-je tort ?	1
+Pas du tout,	1
+Vous êtes tout	1
+Bon, alors, continuons	1
+C'est vous qui	1
+Puis il se	1
+Spacetown encore endormie,	1
+Il lui aurait	1
+Au besoin, il	1
+Toujours est-il qu'ils	1
+Vous avez aussitôt	1
+On a peu	1
+Daneel, mais le	1
+Dr Sarton qui	1
+Sarton qui s'était	1
+Pour son plus	1
+Daneel à son	1
+Quant à vous	1
+Baley manipula encore	1
+R. Daneel demeurait	1
+L'image de la	1
+Ce scintillement dans	1
+Daneel, par quoi	1
+Par deux petits	1
+Nous n'y avions	1
+Il ne va	1
+Car ce sont	1
+Vous pouvez mesurer	1
+Enderby porte en	1
+Et ne vous	1
+Ce disant, il	1
+Un peu à	1
+R. Daneel, et	1
+Daneel, et déclara	1
+Je crois que	1
+Dr Sarton plus	1
+Sarton plus tôt	1
+J'en suis absolument	1
+Et je m'aperçois	1
+Vous devez être	1
+Eh bien, arrangez-vous	1
+Vous voyez dans	1
+Retour à la	1
+Je... je ne	1
+C'est ce que	1
+Spaciens se sont	1
+Dieu le veut,	1
+Ils désirent plus	1
+Terre et en	1
+Si le meurtre	1
+Sarton a pour	1
+Médiévalisme vers la	1
+Spaciens considéreront probablement	1
+Comprenez-vous maintenant ?	1
+Elijah a parfaitement	1
+Aideznous, monsieur le	1
+Dr Fastolfe et	1
+Fastolfe et de	1
+Bien entendu, si	1
+Je pense que	1
+Ainsi, je ne	1
+Non, si vous	1
+Eh bien, c'est	1
+Je vais le	1
+Expliquez-leur que ce	1
+Daneel !... Un	1
+Un accident !...	1
+J'ai fait ce	1
+Si vous nous	1
+Vous vous en	1
+Si vous n'y	1
+Il hésita un	1
+Allez, et ne	1
+Baley, soudain tout	1
+R. Daneel vers	1
+Daneel vers la	1
+Enderby réfléchit un instant,	1
+Etait-il dans ce groupe	1
+Baley fit un signe	1
+S'il y a quoi	1
+Que puis-je faire de	1
+Ne me bousculez pas.	1
+Ne voyezvous pas ou	1
+Eh bien, si j'essayais	1
+Clousarr vous a vu	1
+Williamsburg, ou bien c'est	1
+Il savait que votre	1
+Il aura pensé que	1
+A ce propos, Lije,	1
+Lije, que diriez-vous de	1
+Pas pour tout l'or	1
+Comme vous voudrez !	1
+Enderby en haussant les	1
+Où en étais-je ?	1
+Eh bien, Clousarr se	1
+Il tambourina légèrement de	1
+Elle ne vaut rien,	1
+Et pourquoi donc ?	1
+Trop tirée par les	1
+Trop de complices !	1
+Clousarr a un alibi	1
+Nous avons vérifié cela	1
+Ce que je me	1
+Clousarr a fait la	1
+Je me demande si	1
+Voilà vingt ans que	1
+Jessie, et vous êtes	1
+Vous perdez la tête,	1
+Où étiez-vous donc après	1
+Est-ce que vous prétendez	1
+Je vais-même répondre à	1
+Le commissaire principal se	1
+Que diable êtes-vous en	1
+Y étiez-vous, oui ou	1
+Baley, vous êtes suspendu	1
+Rendez-moi votre insigne !	1
+Vous m'entendrez d'abord, et	1
+Il n'en est pas	1
+C'est vous le coupable,	1
+Et ce qui me	1
+Son indignation était telle	1
+Dès qu'il l'eut retrouvée,	1
+B... Baley, je... je	1
+Baley, je... je vous	1
+Je vous préviens que	1
+N'essayez pas de me	1
+Je suis décidé à	1
+Julius Enderby, les yeux	1
+Enderby, les yeux hagards,	1
+Baley tenait son arme	1
+Ca vous coûtera cher,	1
+Et maintenant, ajouta-t-il en	1
+Spacetown accepte cela comme	1
+Le mobile !... balbutia	1
+Enderby, à bout de	1
+Ses lunettes étaient embuées	1
+Quel aurait été le	1
+Vous m'avez fourré dans	1
+En plus de tout	1
+R. Sammy en savait	1
+Sammy en savait trop.	1
+Sur quoi, au nom	1
+Sur la façon dont	1
+Spacien a été assassiné,	1
+Car, monsieur le commissaire,	1
+Spacetown, avez tué le	1
+R. Daneel jugea nécessaire	1
+Daneel jugea nécessaire d'intervenir,	1
+Mon cher associé, dit	1
+Voyons, vous savez bien	1
+Alors, écoutez-moi, Daneel !	1
+Enderby a supplié de	1
+Pourquoi l'a-t-il fait ?	1
+La première, c'est que	1
+Je suis connu dans	1
+Daneel, et il a	1
+Jessie avait adhéré à	1
+Dès le début de	1
+Or, il s'agissait du	1
+Dr Gerrigel, le plus	1
+Gerrigel, le plus savant	1
+Robotique que nous possédions.	1
+Et voudriez-vous me faire	1
+Allons, monsieur le commissaire,	1
+Ce qui, en revanche,	1
+Médiévalistes ont su exactement	1
+L'incident du magasin de	1
+Daneel - et par	1
+Spacetown - l'importance de	1
+Ce but que l'on	1
+New York les soupçons	1
+York les soupçons qui	1
+Or, si, dès le	1
+Médiévalistes ont été renseignés	1
+R. Daneel, par qui	1
+Daneel, par qui l'ont-ils	1
+J'ai, à un moment	1
+Daneel luimême ; mais	1
+Le seul, l'unique Terrien	1
+Il pouvait y avoir	1
+Votre femme a pu	1
+Baley fit une moue	1
+Ne nous égarons pas	1
+Et maintenant que je	1
+Vous faites complètement erreur,	1
+Il ne savait pas	1
+Dr Gerrigel, mais il	1
+Gerrigel, mais il ne	1
+Et cela l'a terrifié,	1
+N'estce pas exact, monsieur	1
+Enderby secoua la tête	1
+Quand tout ceci sera	1
+Mais il ne put	1
+Comment le Dr Sarton	1
+Dr Sarton a-t-il été	1
+Sarton a-t-il été assassiné	1
+Baley, contenant mal sa	1
+Eh bien, je vais	1
+Par l'association C/Fe, mille	1
+C/Fe, mille tonnerres !	1
+Oui : C/Fe !	1
+C/Fe que vous n'êtes	1
+Daneel, de voir comment	1
+Alors, il me faut	1
+Pour un robot, la	1
+R. Sammy une arme,	1
+Sammy une arme, et	1
+Spacetown par l'express, et	1
+Toilettes ; R. Sammy	1
+Dr Sarton ; puis	1
+Sarton ; puis il	1
+R. Sammy, qui l'a	1
+New York en revenant	1
+York en revenant à	1
+R. Sammy, qui en	1
+Sammy, qui en savait	1
+Spacetown et la disparition	1
+New York a pu,	1
+York a pu, de	1
+Je regrette pour vous,	1
+R. Daneel, mais je	1
+Daneel, mais je suis	1
+Je vous ai déjà	1
+Ce qui frappa le	1
+Baley, tout d'abord, ce	1
+Cité, et Baley, partagé	1
+Baley, partagé entre une	1
+Le film montrait le	1
+Dr Sarton, et, au	1
+Sarton, et, au milieu	1
+Je sais que le	1
+Je n'avais pas besoin	1
+Mais je ne l'ai	1
+Oui, monsieur le commissaire,	1
+J'ai tout d'un coup	1
+Mondes Extérieurs, sans quoi	1
+Extérieurs, sans quoi ils	1
+Que voulez-vous dire ?	1
+La première fois que	1
+Moi, j'ai aussitôt pensé	1
+Spacetown avec l'intention d'y	1
+Je ne vois pas	1
+Or, le commissaire principal	1
+Il a travaillé avec	1
+Dr Sarton, et il	1
+Sarton, et il a	1
+Il a eu peur	1
+Terriens soient un jour	1
+Alors il a décidé	1
+Vous étiez le seul	1
+Médiévalistes, il décourageait les	1
+Extérieurs, l'opinion publique contre	1
+Le Dr Sarton avait	1
+Dr Sarton avait dû	1
+Sarton avait dû lui	1
+Spaciens à quitter la	1
+Je ne prétends même	1
+Daneel, lui ait été	1
+J'imagine qu'il en aurait	1
+R. Sammy ; mais	1
+Sammy ; mais vous	1
+R. Sammy aurait risqué	1
+Les impératifs de la	1
+Première Loi l'auraient empêché	1
+Loi l'auraient empêché d'exécuter	1
+Sarton, mais il était	1
+Terrien à avoir accès	1
+Je voudrais donc tenter	1
+Je ne fais que	1
+Il a pris rendez-vous	1
+Sarton, mais il est	1
+Il pensait que le	1
+Dr Sarton dormirait, mais	1
+Sarton dormirait, mais que	1
+Daneel, vous seriez éveillé.	1
+Je pose en principe	1
+Pas du tout, Elijah.	1
+Vous êtes tout à	1
+Bon, alors, continuons !	1
+C'est vous qui deviez	1
+Puis il se serait	1
+Spacetown encore endormie, jusqu'au	1
+Il lui aurait rendu	1
+Toujours est-il qu'ils se	1
+Vous avez aussitôt tiré	1
+On a peu après	1
+Daneel, mais le pauvre	1
+Dr Sarton qui s'était	1
+Pour son plus grand	1
+Daneel à son image,	1
+Quant à vous donner	1
+Baley manipula encore un	1
+L'image de la porte	1
+Ce scintillement dans la	1
+Daneel, par quoi est-il	1
+Par deux petits morceaux	1
+Nous n'y avions attaché	1
+Il ne va plus	1
+Vous pouvez mesurer leurs	1
+Enderby porte en ce	1
+Et ne vous avisez	1
+Ce disant, il se	1
+Un peu à court	1
+R. Daneel, et déclara	1
+Daneel, et déclara :	1
+Je crois que cela	1
+Dr Sarton plus tôt	1
+Sarton plus tôt qu'on	1
+J'en suis absolument convaincu,	1
+Et je m'aperçois maintenant	1
+Mon cher associé, je	1
+Vous devez être une	1
+Eh bien, arrangez-vous pour	1
+Vous voyez dans quel	1
+Je... je ne comprends	1
+C'est ce que les	1
+Spaciens se sont donné	1
+Dieu le veut, c'est	1
+Ils désirent plus que	1
+Terre et en y	1
+Si le meurtre du	1
+Sarton a pour résultat	1
+Médiévalisme vers la renaissance	1
+Spaciens considéreront probablement que	1
+Elijah a parfaitement raison,	1
+Aideznous, monsieur le commissaire,	1
+Dr Fastolfe et de	1
+Fastolfe et de tous	1
+Bien entendu, si vous	1
+Je pense que vous	1
+Ainsi, je ne serai	1
+Non, si vous nous	1
+Eh bien, c'est entendu,	1
+Je vais le faire	1
+Daneel !... Un accident	1
+Un accident !... J'ai	1
+J'ai fait ce que	1
+Si vous nous aidez	1
+Vous vous en convaincrez	1
+Si vous n'y parvenez	1
+Il hésita un peu,	1
+Allez, et ne péchez	1
+Baley, soudain tout souriant,	1
+R. Daneel vers la	1
