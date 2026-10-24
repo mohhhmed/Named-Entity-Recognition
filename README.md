@@ -1,4 +1,4 @@
-# Pipeline d'Extraction d'Entites Nommees (Corpus Fondation - Isaac Asimov)
+# Named-Entity-Recognition
 
 Ce projet fournit une chaine de traitement automatique du langage naturel (TALN / NLP) dediee a l'identification, la classification et la resolution d'entites nommees (personnages, lieux et variantes d'alias) au sein de textes litteraires.
 
